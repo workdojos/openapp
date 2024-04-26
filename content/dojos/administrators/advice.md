@@ -10,9 +10,9 @@ In terms of qualifications, it is beneficial to have a strong foundation in busi
 
 Overall, a career as an administrator in the administration and book-keeping industry can be very rewarding and fulfilling. With the right skills and qualifications, you can find success and growth in this field. I hope this information has been helpful and wish you the best of luck in your career pursuits.
 
+{{< iframe width="100%" height="58" src="https://letsgoguides.s3.us-west-2.amazonaws.com/administrators/combined.wav_advice.mp3" frameborder="0" style="border:0" >}}
 
-
-{{< iframe width="100%" height="58" src="https://cloud.librarian.live/s/pzCc9z4CWZCXPYS" frameborder="0" style="border:0" >}}
+{ {< audio "https://letsgoguides.s3.us-west-2.amazonaws.com/administrators/combined.wav_advice.mp3" >} }
 
 [next: get started](/dojos/administrators/start)
 
