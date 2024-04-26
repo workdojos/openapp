@@ -11,5 +11,5 @@
   margin-top: -300px;
   font-family: 'Inconsolata', monospace;
   font-size: 18px;
-  line-height: 22px;
+  line-height: 24px;
   font-weight: normal; }
