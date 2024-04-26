@@ -17,6 +17,10 @@ Overall, a career as an administrator in the administration and book-keeping ind
 {{< iframe width="100%" height="58" src="https://letsgoguides.s3.us-west-2.amazonaws.com/administrators/combined.wav_advice.mp3" frameborder="0" style="border:0" >}}
 
 
+{{< img src="/uploads/rosamund.webp" link="https://letsgoguides.s3.us-west-2.amazonaws.com/administrators/combined.wav_advice.mp3" title="Narrated by Rosie" >}}
+
+{{< img src="/uploads/arrow.png" link="https://workdojos.com/administrators/start" title="next: get started" >}}
+
 <figure>
     <a href="https://workdojos.com/administrators/start">
     <img src='/uploads/arrow.png' style="width: 15%;height: 20%;padding: 3px; overflow: hidden;border: none; align="left"; alt='alt'; alt='An orange arrow pointing right';/>
