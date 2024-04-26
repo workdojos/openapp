@@ -5,7 +5,7 @@ theme = "hugo-theme-shell"
 
 [Params]
     [Params.Terminal]
-    schema = "solarized_dark"
+    schema = "monokai"
 
     [Params.Tree]
     use = true
