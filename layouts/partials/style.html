@@ -7,7 +7,7 @@
 {{- $activity_style.Content | safeCSS -}}
 {{ end }}
 
-{{ $terminal_style := resources.Get "sass/white.scss" }}
+{{ $terminal_style := resources.Get "sass/monokai.scss" }}
 {{/*  {{ with (eq .Site.Params.Terminal.scheme "monokai") }} {{- $terminal_style = resources.Get "sass/monokai.scss" | resources.ToCSS | minify -}} {{ end }}  */}}
 {{ with (eq .Site.Params.Terminal.scheme "shell-powershell") }}
     {{- $terminal_style = resources.Get "sass/powershell.scss" | resources.ToCSS | minify -}}
