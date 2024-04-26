@@ -1,12 +1,7 @@
 ---
 title: Advice for Administrators
 description: Making open-source more accessible.
-include_footer: false
-type: page
-layout: single3
 ---
-
-<p>
 To start, I would recommend conducting research into the various career options available within this industry. Some possible roles you could consider include administrative assistants, office managers, and bookkeepers. Each of these positions requires different skills and qualifications, so it is important to consider which would be the best fit for you.
 
 One key aspect to consider when pursuing a career in this industry is the job market trends. It is important to keep in mind that the demand for administrative professionals tends to fluctuate based on the needs of businesses. Currently, the demand for skilled administrators is high in many industries, including healthcare, finance, and education.

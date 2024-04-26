@@ -47,7 +47,7 @@
   # activityDelay = 5 : deprecated
 
   description = """
-  Hi! I am Dojo's AI
+  Hi! I am Dojo's AI.
   Nice to meet you!
   
   """
@@ -65,6 +65,6 @@
     ["Python", "https://www.example.com/"],
     ["Go", "https://golang.org/"],
     ["Hugo", "/post/some-activity.md"],
-    ["Advice", "/dojos/accountexecutive/advice.md"],
-    ["Overview", "/dojos/accountexecutive/overview.md"],
+    ["Advice", "/dojos/administrators/advice.md"],
+    ["Overview", "/dojos/administrators/overview.md"],
   ]
