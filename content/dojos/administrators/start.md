@@ -1,5 +1,5 @@
 ---
-title: Getting Started in the Administration & Book-Keeping  Industry
+title: Getting Started
 description: Making open-source more accessible.
 include_footer: false
 type: page
