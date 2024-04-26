@@ -1,5 +1,5 @@
 body {
-  background: #1b1d1e; }
+  background: #000000; }
   body #terminal {
     color: #bbbbbb; }
   body #user {
