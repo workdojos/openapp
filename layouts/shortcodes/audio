@@ -1,9 +1,6 @@
-<p>
-
-<audio class="player" controls preload="none">
-
-<source src="/mp3/{{ index .Params 0 }}" type="audio/mp3">
-
-</audio>
-
-</p>
+<figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
+    <audio controls preload="{{ .Get "preload" | default "metadata" }}">
+      {{ with .Get "src" }}<source src="{{ . | relURL }}" type="audio/mpeg">{{ end }}
+    </audio>
+    {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+  </figure>
