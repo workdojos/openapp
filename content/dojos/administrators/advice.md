@@ -17,7 +17,7 @@ Overall, a career as an administrator in the administration and book-keeping ind
 {{< iframe width="100%" height="58" src="https://letsgoguides.s3.us-west-2.amazonaws.com/administrators/combined.wav_advice.mp3" frameborder="0" style="border:0" >}}
 
 
-[Link text](https://workdojos.com/administrators/start" "next: get started")
+[next: get started](/dojos/administrators/start)
 
 
 
