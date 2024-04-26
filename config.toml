@@ -5,7 +5,7 @@ theme = "hugo-theme-shell"
 
 [Params]
     [Params.Terminal]
-    schema = "monokai"
+    schema = "solarized_dark"
 
     [Params.Tree]
     use = true
@@ -14,4 +14,5 @@ theme = "hugo-theme-shell"
         ["Python", "https://www.example.com/"],
         ["Go", "/works/go.md"],
         ["Hugo", "/works/hugo.md"]
+        ["Account Executives", "/dojos/accountexecutive/advice.md"]
     ]
