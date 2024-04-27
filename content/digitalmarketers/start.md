@@ -28,5 +28,5 @@ Google Digital Marketing Course: This free course offered by Google covers the b
 I hope this information has gotten you excited about a career as a digital marketer in the marketing industry. Remember, with hard work, dedication, and the right resources, you can achieve great success in this exciting and growing field.
 
 <br>
-<a href="https://workdojos.com/digitalmarketers/learning">next: learning</a>
+<a href="https://insights.workdojos.com/digitalmarketers/learning">next: learning</a>
 </p>

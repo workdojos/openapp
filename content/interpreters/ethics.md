@@ -21,5 +21,5 @@ In developing an ethical framework for starting a career as an interpreter, it w
 Ultimately, the development of an ethical framework for starting a career as an interpreter will depend on the specific values and priorities of the individual in question. By considering the various ethical theories and how they might apply to this context, however, one can begin to develop a comprehensive and coherent ethical framework that will guide one's actions as an interpreter.
 
 <br>
-<a href="https://workdojos.com/interpreters/social">next: social media</a>
+<a href="https://insights.workdojos.com/interpreters/social">next: social media</a>
 </p>

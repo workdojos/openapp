@@ -23,6 +23,6 @@ She also thought about some of the notable physicists who had come before her, s
 As she prepared to go to bed, Maria smiled to herself, knowing that the next day would bring new opportunities to learn and discover, and that she was one step closer to unlocking the secrets of the universe.
 
 <br>
-<a href="https://workdojos.com/physicist/history">next: history</a>
+<a href="https://insights.workdojos.com/physicist/history">next: history</a>
 <br>
 </p>

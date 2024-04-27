@@ -42,5 +42,5 @@ Low-paying or poorly compensated jobs (e.g., unpaid internships, part-time jobs 
 Jobs with long hours and demanding schedules (e.g., touring performers)
 Jobs with high levels of stress or competition (e.g., auditioning for roles)
 <br>
-<a href="https://workdojos.com/thespian/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/thespian/day-in-the-life">next: day in the life</a>
 </p>

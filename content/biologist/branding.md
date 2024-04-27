@@ -18,5 +18,5 @@ To increase conversions, I would focus on creating high-quality content that res
 Finally, I would seek out opportunities for collaboration with other organizations in the biosciences industry, including sharing content and co-hosting events. This could help increase brand awareness and build relationships with key industry influencers.
 
 <br>
-<a href="https://workdojos.com/biologist/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/biologist/ethics">next: ethical framework</a>
 </p>

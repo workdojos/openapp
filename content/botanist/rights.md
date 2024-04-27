@@ -19,5 +19,5 @@ Another issue that has been brought to light in the botany industry is the lack 
 Overall, it is clear that fair work practices in the botany industry are crucial for the success and sustainability of the industry, as well as for the well-being and livelihood of its workers. It is important that we continue to advocate for fair treatment, proper wages, and equal opportunities for all workers in the botany field.
 
 <br>
-<a href="https://workdojos.com/botanist/branding">next: branding</a>
+<a href="https://insights.workdojos.com/botanist/branding">next: branding</a>
 </p>

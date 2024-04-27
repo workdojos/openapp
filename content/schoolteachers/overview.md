@@ -21,5 +21,5 @@ The best jobs in the education industry are those that allow you to make a posit
 Overall, the education industry is a dynamic and rewarding field with numerous opportunities for those looking to make a difference in the lives of students. Whether you are a seasoned professional or just starting out, there are resources and opportunities available to help you succeed in this industry.
 
 <br>
-<a href="https://workdojos.com/schoolteachers/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/schoolteachers/day-in-the-life">next: day in the life</a>
 </p>

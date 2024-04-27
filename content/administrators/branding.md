@@ -18,5 +18,7 @@ If you are interested in learning more about the Administration & book-keeping i
 When it comes to the best and worst jobs in the Administration & book-keeping industry, it is important to consider a variety of factors. Some of the best jobs may include positions that offer a high salary, flexible hours, and the opportunity to work with a diverse group of clients. On the other hand, some of the worst jobs may include positions with long hours, low pay, and limited opportunities for advancement. Ultimately, the best job for you will depend on your personal preferences and career goals.
 
 <br>
-<a href="https://workdojos.com/administrators/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/administrators/ethics">next: ethical framework</a>
 </p>
+
+<br>{{< iframe width="100%" height="400" src="https://insights.workdojos.com" frameborder="0" style="border:0" >}}<br>

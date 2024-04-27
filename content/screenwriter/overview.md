@@ -23,5 +23,5 @@ There are also numerous resources available for those looking to learn more abou
 When it comes to the best and worst jobs in the film industry, it really depends on an individual's interests and skills. Some people may thrive in technical roles such as camera operation or sound design, while others may prefer more creative positions such as writing or directing. Ultimately, the best job in the film industry is one that allows you to use your skills and passions to make a meaningful contribution to the art form.
 
 <br>
-<a href="https://workdojos.com/screenwriter/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/screenwriter/day-in-the-life">next: day in the life</a>
 </p>

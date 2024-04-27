@@ -15,6 +15,6 @@ The word "cannabis," on the other hand, has a somewhat more complex etymology. I
 The meaning of the word "cannabis" has changed somewhat over time. In ancient times, it was primarily used to refer to the hemp plant, but today it is most commonly used to refer to the psychoactive drug that is derived from the plant. This change in meaning is thought to have occurred in the early 20th century, as the use of cannabis as a recreational drug became more widespread. Despite this change in meaning, the word is still sometimes used to refer to the hemp plant itself, particularly in the context of agriculture and the production of hemp-based products.
 
 <br>
-<a href="https://workdojos.com/growers/advice">next: advice</a>
+<a href="https://insights.workdojos.com/growers/advice">next: advice</a>
 <br>
 </p>

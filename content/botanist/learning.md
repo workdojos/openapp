@@ -42,5 +42,5 @@ How do you think your skills and experience make you a good fit for this role?
 
 
 <br>
-<a href="https://workdojos.com/botanist/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/botanist/rights">next: workers' rights</a>
 </p>

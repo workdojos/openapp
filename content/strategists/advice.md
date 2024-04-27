@@ -19,5 +19,5 @@ It's also important to research the job market trends in the consulting industry
 Overall, pursuing a career as a strategist in the consulting industry can be a rewarding and fulfilling choice for those with strong analytical skills and the ability to think strategically. I recommend conducting further research and speaking with professionals in this field to get a better understanding of the day-to-day responsibilities and potential career path.
 
 <br>
-<a href="https://workdojos.com/strategists/start">next: get started</a>
+<a href="https://insights.workdojos.com/strategists/start">next: get started</a>
 </p>

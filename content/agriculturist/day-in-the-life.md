@@ -20,6 +20,6 @@ But as much as John enjoyed thinking about the past, he also knew that there was
 As the sun began to set on another day in the life of John the agriculturist, he couldn't help but feel grateful for the opportunity to do the work he loved. And he knew that, with hard work and determination, he could continue to make a positive impact on the agriculture industry for years to come.
 
 <br>
-<a href="https://workdojos.com/agriculturist/history">next: history</a>
+<a href="https://insights.workdojos.com/agriculturist/history">next: history</a>
 <br>
 </p>

@@ -20,6 +20,6 @@ Throughout history, there have been many notable bartenders who have left their 
 The day in the life of a bartender is never dull, and Tom was grateful to be a part of such a vibrant and dynamic industry. He knew that every day brought new challenges and opportunities, and he was always ready for the next exciting adventure.
 
 <br>
-<a href="https://workdojos.com/bartenders/history">next: history</a>
+<a href="https://insights.workdojos.com/bartenders/history">next: history</a>
 <br>
 </p>

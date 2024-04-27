@@ -22,5 +22,5 @@ To create opportunities for collaboration, we can reach out to other businesses 
 Overall, by consistently creating engaging content and actively engaging with our audience, we can effectively manage your presence on social media to achieve your goals.
 
 <br>
-<a href="https://workdojos.com/baristas/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/baristas/ethics">next: ethical framework</a>
 </p>

@@ -23,6 +23,6 @@ Throughout history, there have been many notable project managers who have made 
 As Sarah sat at her desk at the end of the day, reflecting on all that she had accomplished, she knew that she was part of a long line of dedicated and successful project managers. And she couldn't wait to see what the next day would bring.
 
 <br>
-<a href="https://workdojos.com/projectmanagers/history">next: history</a>
+<a href="https://insights.workdojos.com/projectmanagers/history">next: history</a>
 <br>
 </p>

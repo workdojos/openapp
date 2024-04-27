@@ -19,6 +19,6 @@ In terms of specific careers within the outdoor industry, potential options for 
 Overall, a career as an explorer working in the outdoor industry can be rewarding and exciting for those with a strong passion for the natural world and a desire to work in a hands-on, dynamic environment. It is important to conduct thorough research and consider your skills and experience when determining the best career path for you within this industry.
 
 <br>
-<a href="https://workdojos.com/explorers/website">next: website</a>
+<a href="https://insights.workdojos.com/explorers/website">next: website</a>
 <br>
 </p>

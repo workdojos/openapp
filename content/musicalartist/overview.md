@@ -19,5 +19,5 @@ There are many useful websites and resources that can help those interested in t
 Finally, it is important to consider the best and worst jobs in the music industry. Some of the best jobs in the industry include positions as a successful musician, record producer, or music manager. These roles often offer a high level of creative control and the opportunity to make a significant impact on the music industry. On the other hand, some of the worst jobs in the industry include low-paying internships, unskilled labor positions, and roles that require long hours and high levels of stress. It is important to carefully research and consider the pros and cons of any job before committing to a position in the music industry.
 
 <br>
-<a href="https://workdojos.com/musicalartist/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/musicalartist/day-in-the-life">next: day in the life</a>
 </p>

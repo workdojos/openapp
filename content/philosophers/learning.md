@@ -40,5 +40,5 @@ How do you think philosophy can be applied to real-world problems and issues?
 How do you think your philosophical training and perspective can contribute to the work of our organization?
 
 <br>
-<a href="https://workdojos.com/philosophers/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/philosophers/rights">next: workers' rights</a>
 </p>

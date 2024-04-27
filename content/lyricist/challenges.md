@@ -19,5 +19,5 @@ So, what can be done to address these issues and make it easier for lyricistto f
 Overall, the music industry needs to do more to support and value the work of lyricists. By making it easier for lyricistto find work and receive fair compensation, we can not only improve the lives and careers of those who create the lyrics that make our favorite songs so memorable, but we can also help to ensure the continued success and growth of the music industry as a whole.
 
 <br>
-<a href="https://workdojos.com/lyricist/history">next: history</a>
+<a href="https://insights.workdojos.com/lyricist/history">next: history</a>
 </p>

@@ -45,5 +45,5 @@ How do you approach cultural sensitivity and respect in unfamiliar environments?
 What are your thoughts on environmental sustainability and preservation in the field?
 
 <br>
-<a href="https://workdojos.com/explorers/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/explorers/rights">next: workers' rights</a>
 </p>

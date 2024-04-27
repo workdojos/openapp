@@ -22,5 +22,5 @@ Another trend in the industry is the push for more diverse and inclusive hiring 
 Overall, it is clear that there is still much work to be done to promote fair work practices for graphic designers. However, with the efforts of organizations like the Graphic Artists Guild and the push for more diverse and inclusive hiring practices, we can move towards a more equitable and just industry for all workers.
 
 <br>
-<a href="https://workdojos.com/graphicdesigner/branding">next: branding</a>
+<a href="https://insights.workdojos.com/graphicdesigner/branding">next: branding</a>
 </p>

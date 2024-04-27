@@ -21,5 +21,5 @@ Finally, an ethical photo journalist should also consider the wider impact of th
 In summary, an ethical framework for a photo journalist working in the journalism industry should include honesty and objectivity, accountability and transparency, respect for people and communities, and a commitment to the greater good. By adhering to these principles, a photo journalist can contribute to the public good and uphold the values of professional journalism.
 
 <br>
-<a href="https://workdojos.com/photojournalist/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/photojournalist/rights">next: workers' rights</a>
 </p>

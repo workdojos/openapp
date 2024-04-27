@@ -38,5 +38,5 @@ Collaborate with other scientists or educators and share their content on your b
 Engage with your followers by commenting on their pins and re-pinning their content to your boards.
 
 <br>
-<a href="https://workdojos.com/physicist/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/physicist/startup">next: startup ideas</a>
 </p>

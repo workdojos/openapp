@@ -27,6 +27,6 @@ The concept of "care" also has a long history, with roots in the Old English wor
 Over time, the meaning of "healthcare" has evolved to encompass a wide range of activities and practices, including preventative care, treatment of acute and chronic conditions, and rehabilitation. Today, healthcare encompasses both the individual and societal efforts to maintain and improve health and well-being.
 
 <br>
-<a href="https://workdojos.com/registerednurse/advice">next: advice</a>
+<a href="https://insights.workdojos.com/registerednurse/advice">next: advice</a>
 <br>
 </p>

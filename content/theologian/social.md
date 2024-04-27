@@ -21,5 +21,5 @@ Pinterest: Create Pinterest boards that showcase your expertise in theology and 
 Overall, it's important to be authentic and consistent in your content creation and engagement with followers in order to build trust and credibility in your brand. Best of luck with your new business!
 
 <br>
-<a href="https://workdojos.com/theologian/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/theologian/startup">next: startup ideas</a>
 </p>

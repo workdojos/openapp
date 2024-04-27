@@ -34,5 +34,5 @@ Hospitality Net is a website that offers news, insights, and resources for profe
 I hope these resources help you get excited about a career as a bartender in the exciting and growing bartending and hospitality industry. Remember, there are many perks and benefits to this career, including great earning potential, opportunities for growth and advancement, and the chance to meet and work with diverse and interesting people. Don't be afraid to reach out to others in the industry and ask for advice and guidance as you work towards achieving your goals. You can do it!
 
 <br>
-<a href="https://workdojos.com/bartenders/learning">next: learning</a>
+<a href="https://insights.workdojos.com/bartenders/learning">next: learning</a>
 </p>

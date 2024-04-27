@@ -26,5 +26,5 @@ In terms of qualifications, it is generally helpful to have a bachelor's degree 
 Overall, it sounds like a career as a web designer in the digital services industry could be a good fit for you based on your skills and interests. I recommend conducting further research into the specific tasks and responsibilities of this role, as well as the specific requirements and qualifications that may be required by different employers. Additionally, it may be helpful to reach out to professionals currently working in this field to get their perspective and advice. Good luck in your career search!
 
 <br>
-<a href="https://workdojos.com/webdesigners/start">next: get started</a>
+<a href="https://insights.workdojos.com/webdesigners/start">next: get started</a>
 </p>

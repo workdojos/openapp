@@ -19,5 +19,5 @@ In addition to these specific issues, it is also important to address the overal
 Overall, it is crucial that we stand up for the rights and fair treatment of medical professionals and work towards creating a more equitable and supportive work environment. It is only by working together and advocating for change that we can create a healthcare system that truly serves the needs of both patients and providers.
 
 <br>
-<a href="https://workdojos.com/clinician/branding">next: branding</a>
+<a href="https://insights.workdojos.com/clinician/branding">next: branding</a>
 </p>

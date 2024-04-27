@@ -19,5 +19,5 @@ To learn more about the data science industry, there are several useful websites
 When it comes to the best and worst jobs in the data science industry, it is essential to consider factors such as job satisfaction, salary, and work-life balance. According to a survey by Glassdoor, the top three best jobs in the industry are data engineer, data scientist, and machine learning engineer. On the other hand, the three worst jobs in the industry are data analyst, business intelligence developer, and data entry clerk. Ultimately, the best job for you will depend on your skills, interests, and career goals.
 
 <br>
-<a href="https://workdojos.com/datascientists/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/datascientists/day-in-the-life">next: day in the life</a>
 </p>

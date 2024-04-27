@@ -26,5 +26,5 @@ Engage with your followers by commenting on and repinning their content
 Share valuable content such as industry news, articles, and tips to attract and retain followers
 
 <br>
-<a href="https://workdojos.com/couriers/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/couriers/ethics">next: ethical framework</a>
 </p>

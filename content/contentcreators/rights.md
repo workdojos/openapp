@@ -19,5 +19,5 @@ Additionally, content creators should have the right to fair working conditions,
 In conclusion, fair work practices in the content creation industry are essential for the well-being and success of all content creators. Companies should prioritize fair compensation, transparency, and fair working conditions in order to create a positive and productive work environment.
 
 <br>
-<a href="https://workdojos.com/contentcreators/branding">next: branding</a>
+<a href="https://insights.workdojos.com/contentcreators/branding">next: branding</a>
 </p>

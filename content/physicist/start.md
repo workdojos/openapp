@@ -21,5 +21,5 @@ There are also plenty of resources available for those interested in pursuing a 
 So don't let any doubts or fears hold you back from pursuing your dream of becoming a physicist! With hard work, determination, and the right resources, you can succeed in this exciting and rewarding field. Good luck!
 
 <br>
-<a href="https://workdojos.com/physicist/learning">next: learning</a>
+<a href="https://insights.workdojos.com/physicist/learning">next: learning</a>
 </p>

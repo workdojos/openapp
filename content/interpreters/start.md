@@ -21,5 +21,5 @@ If you want to learn more about the translation & interpretation industry and ge
 Finally, don't forget to stay motivated and inspired as you embark on your journey to becoming a interpreter. Remember that this is a rewarding and exciting career path with lots of potential for personal and professional growth. Keep learning, stay positive, and always strive to be the best interpreter you can be!
 
 <br>
-<a href="https://workdojos.com/interpreters/learning">next: learning</a>
+<a href="https://insights.workdojos.com/interpreters/learning">next: learning</a>
 </p>

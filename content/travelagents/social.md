@@ -23,5 +23,5 @@ On Pinterest, I will be creating boards filled with travel inspiration, packing 
 I can't wait to connect with all of you and help you plan your dream vacations! Please follow me on Instagram, Twitter, Youtube, and Pinterest to stay updated on my campaign and my new business. Thank you for your support!
 
 <br>
-<a href="https://workdojos.com/travelagents/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/travelagents/startup">next: startup ideas</a>
 </p>

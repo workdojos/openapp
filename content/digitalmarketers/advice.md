@@ -18,5 +18,5 @@ To pursue a career as a digital marketer, it would be beneficial to earn a degre
 Overall, I believe that a career as a digital marketer in the marketing industry is a great choice for individuals with strong communication and analytical skills, a keen interest in marketing, and a desire to adapt to changing technologies and trends. With the right education and experience, you can excel in this field and enjoy a rewarding and successful career.
 
 <br>
-<a href="https://workdojos.com/digitalmarketers/start">next: get started</a>
+<a href="https://insights.workdojos.com/digitalmarketers/start">next: get started</a>
 </p>

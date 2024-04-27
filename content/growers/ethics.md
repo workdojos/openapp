@@ -17,5 +17,5 @@ Another important ethical consideration might be the potential impacts on indivi
 Overall, it is clear that starting a career in the cannabis industry involves a number of complex ethical considerations, and it will be important to carefully consider these issues in order to develop a strong and coherent ethical framework. So, it is always better to do some research and analysis before starting any career.
 
 <br>
-<a href="https://workdojos.com/growers/social">next: social media</a>
+<a href="https://insights.workdojos.com/growers/social">next: social media</a>
 </p>

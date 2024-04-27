@@ -23,5 +23,5 @@ Collaborate with other organizations and influencers in the graphic design and g
 By implementing these strategies, you can effectively increase brand awareness, recruit followers, drive traffic to your website, and create opportunities for collaboration within the industry.
 
 <br>
-<a href="https://workdojos.com/graphicdesigner/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/graphicdesigner/ethics">next: ethical framework</a>
 </p>

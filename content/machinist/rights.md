@@ -20,5 +20,5 @@ There have also been numerous events in the machining industry that highlight th
 In conclusion, fair work practices in the machining industry are essential for the well-being and success of machinists. This includes fair wages, job security, and the opportunity to learn and advance in the industry. It is crucial that machinists are given the support and protection they need to ensure that they are treated fairly and valued for their contributions. By promoting worker's rights and fair treatment, we can create a more equitable and successful industry for all.
 
 <br>
-<a href="https://workdojos.com/machinist/branding">next: branding</a>
+<a href="https://insights.workdojos.com/machinist/branding">next: branding</a>
 </p>

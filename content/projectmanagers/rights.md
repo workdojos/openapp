@@ -18,5 +18,5 @@ In addition to the gig economy trend, there have been several recent events that
 In conclusion, fair work practices are essential for project managers working in the broader business industry. Recent trends and events have highlighted the need for worker’s rights, fair treatment, and proper wages. Project managers must take a stand for these values and work to create a more equitable and just workplace.``
 
 <br>
-<a href="https://workdojos.com/projectmanagers/branding">next: branding</a>
+<a href="https://insights.workdojos.com/projectmanagers/branding">next: branding</a>
 </p>

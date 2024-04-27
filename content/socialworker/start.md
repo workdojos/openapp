@@ -28,5 +28,5 @@ The Bureau of Labor Statistics: https://www.bls.gov/ooh/community-and-social-ser
 And remember, as a social worker in the behavioral health industry, you have the potential to make a huge positive impact on the lives of others. So get excited and embrace the opportunities that this career has to offer!
 
 <br>
-<a href="https://workdojos.com/socialworker/learning">next: learning</a>
+<a href="https://insights.workdojos.com/socialworker/learning">next: learning</a>
 </p>

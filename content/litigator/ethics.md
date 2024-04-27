@@ -27,5 +27,5 @@ Develop a clear set of ethical guidelines for yourself that outline how you will
 Overall, developing an ethical framework for starting a career as a litigator requires a commitment to upholding the ethical principles of the legal profession, seeking guidance and education on legal ethics, and reflecting on your own values and beliefs. So, this will help you to navigate ethical challenges that may arise in your career and to make ethical decisions that are consistent with your personal values and beliefs.
 
 <br>
-<a href="https://workdojos.com/litigator/social">next: social media</a>
+<a href="https://insights.workdojos.com/litigator/social">next: social media</a>
 </p>

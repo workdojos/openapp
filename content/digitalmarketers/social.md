@@ -20,5 +20,5 @@ Pinterest: Create a Pinterest board specifically for digital marketing tips and 
 Overall, the key to a successful social media campaign is to consistently create valuable and engaging content, and to actively engage with your followers and other influencers in the industry. Good luck with your new business!
 
 <br>
-<a href="https://workdojos.com/digitalmarketers/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/digitalmarketers/startup">next: startup ideas</a>
 </p>

@@ -35,5 +35,5 @@ Use relevant hashtags to increase your reach and engage with other physical ther
 Overall, the key to a successful campaign is to consistently share engaging and informative content that showcases your expertise and the value of your physical therapy services. Don't forget to respond to comments and direct messages to build a personal connection with your followers and show that you care about their needs.
 
 <br>
-<a href="https://workdojos.com/physicaltherapist/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/physicaltherapist/startup">next: startup ideas</a>
 </p>

@@ -21,6 +21,6 @@ Throughout history, there have been many notable jewelers who have made a name f
 As the sun began to set on Jean-Baptiste's workshop, he would pack up his tools and head home, content in the knowledge that he had created something truly special that day. And so, the day in the life of a jeweler comes to a close, with the promise of a new day filled with endless creative possibilities.
 
 <br>
-<a href="https://workdojos.com/jeweler/history">next: history</a>
+<a href="https://insights.workdojos.com/jeweler/history">next: history</a>
 <br>
 </p>

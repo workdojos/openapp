@@ -19,6 +19,6 @@ As Sarah delved deeper into the world of theology, she began to see how it inter
 Despite the challenges, Sarah remained devoted to her work and continued to study and teach others about the power of faith. And through her dedication and hard work, she became one of the most respected theologians in her community, helping to spread the word of God to others and bringing hope and healing to those who needed it most.
 
 <br>
-<a href="https://workdojos.com/theologian/history">next: history</a>
+<a href="https://insights.workdojos.com/theologian/history">next: history</a>
 <br>
 </p>

@@ -21,5 +21,5 @@ Pinterest: Create Pinterest boards featuring quotes, tips, and resources related
 Overall, the key is to consistently create engaging content that adds value to your followers and helps them see the benefits of working with a life coach. Consider offering promotions or discounts to followers who engage with your content and encourage them to share it with their own followers.
 
 <br>
-<a href="https://workdojos.com/lifecoaches/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/lifecoaches/startup">next: startup ideas</a>
 </p>

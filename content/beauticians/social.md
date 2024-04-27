@@ -20,5 +20,5 @@ Pinterest: Create boards featuring your beauty products and treatments, as well 
 Remember to always use hashtags and tag relevant accounts in your posts to increase visibility and reach. Engage with your followers by responding to comments and messages, and consider running a contest or giveaway to increase engagement and drive traffic to your business.
 
 <br>
-<a href="https://workdojos.com/beauticians/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/beauticians/startup">next: startup ideas</a>
 </p>

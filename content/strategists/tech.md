@@ -19,6 +19,6 @@ In addition to the benefits for consultants and their clients, the adoption of o
 In conclusion, the consulting industry has the potential to greatly benefit from the adoption of open-source technology, both for its own success and for the success of small businesses. By embracing this technology, consultants can demonstrate their commitment to cost-effectiveness and transparency, while also helping small businesses thrive in a strong economy.
 
 <br>
-<a href="https://workdojos.com/strategists/website">next: website</a>
+<a href="https://insights.workdojos.com/strategists/website">next: website</a>
 <br>
 </p>

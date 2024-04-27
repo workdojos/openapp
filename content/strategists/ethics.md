@@ -17,5 +17,5 @@ Based on these considerations, I would then consider various ethical theories an
 Ultimately, the ethical framework for a career as a strategist in the consulting industry should be guided by a commitment to fairness, honesty, and transparency, with a focus on balancing the interests of all stakeholders and promoting the greater good. It may also be important to consider the ethical implications of the specific actions and decisions made by the strategist, and to develop a code of conduct or set of guiding principles to help ensure that ethical considerations are integrated into all aspects of the consulting process.
 
 <br>
-<a href="https://workdojos.com/strategists/social">next: social media</a>
+<a href="https://insights.workdojos.com/strategists/social">next: social media</a>
 </p>

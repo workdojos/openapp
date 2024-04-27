@@ -20,5 +20,5 @@ In addition to these trends, there have also been several events in recent years
 Overall, it is clear that fair work practices are essential for all workers in the legal industry. We must take steps to ensure that all workers are treated fairly, given the support and resources they need to thrive in their careers, and protected from discrimination and harassment. By promoting worker’s rights, fair treatment, and proper wages, we can create a more just and equitable society for all.
 
 <br>
-<a href="https://workdojos.com/litigator/branding">next: branding</a>
+<a href="https://insights.workdojos.com/litigator/branding">next: branding</a>
 </p>

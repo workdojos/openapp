@@ -45,5 +45,5 @@ The Association for Operations Management (APICS): This organization offers reso
 As for the best and worst jobs in the supply chain industry, it really depends on your interests and skills. Some people may enjoy the challenges and rewards of jobs that involve a lot of travel or working with cutting-edge technology, while others may prefer more stable, office-based jobs. Some of the best jobs in the supply chain industry might include logistics manager, supply chain analyst, and procurement manager, while some of the worst jobs might include physically demanding jobs, such as warehouse worker or truck driver. Ultimately, it's important to find a job that aligns with your interests and skills, and that provides a good work-life balance.
 
 <br>
-<a href="https://workdojos.com/couriers/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/couriers/day-in-the-life">next: day in the life</a>
 </p>

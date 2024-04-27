@@ -19,6 +19,6 @@ For physical therapists looking to thrive in the industry, it's important to sta
 Overall, the physical therapy industry has much to gain from the adoption of open-source technology and the support of small businesses. By embracing these innovations and working together, physical therapists can provide the best possible care for their clients and create a thriving and sustainable industry.
 
 <br>
-<a href="https://workdojos.com/physicaltherapist/website">next: website</a>
+<a href="https://insights.workdojos.com/physicaltherapist/website">next: website</a>
 <br>
 </p>

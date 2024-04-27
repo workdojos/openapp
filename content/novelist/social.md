@@ -21,5 +21,5 @@ Finally, on Pinterest, you can create boards for your writing business and pin i
 Overall, the key to a successful social media campaign is to be consistent and engaging, and to utilize the unique features and functions of each platform to your advantage. Good luck with your new business, and I hope these suggestions are helpful!
 
 <br>
-<a href="https://workdojos.com/novelist/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/novelist/startup">next: startup ideas</a>
 </p>

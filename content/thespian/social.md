@@ -19,5 +19,5 @@ Youtube: Create a YouTube channel featuring vlogs and tutorials on your work as 
 Pinterest: Create a Pinterest board featuring images of your performances, as well as inspiration for aspiring thespians. Share quotes from famous actors and directors, and create boards on different aspects of the performing arts industry. Engage with your followers by asking them to share their own inspiration and ideas for the board.
 
 <br>
-<a href="https://workdojos.com/thespian/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/thespian/startup">next: startup ideas</a>
 </p>

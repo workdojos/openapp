@@ -18,5 +18,5 @@ In order to make it easier for college professorto find work, we need to focus o
 Overall, it is clear that the higher education industry is facing numerous challenges, and it is up to all of us to work together to address these issues. By paying college professors more, making it easier for them to find work, and investing in the higher education industry, we can create a better future for everyone.
 
 <br>
-<a href="https://workdojos.com/collegeprofessor/history">next: history</a>
+<a href="https://insights.workdojos.com/collegeprofessor/history">next: history</a>
 </p>

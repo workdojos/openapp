@@ -19,5 +19,5 @@ In terms of qualifications, a bachelor's degree in a finance-related field is ty
 Overall, pursuing a career as an investment banker requires a strong foundation in finance and a dedication to ongoing education and professional development. It is a competitive field, but those who are willing to put in the work and have the necessary skills and qualifications can find success in this rewarding industry.
 
 <br>
-<a href="https://workdojos.com/investmentbanker/start">next: get started</a>
+<a href="https://insights.workdojos.com/investmentbanker/start">next: get started</a>
 </p>

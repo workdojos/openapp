@@ -19,5 +19,5 @@ In terms of other potential career options within the education industry, there 
 Overall, teaching can be a rewarding and fulfilling career for those who are passionate about education and have the necessary skills and qualifications. It is important to carefully consider the individual's interests, skills, and experience when advising them on potential career options within the education industry.
 
 <br>
-<a href="https://workdojos.com/schoolteachers/start">next: get started</a>
+<a href="https://insights.workdojos.com/schoolteachers/start">next: get started</a>
 </p>

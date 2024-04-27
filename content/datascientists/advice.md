@@ -18,5 +18,5 @@ In terms of qualifications, a bachelor's degree in a related field such as compu
 Overall, a career in data science can be highly rewarding and offers a wide range of opportunities for professionals with the right skills and experience. With a strong foundation in programming languages, statistical analysis, data visualization, and machine learning, and a clear interest in working with data, you have the potential to be successful in this field. Consider pursuing additional education or certifications to increase your marketability and competitiveness in the job market, and research the job market trends in different industries to determine the best fit for you.
 
 <br>
-<a href="https://workdojos.com/datascientists/start">next: get started</a>
+<a href="https://insights.workdojos.com/datascientists/start">next: get started</a>
 </p>

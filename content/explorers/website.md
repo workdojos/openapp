@@ -27,6 +27,6 @@ Overall, open-source technology can provide a cost-effective and customizable so
 
 <br>
 
-<a href="https://workdojos.com/explorers/overview">next: overview</a>
+<a href="https://insights.workdojos.com/explorers/overview">next: overview</a>
 <br>
 </p>

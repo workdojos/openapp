@@ -44,5 +44,5 @@ How do you manage pests and diseases in a sustainable way?
 How do you ensure that your plants are getting the right amount of light, water, and nutrients?
 
 <br>
-<a href="https://workdojos.com/growers/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/growers/rights">next: workers' rights</a>
 </p>

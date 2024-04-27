@@ -23,6 +23,6 @@ As the sun began to set, Jackie returned home exhausted but fulfilled. She knew 
 The end.
 
 <br>
-<a href="https://workdojos.com/screenwriter/history">next: history</a>
+<a href="https://insights.workdojos.com/screenwriter/history">next: history</a>
 <br>
 </p>

@@ -20,5 +20,5 @@ Given these challenges, it is imperative that we take action to promote fair wor
 In conclusion, as theologians working in the religious organizations industry, we have a unique opportunity and responsibility to promote fair work practices and support the well-being of our fellow workers. By standing up for justice and equality, we can create a more just and equitable society, and live out the values and principles that we hold dear.
 
 <br>
-<a href="https://workdojos.com/theologian/branding">next: branding</a>
+<a href="https://insights.workdojos.com/theologian/branding">next: branding</a>
 </p>

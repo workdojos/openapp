@@ -21,5 +21,5 @@ Some of the best jobs to have in the luxury goods industry include brand manager
 On the other hand, some of the worst jobs to have in the luxury goods industry include those with low pay and few advancement opportunities, as well as positions that require long hours and high levels of stress. It is important to research and consider the potential drawbacks of any job in the luxury goods industry before accepting a position.
 
 <br>
-<a href="https://workdojos.com/jeweler/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/jeweler/day-in-the-life">next: day in the life</a>
 </p>

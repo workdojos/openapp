@@ -16,5 +16,5 @@ Another approach might be to consider the concept of social justice, which sugge
 Ultimately, developing an ethical framework for starting a career as a content creator will likely involve a combination of these and other philosophical ideas, as well as a deep reflection on one's own values and beliefs. By engaging in this process, one can develop a set of guiding principles that will help them to create content that is meaningful, impactful, and ethical.
 
 <br>
-<a href="https://workdojos.com/contentcreators/social">next: social media</a>
+<a href="https://insights.workdojos.com/contentcreators/social">next: social media</a>
 </p>

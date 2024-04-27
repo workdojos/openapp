@@ -21,5 +21,5 @@ In terms of the best and worst jobs to have in the financial services industry, 
 In conclusion, the financial services industry offers a wide range of exciting career opportunities for those with the right skills and qualifications. By networking, staying up-to-date with industry trends, and being proactive in seeking out new opportunities, individuals can find fulfilling and rewarding careers in this dynamic and rapidly growing field.
 
 <br>
-<a href="https://workdojos.com/investmentbanker/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/investmentbanker/day-in-the-life">next: day in the life</a>
 </p>

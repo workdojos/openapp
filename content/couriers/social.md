@@ -22,5 +22,5 @@ Utilize Instagram and Pinterest to share visually appealing content, such as ima
 By implementing these strategies, you can create an engaging social media campaign that will help to promote your courier business and attract new customers.
 
 <br>
-<a href="https://workdojos.com/couriers/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/couriers/startup">next: startup ideas</a>
 </p>

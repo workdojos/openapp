@@ -22,6 +22,6 @@ As the day came to a close, Emily reflected on all that she had accomplished. Sh
 The end.
 
 <br>
-<a href="https://workdojos.com/digitalmarketers/history">next: history</a>
+<a href="https://insights.workdojos.com/digitalmarketers/history">next: history</a>
 <br>
 </p>

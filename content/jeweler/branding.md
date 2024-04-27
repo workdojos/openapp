@@ -23,5 +23,5 @@ Engage with our audience: An important part of social media management is engagi
 Overall, the goal of these campaigns and strategies is to increase brand awareness, recruit followers, drive traffic to our website, and make opportunities for collaboration with others in the luxury goods industry. I believe that by implementing these strategies, we can effectively manage our social media presence and achieve our goals.
 
 <br>
-<a href="https://workdojos.com/jeweler/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/jeweler/ethics">next: ethical framework</a>
 </p>

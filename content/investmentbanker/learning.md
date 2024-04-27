@@ -42,5 +42,5 @@ Can you explain a recent financial transaction or deal that you found interestin
 How do you stay up-to-date on industry trends and developments?
 
 <br>
-<a href="https://workdojos.com/investmentbanker/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/investmentbanker/rights">next: workers' rights</a>
 </p>

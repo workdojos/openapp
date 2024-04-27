@@ -21,5 +21,5 @@ There are also many resources available to help you learn more about the life co
 So, if you're excited about the potential for a fulfilling and successful career as a life coach, don't let anything hold you back. With the right mindset and dedication, you can make your dreams a reality. Go out there and make a difference in people's lives!
 
 <br>
-<a href="https://workdojos.com/lifecoaches/learning">next: learning</a>
+<a href="https://insights.workdojos.com/lifecoaches/learning">next: learning</a>
 </p>

@@ -22,6 +22,6 @@ Another notable clinician was Dr. Elizabeth Blackwell, who was the first woman t
 The medical industry is filled with hardworking and dedicated clinicians like Dr. Maria and the notable figures of the past. They work tirelessly to heal the sick and save lives, and their efforts are truly admirable.
 
 <br>
-<a href="https://workdojos.com/clinician/history">next: history</a>
+<a href="https://insights.workdojos.com/clinician/history">next: history</a>
 <br>
 </p>

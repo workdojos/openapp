@@ -25,6 +25,6 @@ The concept of digital services has become increasingly important in recent year
 Over time, the meaning of the term "digital services" has evolved to include not only services that are provided through digital means, but also services that are enabled by digital technology, such as data analytics, cloud computing, and cybersecurity.
 
 <br>
-<a href="https://workdojos.com/webdesigners/advice">next: advice</a>
+<a href="https://insights.workdojos.com/webdesigners/advice">next: advice</a>
 <br>
 </p>

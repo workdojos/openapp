@@ -17,6 +17,6 @@ The word "outdoor" is derived from the Old English word "ūtweard," which means 
 Over time, the word "outdoor" has come to be associated with activities or events that take place outside or in natural surroundings, rather than inside a building or other enclosed space. This is likely because many outdoor activities involve being outside and in nature, rather than being inside. In modern English, an outdoor activity is typically one that takes place outside or in a natural setting, such as hiking, camping, or playing sports.
 
 <br>
-<a href="https://workdojos.com/explorers/advice">next: advice</a>
+<a href="https://insights.workdojos.com/explorers/advice">next: advice</a>
 <br>
 </p>

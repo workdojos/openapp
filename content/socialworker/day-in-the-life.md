@@ -25,6 +25,6 @@ Throughout history, there have been many notable social workers who have made a 
 Maria was grateful to be able to carry on the legacy of these and other social workers, and she knew that her work made a difference in the world.
 
 <br>
-<a href="https://workdojos.com/socialworker/history">next: history</a>
+<a href="https://insights.workdojos.com/socialworker/history">next: history</a>
 <br>
 </p>

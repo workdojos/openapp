@@ -19,5 +19,5 @@ In terms of qualifications, there are a number of certifications and degrees tha
 Overall, pursuing a career as a travel agent or in the travel and tours industry can be a rewarding and exciting path, with a wide range of roles and opportunities available. By conducting research, considering your skills and interests, and exploring the job market trends and qualifications in the field, you can make an informed decision about which career path is right for you.
 
 <br>
-<a href="https://workdojos.com/travelagents/start">next: get started</a>
+<a href="https://insights.workdojos.com/travelagents/start">next: get started</a>
 </p>

@@ -21,5 +21,5 @@ Use positive affirmations to stay motivated: It's important to stay motivated an
 I hope these strategies are helpful in helping you achieve your goal of learning more about the perks and benefits of working as a school teacher in the education industry. Best of luck on your journey!
 
 <br>
-<a href="https://workdojos.com/schoolteachers/learning">next: learning</a>
+<a href="https://insights.workdojos.com/schoolteachers/learning">next: learning</a>
 </p>

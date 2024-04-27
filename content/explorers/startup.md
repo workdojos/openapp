@@ -75,5 +75,5 @@ Ensuring the platform remains relevant and useful to users over time
 Managing the financial sustainability of the business.
 
 <br>
-<a href="https://workdojos.com/explorers/tech">next: open-source tech</a>
+<a href="https://insights.workdojos.com/explorers/tech">next: open-source tech</a>
 </p>

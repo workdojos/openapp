@@ -19,5 +19,5 @@ In terms of qualifications, it is important for photojournalists to have strong 
 Overall, a career as a photojournalist in the journalism, news, and media industry can be fulfilling and rewarding for those with a passion for storytelling and visual content. It is a field that requires strong technical skills and an ability to adapt to new platforms and technologies. By gaining experience and qualifications in journalism and photography, you can increase your chances of success in this field.
 
 <br>
-<a href="https://workdojos.com/photojournalist/start">next: get started</a>
+<a href="https://insights.workdojos.com/photojournalist/start">next: get started</a>
 </p>

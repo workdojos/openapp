@@ -21,5 +21,5 @@ As for qualifications, a bachelor's degree in a business-related field is typica
 Overall, pursuing a career as a project manager in the broader business industry may be a rewarding and challenging path for you based on your skills and interests. It is important to continue to develop your skills, gain relevant experience, and network with professionals in the industry to increase your chances of success in this field.
 
 <br>
-<a href="https://workdojos.com/projectmanagers/start">next: get started</a>
+<a href="https://insights.workdojos.com/projectmanagers/start">next: get started</a>
 </p>

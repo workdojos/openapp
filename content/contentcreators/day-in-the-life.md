@@ -20,6 +20,6 @@ Another notable content creator was Hildegard von Bingen, a twelfth-century nun 
 As Sarah continued to create content, she dreamed of one day joining the ranks of these great figures. She knew that it wouldn't be easy, but she was determined to make a name for herself in the world of content creation. And with her talent and hard work, she knew that she could make it happen.
 
 <br>
-<a href="https://workdojos.com/contentcreators/history">next: history</a>
+<a href="https://insights.workdojos.com/contentcreators/history">next: history</a>
 <br>
 </p>

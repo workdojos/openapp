@@ -18,5 +18,5 @@ To increase your chances of success in this career, it would be beneficial to ob
 Overall, a career as a bartender can be rewarding and exciting, but it does require hard work and dedication. If you are willing to put in the effort and have a passion for the hospitality industry, it could be a great career path for you.
 
 <br>
-<a href="https://workdojos.com/bartenders/start">next: get started</a>
+<a href="https://insights.workdojos.com/bartenders/start">next: get started</a>
 </p>

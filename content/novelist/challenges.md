@@ -19,5 +19,5 @@ In addition to these challenges, the writing and publishing industry has faced c
 Overall, the writing and publishing industry has a lot of room for improvement. By addressing issues such as plagiarism and copyright infringement, supporting writers in their journey to get published, and prioritizing the well-being and success of authors, we can create a more fair and sustainable industry for all.
 
 <br>
-<a href="https://workdojos.com/novelist/history">next: history</a>
+<a href="https://insights.workdojos.com/novelist/history">next: history</a>
 </p>

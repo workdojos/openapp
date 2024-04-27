@@ -21,6 +21,6 @@ Small businesses will also play a significant role in the future of the public s
 In conclusion, the public service industry is vital to the well-being of any community, and the use of open-source technology can help to ensure that it is efficient and effective. Firefighters and small businesses will play integral roles in the future of this industry, and by supporting them, we can help to build a stronger, more prosperous society.
 
 <br>
-<a href="https://workdojos.com/firefighters/website">next: website</a>
+<a href="https://insights.workdojos.com/firefighters/website">next: website</a>
 <br>
 </p>

@@ -26,5 +26,5 @@ The National Association of Small Package and Courier Services (www.naspscs.org)
 I hope these resources are helpful and that you are feeling excited about the potential of a career as a courier in the supply-chain industry. Remember, with hard work, dedication, and a positive attitude, you can achieve anything you set your mind to!
 
 <br>
-<a href="https://workdojos.com/couriers/learning">next: learning</a>
+<a href="https://insights.workdojos.com/couriers/learning">next: learning</a>
 </p>

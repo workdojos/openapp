@@ -24,6 +24,6 @@ The phrase "special events" is a relatively modern term, but it is derived from 
 Over time, the meaning of the phrase has broadened to include any event that is planned and organized for a specific purpose or occasion, such as weddings, concerts, festivals, and corporate events. These events are often characterized by their unique themes, venues, and activities, and are often intended to be memorable or noteworthy in some way.
 
 <br>
-<a href="https://workdojos.com/exhibitionist/advice">next: advice</a>
+<a href="https://insights.workdojos.com/exhibitionist/advice">next: advice</a>
 <br>
 </p>

@@ -17,6 +17,6 @@ The term "business" is derived from the Old English word "bisignis", which means
 In modern usage, the term "project manager" refers to a person who is responsible for planning, organizing, and managing a specific project or set of projects. The term "business" refers to the activities or affairs related to the production, distribution, and consumption of goods and services. Both terms have evolved over time, with the meaning of "project manager" becoming more specialized and the meaning of "business" becoming more broad and encompassing.
 
 <br>
-<a href="https://workdojos.com/projectmanagers/advice">next: advice</a>
+<a href="https://insights.workdojos.com/projectmanagers/advice">next: advice</a>
 <br>
 </p>

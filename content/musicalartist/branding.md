@@ -19,5 +19,5 @@ To drive traffic to the organization's website, I would include links to relevan
 Finally, I would use analytics tools to measure the success of my campaigns and make data-driven decisions to continually improve and grow the organization's social media presence.
 
 <br>
-<a href="https://workdojos.com/musicalartist/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/musicalartist/ethics">next: ethical framework</a>
 </p>

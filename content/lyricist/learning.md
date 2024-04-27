@@ -46,5 +46,5 @@ How do you balance being creative and meeting the needs of the artist or produce
 How do you protect your work and ensure you are being fairly compensated for your lyrics?
 
 <br>
-<a href="https://workdojos.com/lyricist/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/lyricist/rights">next: workers' rights</a>
 </p>

@@ -20,6 +20,6 @@ Ultimately, the best choice for your business will depend on your specific needs
 
 <br>
 
-<a href="https://workdojos.com/administrators/overview">next: overview</a>
+<a href="https://insights.workdojos.com/administrators/overview">next: overview</a>
 <br>
 </p>

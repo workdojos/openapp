@@ -17,5 +17,5 @@ With these principles and theories in mind, I would then consider the specific e
 Based on this analysis, I would then propose an ethical framework for starting a career as a school teacher, outlining the guiding principles and values that should inform decision-making, as well as specific strategies and actions that can be taken to promote ethical practice in the education industry. This framework could be used as a guide for personal reflection and decision-making, as well as a resource for ongoing professional development and ethical growth.
 
 <br>
-<a href="https://workdojos.com/schoolteachers/social">next: social media</a>
+<a href="https://insights.workdojos.com/schoolteachers/social">next: social media</a>
 </p>

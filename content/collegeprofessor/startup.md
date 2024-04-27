@@ -36,5 +36,5 @@ Estimated 1st Year Cost of Operation: $50,000 - $100,000
 Potential Business Challenges: Competition from similar platforms, difficulty in acquiring and retaining customers, difficulties in scaling the business.
 
 <br>
-<a href="https://workdojos.com/collegeprofessor/tech">next: open-source tech</a>
+<a href="https://insights.workdojos.com/collegeprofessor/tech">next: open-source tech</a>
 </p>

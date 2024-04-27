@@ -34,5 +34,5 @@ Use relevant hashtags such as #cannabisculture and #cannabisrecipes to reach a w
 Overall, the key to success in promoting your business on social media is to consistently share engaging and informative content, and to actively engage with your followers. Good luck with your campaign!
 
 <br>
-<a href="https://workdojos.com/growers/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/growers/startup">next: startup ideas</a>
 </p>

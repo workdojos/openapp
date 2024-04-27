@@ -19,5 +19,5 @@ Virtue ethics: This theory emphasizes the importance of developing and cultivati
 One way to develop an ethical framework for a career as a novelist would be to consider how these different ethical theories might apply in this context, and choose the one that seems to align most closely with your values and goals. You could also consider the specific ethical challenges that you might face as a writer and publisher, and think about how you can address them in a way that is consistent with your ethical framework.
 
 <br>
-<a href="https://workdojos.com/novelist/social">next: social media</a>
+<a href="https://insights.workdojos.com/novelist/social">next: social media</a>
 </p>

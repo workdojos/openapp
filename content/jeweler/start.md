@@ -21,5 +21,5 @@ Embrace a positive and proactive attitude: As you work towards your goal of lear
 I hope these strategies help you achieve your goal and get excited about a career as a jeweler in the luxury goods industry!
 
 <br>
-<a href="https://workdojos.com/jeweler/learning">next: learning</a>
+<a href="https://insights.workdojos.com/jeweler/learning">next: learning</a>
 </p>

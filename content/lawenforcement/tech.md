@@ -19,6 +19,6 @@ However, it's not just large agencies that should be utilizing open-source techn
 In order to thrive in the protective services industry, it's important for both individuals and businesses to adapt to new technologies and stay current with the changing landscape. By embracing open-source technology, we can create a more efficient and effective system that serves and protects our communities.
 
 <br>
-<a href="https://workdojos.com/lawenforcement/website">next: website</a>
+<a href="https://insights.workdojos.com/lawenforcement/website">next: website</a>
 <br>
 </p>

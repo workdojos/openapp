@@ -18,5 +18,5 @@ YouTube: Create videos showcasing your work as a botanist and offering tips and 
 Pinterest: Create boards featuring beautiful images of plants, flowers, and botanical gardens, and share your own photos of your work as a botanist. Offer tips and insights on plant care and create boards with ideas for indoor and outdoor gardens. Engage with other Pinterest users by commenting on their pins and repinning their content to your own boards.
 
 <br>
-<a href="https://workdojos.com/botanist/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/botanist/startup">next: startup ideas</a>
 </p>

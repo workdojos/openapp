@@ -41,5 +41,5 @@ How do you stay up-to-date on travel trends and destinations?
 What resources do you use to book travel for your clients?
 
 <br>
-<a href="https://workdojos.com/travelagents/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/travelagents/rights">next: workers' rights</a>
 </p>

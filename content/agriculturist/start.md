@@ -22,5 +22,5 @@ Share your passion for agriculturism with others. One of the best ways to get ot
 Remember, starting a startup can be challenging, but with hard work, dedication, and the right resources, you can achieve your goals and make a positive impact in the agriculture industry. Keep pushing forward and believe in yourself!
 
 <br>
-<a href="https://workdojos.com/agriculturist/learning">next: learning</a>
+<a href="https://insights.workdojos.com/agriculturist/learning">next: learning</a>
 </p>

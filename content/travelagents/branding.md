@@ -27,5 +27,5 @@ Create engaging content: Use a variety of content formats such as photos, videos
 Overall, I would focus on building a strong presence on social media through consistent, engaging content and active community management. This will help increase brand awareness, recruit followers, drive traffic to your website, and ultimately lead to increased conversions.
 
 <br>
-<a href="https://workdojos.com/travelagents/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/travelagents/ethics">next: ethical framework</a>
 </p>

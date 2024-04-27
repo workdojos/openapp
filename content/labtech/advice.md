@@ -17,5 +17,5 @@ In terms of qualifications, a bachelor's degree in a related field such as biolo
 Overall, a career as a lab tech can be a rewarding and fulfilling choice for individuals with an interest in science and technology and a desire to work in a laboratory setting. It is important to keep in mind that the job market in this industry may vary depending on location, and it may be beneficial to consider obtaining additional qualifications to increase the chances of securing employment in this field.
 
 <br>
-<a href="https://workdojos.com/labtech/start">next: get started</a>
+<a href="https://insights.workdojos.com/labtech/start">next: get started</a>
 </p>

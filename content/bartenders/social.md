@@ -35,5 +35,5 @@ Collaborate with other influencers or brands in the bartending and hospitality i
 Share infographics or "how-to" guides related to cocktail making or bartending, to provide valuable information to followers.
 
 <br>
-<a href="https://workdojos.com/bartenders/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/bartenders/startup">next: startup ideas</a>
 </p>

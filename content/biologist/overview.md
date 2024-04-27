@@ -21,5 +21,5 @@ However, it's important to note that not all jobs in the biosciences industry ar
 Overall, the biosciences industry is a dynamic and rewarding field with numerous opportunities for those interested in pursuing a career in the sciences. With the right education, experience, and network, individuals can find a fulfilling and exciting job in this industry.
 
 <br>
-<a href="https://workdojos.com/biologist/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/biologist/day-in-the-life">next: day in the life</a>
 </p>

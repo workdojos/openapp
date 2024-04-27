@@ -21,6 +21,6 @@ Furthermore, small businesses will play a vital role in a thriving economy in th
 Overall, the physics and higher education industry can greatly benefit from the adoption of open-source technology. It can save money, promote transparency and accountability, and facilitate collaboration and innovation. As small businesses continue to play a crucial role in the economy, it is important to embrace open-source technology to help them succeed and thrive.
 
 <br>
-<a href="https://workdojos.com/physicist/website">next: website</a>
+<a href="https://insights.workdojos.com/physicist/website">next: website</a>
 <br>
 </p>

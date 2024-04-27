@@ -19,6 +19,6 @@ The role of small businesses in the economy is also worth considering in this co
 Overall, the translation and interpretation industry is an essential component of our global economy, and the use of open-source technology has the potential to significantly improve accessibility and opportunities for both businesses and professionals. As we continue to navigate the challenges of a rapidly changing world, it will be important for the industry to embrace new technologies and adapt to meet the needs of a diverse and interconnected global community.
 
 <br>
-<a href="https://workdojos.com/interpreters/website">next: website</a>
+<a href="https://insights.workdojos.com/interpreters/website">next: website</a>
 <br>
 </p>

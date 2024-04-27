@@ -15,6 +15,6 @@ The concept of physical therapy has a much longer history, however, with roots d
 Over time, the meaning of the term physical therapy has evolved to encompass a wider range of techniques and approaches, including the use of technology and equipment to facilitate healing and rehabilitation. Today, physical therapy is a highly specialized field that involves the use of a variety of techniques to help individuals recover from injuries, surgeries, and other conditions that affect their physical abilities.
 
 <br>
-<a href="https://workdojos.com/physicaltherapist/advice">next: advice</a>
+<a href="https://insights.workdojos.com/physicaltherapist/advice">next: advice</a>
 <br>
 </p>

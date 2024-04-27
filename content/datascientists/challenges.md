@@ -20,5 +20,5 @@ Finally, there is also the need to address the challenges facing the data scienc
 In conclusion, the data science industry is facing a number of controversies and challenges that need to be addressed. From the difficulties that data scientists often face in finding work to the need for higher pay, there are a number of issues that need to be addressed in order to ensure that the data science industry can continue to thrive. By addressing these issues, we can make it easier for data scientistto find work, pay them fairly, and ensure that the data science industry as a whole can get a lot better in the years to come.
 
 <br>
-<a href="https://workdojos.com/datascientists/history">next: history</a>
+<a href="https://insights.workdojos.com/datascientists/history">next: history</a>
 </p>

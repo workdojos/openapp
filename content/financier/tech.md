@@ -19,6 +19,6 @@ In the future, small businesses are likely to play an increasingly important rol
 Overall, the startup financing industry has the potential to play a vital role in driving economic growth and supporting small businesses. By embracing open-source technology and working closely with startups and small businesses, financiers can help to create a more vibrant and sustainable economy for all.
 
 <br>
-<a href="https://workdojos.com/financier/website">next: website</a>
+<a href="https://insights.workdojos.com/financier/website">next: website</a>
 <br>
 </p>

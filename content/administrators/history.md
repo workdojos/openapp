@@ -14,6 +14,6 @@ The word "administrator" first appeared in English in the early 15th century, an
 The word "book-keeping" also has its roots in the Latin language. It comes from the word "libra," which means "balance." The suffix "-keeping" refers to the act of keeping or maintaining something, in this case, the balance of financial accounts. The word "book-keeping" has been in use in English since the late 14th century, and originally referred to the act of keeping financial accounts in a book or ledger. Today, the term is used to refer to the process of recording and tracking financial transactions for an organization or individual.
 
 <br>
-<a href="https://workdojos.com/administrators/advice">next: advice</a>
+<a href="https://insights.workdojos.com/administrators/advice">next: advice</a>
 <br>
 </p>

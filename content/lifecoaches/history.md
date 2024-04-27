@@ -17,6 +17,6 @@ The term "life coaching" can be traced back to the 1940s, when psychologist John
 The meaning of the term "life coaching" has evolved over time to encompass a wide range of services, including helping individuals set and achieve goals, overcome challenges, and improve their overall well-being. Today, life coaches work with clients on a variety of issues, including career development, relationships, and personal growth.
 
 <br>
-<a href="https://workdojos.com/lifecoaches/advice">next: advice</a>
+<a href="https://insights.workdojos.com/lifecoaches/advice">next: advice</a>
 <br>
 </p>

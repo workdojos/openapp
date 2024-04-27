@@ -19,6 +19,6 @@ But open-source technology is not just beneficial for park rangers and conservat
 In conclusion, the conservation and park management industry has a crucial role to play in preserving our natural resources. By utilizing open-source technology, park rangers can more effectively do their job, while small businesses within the industry can save money and contribute to a thriving economy. It is essential that we support and prioritize the use of open-source technology in this industry to ensure its continued success.
 
 <br>
-<a href="https://workdojos.com/parkranger/website">next: website</a>
+<a href="https://insights.workdojos.com/parkranger/website">next: website</a>
 <br>
 </p>

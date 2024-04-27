@@ -21,5 +21,5 @@ Finally, the journalism, news, and media industry must work to combat the spread
 In conclusion, the journalism, news, and media industry is facing numerous challenges, including the difficulties faced by photojournalists in finding work and the spread of fake news and misinformation. By taking steps to address these issues and prioritize diversity and representation, we can create a more robust and trustworthy industry that serves the public interest.
 
 <br>
-<a href="https://workdojos.com/photojournalist/history">next: history</a>
+<a href="https://insights.workdojos.com/photojournalist/history">next: history</a>
 </p>

@@ -22,5 +22,5 @@ Analytics will be key in measuring the success of our campaigns and identifying 
 Overall, the goal is to create a strong and active presence on social media for the health & wellness organization, building brand awareness and driving traffic to the website. By consistently creating engaging content and engaging with our audience, we can help to grow our following and make opportunities for collaboration within the industry.
 
 <br>
-<a href="https://workdojos.com/beauticians/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/beauticians/ethics">next: ethical framework</a>
 </p>

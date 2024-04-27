@@ -46,5 +46,5 @@ What are some techniques you use to develop your characters and plot?
 How do you handle writer's block or creative blocks?
 
 <br>
-<a href="https://workdojos.com/novelist/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/novelist/rights">next: workers' rights</a>
 </p>

@@ -28,5 +28,5 @@ Collaborate with other content creators or brands on Pinterest by creating joint
 Overall, the key to a successful social media campaign is to be consistent, engaging, and authentic. By sharing high-quality content and actively interacting with your followers, you can effectively promote your content creation business and attract new clients.
 
 <br>
-<a href="https://workdojos.com/contentcreators/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/contentcreators/startup">next: startup ideas</a>
 </p>

@@ -22,5 +22,5 @@ Finally, it is important that we work towards making the Administration and book
 In conclusion, the Administration and bookkeeping industry is facing numerous controversies and challenges. By addressing issues of pay and job security, making the industry more inclusive and accessible, and investing in the future, we can work towards creating a better industry for all administrator's.
 
 <br>
-<a href="https://workdojos.com/administrators/history">next: history</a>
+<a href="https://insights.workdojos.com/administrators/history">next: history</a>
 </p>

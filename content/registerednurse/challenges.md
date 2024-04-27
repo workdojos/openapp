@@ -17,5 +17,5 @@ In addition to addressing the shortage of nurses, there are several other ways i
 Overall, it is imperative that we address the challenges facing the healthcare industry and work towards creating a better future for both patients and healthcare professionals. By supporting registered nurses and implementing necessary changes, we can improve the quality of healthcare for all.
 
 <br>
-<a href="https://workdojos.com/registerednurse/history">next: history</a>
+<a href="https://insights.workdojos.com/registerednurse/history">next: history</a>
 </p>

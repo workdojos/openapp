@@ -23,5 +23,5 @@ Consider partnering with other influencers or brands in the film industry to cre
 Overall, the key is to be authentic and engaging, and to share valuable content that your followers will find interesting and informative. Good luck with your new business!
 
 <br>
-<a href="https://workdojos.com/screenwriter/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/screenwriter/startup">next: startup ideas</a>
 </p>

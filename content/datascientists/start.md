@@ -25,5 +25,5 @@ Data Science Institute (https://datascience.columbia.edu/)
 Overall, the data science industry is an exciting and growing field with lots of upside potential. If you are passionate about data, technology, and problem-solving, a career as a data scientist could be the perfect fit for you. So get excited and start exploring all of the opportunities that this industry has to offer!
 
 <br>
-<a href="https://workdojos.com/datascientists/learning">next: learning</a>
+<a href="https://insights.workdojos.com/datascientists/learning">next: learning</a>
 </p>

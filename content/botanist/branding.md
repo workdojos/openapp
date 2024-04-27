@@ -20,5 +20,5 @@ Use analytics tools to track the success of your campaigns and see which types o
 Monitor conversations and engage with your audience by responding to questions, comments, and feedback in a timely and professional manner. This can help build trust and credibility with your followers, and make your organization more approachable and relatable.
 
 <br>
-<a href="https://workdojos.com/botanist/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/botanist/ethics">next: ethical framework</a>
 </p>

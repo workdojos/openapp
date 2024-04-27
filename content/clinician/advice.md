@@ -18,5 +18,5 @@ As for specific career options within the medical industry, some potential optio
 In summary, a career as a clinician in the medical industry is a rewarding and challenging path that requires a strong commitment to education and training. With the right qualifications and experience, you can find a fulfilling career in this exciting and growing industry.
 
 <br>
-<a href="https://workdojos.com/clinician/start">next: get started</a>
+<a href="https://insights.workdojos.com/clinician/start">next: get started</a>
 </p>

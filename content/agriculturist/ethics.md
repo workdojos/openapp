@@ -18,5 +18,5 @@ In addition to these considerations, it would also be important to consider the 
 Overall, developing an ethical framework for starting a business in the agriculture industry will require careful thought and consideration of the various stakeholders involved, as well as a commitment to sustainability and fairness. By taking these factors into account, it is possible to create a business that not only serves the needs of its customers, but also operates in a responsible and ethical manner.
 
 <br>
-<a href="https://workdojos.com/agriculturist/social">next: social media</a>
+<a href="https://insights.workdojos.com/agriculturist/social">next: social media</a>
 </p>

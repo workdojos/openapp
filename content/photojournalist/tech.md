@@ -19,6 +19,6 @@ In addition to the benefits for journalists and photographers, the adoption of o
 In conclusion, the journalism industry must embrace open-source technology to survive and thrive in today's digital landscape. Not only does it provide new opportunities for journalists and photographers, but it can also play a vital role in the success of small businesses and the overall health of the economy.
 
 <br>
-<a href="https://workdojos.com/photojournalist/website">next: website</a>
+<a href="https://insights.workdojos.com/photojournalist/website">next: website</a>
 <br>
 </p>

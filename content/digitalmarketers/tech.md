@@ -18,6 +18,6 @@ In terms of the future of the economy, small businesses will play an integral ro
 Overall, the importance of open-source technology in the marketing industry cannot be overstated. It allows small businesses to compete with larger corporations, gives digital marketers the freedom to experiment and innovate, and plays a crucial role in the success of small businesses in the future economy. It is essential that we continue to support and invest in open-source technology to ensure that it remains a key component of the marketing industry.
 
 <br>
-<a href="https://workdojos.com/digitalmarketers/website">next: website</a>
+<a href="https://insights.workdojos.com/digitalmarketers/website">next: website</a>
 <br>
 </p>

@@ -21,5 +21,5 @@ Consider the upsides: While any career has its challenges, there are many potent
 Overall, there are many reasons to be excited about a career as a explorer in the outdoor industry. Whether you're interested in research, conservation, or simply experiencing new cultures and ways of life, this career can provide you with a wealth of opportunities and experiences. So go out and explore!
 
 <br>
-<a href="https://workdojos.com/explorers/learning">next: learning</a>
+<a href="https://insights.workdojos.com/explorers/learning">next: learning</a>
 </p>

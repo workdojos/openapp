@@ -23,6 +23,6 @@ But Jack wasn't the only notable police officer in history. There were many othe
 These are just a few examples of the countless police officers and protective service professionals who have made a difference in the world. They serve as a reminder of the important role that law enforcement and protective services play in keeping our communities safe and secure.
 
 <br>
-<a href="https://workdojos.com/lawenforcement/history">next: history</a>
+<a href="https://insights.workdojos.com/lawenforcement/history">next: history</a>
 <br>
 </p>

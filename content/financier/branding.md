@@ -23,5 +23,5 @@ Collaborate with others: Collaborating with other organizations or individuals i
 Use analytics to measure success: Use social media analytics tools to track the performance of your content and identify what is working and what is not. Use this data to adjust your strategy as needed.
 
 <br>
-<a href="https://workdojos.com/financier/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/financier/ethics">next: ethical framework</a>
 </p>

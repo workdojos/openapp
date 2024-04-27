@@ -21,6 +21,6 @@ The word "luxury" comes from the Latin word "luxuria," which means "excess" or "
 Today, luxury goods are still seen as a symbol of wealth and status, but they can refer to a wide range of items, including clothing, jewelry, cars, and even experiences. The definition of luxury goods has also broadened to include products that are considered high-end due to their quality, craftsmanship, or exclusivity, rather than just their price.
 
 <br>
-<a href="https://workdojos.com/jeweler/advice">next: advice</a>
+<a href="https://insights.workdojos.com/jeweler/advice">next: advice</a>
 <br>
 </p>

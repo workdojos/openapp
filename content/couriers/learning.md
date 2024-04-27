@@ -42,5 +42,5 @@ What are some ways you stay physically fit for the demands of the job?
 How do you handle heavy or fragile packages?
 
 <br>
-<a href="https://workdojos.com/couriers/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/couriers/rights">next: workers' rights</a>
 </p>

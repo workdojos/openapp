@@ -19,6 +19,6 @@ The word music comes from the Greek word "mousike," which means "art of the Muse
 The meaning of the word music has remained relatively unchanged over time, though the definition has been expanded to encompass a wide range of musical styles and traditions from around the world.
 
 <br>
-<a href="https://workdojos.com/lyricist/advice">next: advice</a>
+<a href="https://insights.workdojos.com/lyricist/advice">next: advice</a>
 <br>
 </p>

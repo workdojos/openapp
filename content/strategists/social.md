@@ -21,5 +21,5 @@ Use Pinterest to create boards featuring your business and the consulting indust
 Overall, the key to creating an engaging campaign on social media is to be authentic and consistent, and to actively engage with your followers. Good luck!
 
 <br>
-<a href="https://workdojos.com/strategists/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/strategists/startup">next: startup ideas</a>
 </p>

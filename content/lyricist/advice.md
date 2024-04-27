@@ -21,5 +21,5 @@ Finally, consider what qualifications would be beneficial for pursuing this fiel
 Overall, a career as a lyricist in the music industry can be a fulfilling and rewarding path for those with a passion for music and strong writing skills. It is important to continue learning and staying up-to-date with industry trends, and to consider pursuing relevant qualifications and building relationships with industry professionals.
 
 <br>
-<a href="https://workdojos.com/lyricist/start">next: get started</a>
+<a href="https://insights.workdojos.com/lyricist/start">next: get started</a>
 </p>

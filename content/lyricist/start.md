@@ -19,5 +19,5 @@ It's also important to remember that the music industry is constantly evolving a
 So don't be discouraged by any challenges you may face on your journey as a lyricist. Embrace the exciting and ever-changing nature of the industry, and remember that hard work and dedication can lead to great success. Stay positive and keep writing, and you will be well on your way to achieving your goals as a lyricist in the music industry.
 
 <br>
-<a href="https://workdojos.com/lyricist/learning">next: learning</a>
+<a href="https://insights.workdojos.com/lyricist/learning">next: learning</a>
 </p>

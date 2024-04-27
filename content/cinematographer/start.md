@@ -20,5 +20,5 @@ Some useful websites for learning more about a career as a cinematographer inclu
 In conclusion, working as a cinematographer in the cinema industry is a rewarding and exciting career path with endless opportunities for growth and creativity. With the right resources and determination, you can reach your goals and make a lasting impact in this dynamic and growing field. So don't hesitate, take the leap and start your journey towards a career as a cinematographer today!
 
 <br>
-<a href="https://workdojos.com/cinematographer/learning">next: learning</a>
+<a href="https://insights.workdojos.com/cinematographer/learning">next: learning</a>
 </p>

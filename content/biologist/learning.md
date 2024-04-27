@@ -38,5 +38,5 @@ Can you describe a specific research project you worked on and the results you o
 How do you keep up with current developments in the field of biology?
 
 <br>
-<a href="https://workdojos.com/biologist/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/biologist/rights">next: workers' rights</a>
 </p>

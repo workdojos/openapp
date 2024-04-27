@@ -21,6 +21,6 @@ Throughout history, there have been many notable photojournalists who have captu
 Sarah's journey as a photojournalist was filled with adventure, excitement, and heartbreak, but she knew that her work was making a difference in the world. She knew that her photographs were telling important stories that needed to be heard, and she was proud to be a part of the journalism industry, sharing her stories with the world.
 
 <br>
-<a href="https://workdojos.com/photojournalist/history">next: history</a>
+<a href="https://insights.workdojos.com/photojournalist/history">next: history</a>
 <br>
 </p>

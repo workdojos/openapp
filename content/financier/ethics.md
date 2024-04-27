@@ -17,5 +17,5 @@ It might also be useful to consider the principles of distributive justice, whic
 Ultimately, developing an ethical framework for a career in startup financing will require careful consideration of multiple philosophical theories and a commitment to upholding values such as fairness, respect, and responsibility. It will also require a willingness to constantly reassess and adjust one's actions as new information and circumstances arise.
 
 <br>
-<a href="https://workdojos.com/financier/social">next: social media</a>
+<a href="https://insights.workdojos.com/financier/social">next: social media</a>
 </p>

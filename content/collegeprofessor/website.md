@@ -26,6 +26,6 @@ Overall, using open-source technology can be a great way to build a website for 
 
 <br>
 
-<a href="https://workdojos.com/collegeprofessor/overview">next: overview</a>
+<a href="https://insights.workdojos.com/collegeprofessor/overview">next: overview</a>
 <br>
 </p>

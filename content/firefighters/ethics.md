@@ -25,5 +25,5 @@ How do the policies and practices of the public services industry align with or 
 By examining these and other questions, you can begin to build a comprehensive ethical framework for your career as a firefighter.
 
 <br>
-<a href="https://workdojos.com/firefighters/social">next: social media</a>
+<a href="https://insights.workdojos.com/firefighters/social">next: social media</a>
 </p>

@@ -18,5 +18,5 @@ Finally, the coffee and hospitality industry has the potential to become much mo
 In conclusion, the coffee and hospitality industry is facing a number of controversies and challenges, including low pay and poor working conditions for baristas, a lack of job opportunities, and environmental and social sustainability concerns. By addressing these issues and working to create a more equitable and sustainable system, we can ensure that the industry flourishes in the years to come.
 
 <br>
-<a href="https://workdojos.com/baristas/history">next: history</a>
+<a href="https://insights.workdojos.com/baristas/history">next: history</a>
 </p>

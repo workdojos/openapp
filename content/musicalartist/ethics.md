@@ -20,5 +20,5 @@ To further develop my ethical framework, I might also seek out the guidance and 
 Ultimately, my ethical framework for starting a career as a musical artist working in the music industry would be a personal and evolving set of values and principles that guide my actions and decisions as an artist. It would be informed by my own moral reasoning, as well as the input and perspectives of others, and it would aim to uphold the highest ethical standards in all of my professional endeavors.
 
 <br>
-<a href="https://workdojos.com/musicalartist/social">next: social media</a>
+<a href="https://insights.workdojos.com/musicalartist/social">next: social media</a>
 </p>

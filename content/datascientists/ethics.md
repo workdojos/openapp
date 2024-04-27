@@ -18,5 +18,5 @@ Third, data scientists should respect the privacy and autonomy of individuals. T
 Overall, an ethical framework for data science should prioritize transparency, responsibility, and respect for individuals. By following these principles, data scientists can ensure that their work is ethical and contributes positively to society.
 
 <br>
-<a href="https://workdojos.com/datascientists/social">next: social media</a>
+<a href="https://insights.workdojos.com/datascientists/social">next: social media</a>
 </p>

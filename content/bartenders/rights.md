@@ -21,5 +21,5 @@ Furthermore, it is important for the industry to recognize the value that worker
 In conclusion, fair work practices are essential for the success and well-being of both workers and the industry as a whole. By prioritizing the rights and needs of workers, the industry can create a more positive and sustainable future for all involved.
 
 <br>
-<a href="https://workdojos.com/bartenders/branding">next: branding</a>
+<a href="https://insights.workdojos.com/bartenders/branding">next: branding</a>
 </p>

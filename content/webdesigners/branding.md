@@ -19,5 +19,5 @@ I would also actively engage with the audience by responding to questions and co
 Finally, I would use analytics to measure the success of the social media campaigns and make adjustments as needed to optimize results. This would involve tracking metrics such as website traffic, conversion rates, and engagement rate to determine the effectiveness of the campaigns and identify areas for improvement.
 
 <br>
-<a href="https://workdojos.com/webdesigners/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/webdesigners/ethics">next: ethical framework</a>
 </p>

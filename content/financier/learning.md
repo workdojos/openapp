@@ -40,5 +40,5 @@ How do you stay up-to-date with changes in financial regulations and compliance 
 Can you discuss a situation in which you had to work on a team to achieve a financial goal? How did you contribute to the team's success?
 
 <br>
-<a href="https://workdojos.com/financier/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/financier/rights">next: workers' rights</a>
 </p>

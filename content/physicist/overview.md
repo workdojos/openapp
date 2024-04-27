@@ -23,5 +23,5 @@ As with any industry, there are both good and bad jobs within physics and higher
 Overall, the physics and higher education industry is a rewarding and impactful field, with many opportunities for those who are passionate about physics and education. With the right education and networking, anyone can find a fulfilling career in this industry.
 
 <br>
-<a href="https://workdojos.com/physicist/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/physicist/day-in-the-life">next: day in the life</a>
 </p>

@@ -26,6 +26,6 @@ Overall, using open-source technology can be a cost-effective and flexible solut
 
 <br>
 
-<a href="https://workdojos.com/couriers/overview">next: overview</a>
+<a href="https://insights.workdojos.com/couriers/overview">next: overview</a>
 <br>
 </p>

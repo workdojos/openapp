@@ -13,6 +13,6 @@ The word "firefighter" can be traced back to the late 16th century, with the fir
 The word "public services" can be traced back to the early 17th century, with the first recorded use being in 1606. It is a combination of the words "public" and "services," with "public" referring to the community or society as a whole and "services" referring to actions or tasks performed for the benefit of others. The meaning of the word has remained relatively unchanged over time, with public services referring to services provided by the government or other organizations for the benefit of the general public. These services can include things like emergency services, transportation, education, and healthcare.
 
 <br>
-<a href="https://workdojos.com/firefighters/advice">next: advice</a>
+<a href="https://insights.workdojos.com/firefighters/advice">next: advice</a>
 <br>
 </p>

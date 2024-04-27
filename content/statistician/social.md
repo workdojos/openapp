@@ -21,5 +21,5 @@ Pinterest: Create boards focused on statistical concepts, data visualization, an
 Overall, the key to success with this campaign will be to create content that is informative, engaging, and relevant to your target audience. By sharing your knowledge and experience as a statistician, you can build a loyal following and increase brand awareness for your new business.
 
 <br>
-<a href="https://workdojos.com/statistician/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/statistician/startup">next: startup ideas</a>
 </p>

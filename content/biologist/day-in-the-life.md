@@ -20,6 +20,6 @@ Maria knew that she was just a small part of a long line of scientists dedicated
 As the flames of the campfire flickered, Maria smiled to herself, grateful for the exciting day in the life of a biologist that she had just experienced.
 
 <br>
-<a href="https://workdojos.com/biologist/history">next: history</a>
+<a href="https://insights.workdojos.com/biologist/history">next: history</a>
 <br>
 </p>

@@ -18,6 +18,6 @@ In addition to benefiting individual agriculturists, the adoption of open-source
 Overall, the agriculture industry has the potential to be a key driver of both economic growth and sustainability. By embracing open-source technology and supporting small businesses, we can help to create a more vibrant and thriving agriculture industry for all.
 
 <br>
-<a href="https://workdojos.com/agriculturist/website">next: website</a>
+<a href="https://insights.workdojos.com/agriculturist/website">next: website</a>
 <br>
 </p>

@@ -23,5 +23,5 @@ Some of the best jobs in the religious organizations industry include clergy pos
 Overall, the religious organizations industry is a diverse and rewarding field that offers many opportunities for those who are interested in making a positive impact in the world. Whether you are a clergy member, religious educator, or administrative staff, there are many ways to get involved and make a difference in this industry.
 
 <br>
-<a href="https://workdojos.com/theologian/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/theologian/day-in-the-life">next: day in the life</a>
 </p>

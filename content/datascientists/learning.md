@@ -42,5 +42,5 @@ What are your favorite tools or techniques for visualizing data?
 How do you keep up with the latest developments in data science?
 
 <br>
-<a href="https://workdojos.com/datascientists/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/datascientists/rights">next: workers' rights</a>
 </p>

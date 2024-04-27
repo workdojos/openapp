@@ -23,5 +23,5 @@ I would also interact with followers and potential clients by responding to comm
 Overall, my goal would be to create a strong online presence for your business and establish yourself as a trusted and knowledgeable resource in the translation and interpretation industry.
 
 <br>
-<a href="https://workdojos.com/interpreters/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/interpreters/startup">next: startup ideas</a>
 </p>

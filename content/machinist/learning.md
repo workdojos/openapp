@@ -44,5 +44,5 @@ What safety protocols do you follow when operating machinery?
 How do you stay up to date on the latest machining techniques and technologies?
 
 <br>
-<a href="https://workdojos.com/machinist/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/machinist/rights">next: workers' rights</a>
 </p>

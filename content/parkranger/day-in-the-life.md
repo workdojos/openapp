@@ -21,6 +21,6 @@ Throughout history, there have been many notable park rangers who have made a si
 Thanks to the hard work of dedicated park rangers like John, we can continue to enjoy the beauty of our national parks and protect these important natural resources for future generations.
 
 <br>
-<a href="https://workdojos.com/parkranger/history">next: history</a>
+<a href="https://insights.workdojos.com/parkranger/history">next: history</a>
 <br>
 </p>

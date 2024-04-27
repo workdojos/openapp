@@ -18,6 +18,6 @@ Small businesses, including those in the health and wellness industry, will play
 In conclusion, the health and wellness industry, and the beauticians who work within it, will greatly benefit from the use of open-source technology. By providing access to accurate and up-to-date information, we can ensure that we are providing the best possible care to our clients. Additionally, small businesses, including those in the health and wellness industry, will play a vital role in a thriving economy in the future. By offering personalized and individualized care, small businesses are able to drive growth and prosperity in a way that larger corporations simply cannot match.
 
 <br>
-<a href="https://workdojos.com/beauticians/website">next: website</a>
+<a href="https://insights.workdojos.com/beauticians/website">next: website</a>
 <br>
 </p>

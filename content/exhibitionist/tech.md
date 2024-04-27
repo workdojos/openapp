@@ -17,6 +17,6 @@ Not only can open-source technology help small businesses save money, but it als
 It is clear that small businesses will play an integral role in a thriving economy in the future. The art and special events industry is just one example of how these businesses can contribute to the vitality of a community. By embracing open-source technology and supporting small businesses, we can ensure that the art and special events industry continues to thrive and provide meaningful cultural experiences for all.
 
 <br>
-<a href="https://workdojos.com/exhibitionist/website">next: website</a>
+<a href="https://insights.workdojos.com/exhibitionist/website">next: website</a>
 <br>
 </p>

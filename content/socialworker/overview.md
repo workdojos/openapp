@@ -21,5 +21,5 @@ When it comes to the best and worst jobs in the behavioral health industry, it u
 Overall, the behavioral health industry is a rewarding and growing field that offers numerous opportunities for those looking to make a positive impact on the lives of others. With the right resources and networking skills, individuals can find their ideal job within the industry and make a meaningful difference in the lives of their clients.
 
 <br>
-<a href="https://workdojos.com/socialworker/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/socialworker/day-in-the-life">next: day in the life</a>
 </p>

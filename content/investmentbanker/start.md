@@ -21,5 +21,5 @@ Embrace the challenges: Working as an investment banker can be challenging, but 
 Remember, working as an investment banker in the financial services industry can be an exciting and growing industry with lots of upside potential. Keep a positive attitude, stay focused on your goals, and don't be afraid to ask for help or advice along the way. You can do it!
 
 <br>
-<a href="https://workdojos.com/investmentbanker/learning">next: learning</a>
+<a href="https://insights.workdojos.com/investmentbanker/learning">next: learning</a>
 </p>

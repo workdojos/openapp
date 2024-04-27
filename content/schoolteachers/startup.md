@@ -35,5 +35,5 @@ Idea Validation Steps: Conducting market research to understand the needs and ch
 Potential Business Challenges: Competition in the education technology market, securing partnerships and contracts with school districts, ensuring platform security and privacy for users.
 
 <br>
-<a href="https://workdojos.com/schoolteachers/tech">next: open-source tech</a>
+<a href="https://insights.workdojos.com/schoolteachers/tech">next: open-source tech</a>
 </p>

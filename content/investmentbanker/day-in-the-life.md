@@ -23,6 +23,6 @@ Another notable investment banker was Warren Buffett, known for his savvy invest
 Despite the challenges, Sarah loved her job and knew that her hard work would pay off in the end. And so, every day, she went to work with a smile on her face, ready to take on whatever the financial world had in store for her.
 
 <br>
-<a href="https://workdojos.com/investmentbanker/history">next: history</a>
+<a href="https://insights.workdojos.com/investmentbanker/history">next: history</a>
 <br>
 </p>

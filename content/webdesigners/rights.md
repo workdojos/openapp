@@ -20,5 +20,5 @@ There have also been several recent events that highlight the need for fair work
 In conclusion, it is vital that fair work practices be implemented in the digital services industry to ensure the well-being and success of web designers. This includes stable employment, benefits and protections for freelancers and contractors, an end to unpaid internships, and a commitment to diversity and inclusion in the workplace. By promoting worker’s rights, fair treatment, and proper wages, we can create a more equitable and sustainable industry for all web designers.
 
 <br>
-<a href="https://workdojos.com/webdesigners/branding">next: branding</a>
+<a href="https://insights.workdojos.com/webdesigners/branding">next: branding</a>
 </p>

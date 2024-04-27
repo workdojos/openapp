@@ -19,5 +19,5 @@ YouTube: Create a channel to share your adventures through vlogs or video guides
 Pinterest: Create boards featuring your adventures, outdoor gear, and travel destinations. Use relevant hashtags and collaborate with other outdoor brands and influencers to reach a wider audience. Share your boards on your other social media platforms to drive traffic to your Pinterest account.
 
 <br>
-<a href="https://workdojos.com/explorers/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/explorers/startup">next: startup ideas</a>
 </p>

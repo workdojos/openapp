@@ -40,5 +40,5 @@ How do you incorporate exercise and rehabilitation into your treatment plans?
 How do you handle difficult or non-compliant patients?
 
 <br>
-<a href="https://workdojos.com/physicaltherapist/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/physicaltherapist/rights">next: workers' rights</a>
 </p>

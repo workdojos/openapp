@@ -19,5 +19,5 @@ In addition to creating engaging content, I would also focus on actively engagin
 Finally, I would regularly analyze the performance of the social media campaigns using analytics tools, such as Google Analytics, to measure the success of the campaigns and make any necessary adjustments. This would allow us to continuously optimize our social media strategy to achieve our goals and improve our overall presence on social media.
 
 <br>
-<a href="https://workdojos.com/investmentbanker/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/investmentbanker/ethics">next: ethical framework</a>
 </p>

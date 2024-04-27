@@ -31,5 +31,5 @@ Conclusion:
 In conclusion, the film industry is facing numerous controversies and challenges, from the lack of diversity and representation on screen, to the difficulties faced by screenwriters in finding work. By addressing these issues and making it easier for screenwriters to find work, we can create a more inclusive and thriving film industry that benefits everyone. By supporting and uplifting the voices of screenwriters and filmmakers, we can create a more diverse and exciting film industry that reflects the world we live in.
 
 <br>
-<a href="https://workdojos.com/screenwriter/history">next: history</a>
+<a href="https://insights.workdojos.com/screenwriter/history">next: history</a>
 </p>

@@ -20,6 +20,6 @@ Despite the evolution of the beauty industry, one thing remained constant: the d
 As the sun set on another busy day, Maria smiled to herself, knowing that she had truly found her calling.
 
 <br>
-<a href="https://workdojos.com/beauticians/history">next: history</a>
+<a href="https://insights.workdojos.com/beauticians/history">next: history</a>
 <br>
 </p>

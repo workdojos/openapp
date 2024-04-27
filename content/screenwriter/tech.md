@@ -19,6 +19,6 @@ However, despite these benefits, the film industry has been slow to embrace open
 To truly thrive in the film industry, it is crucial that filmmakers and screenwriters embrace open-source technology. By doing so, they can take advantage of the many benefits it offers, such as increased collaboration and creativity, lower costs, and the ability to compete with larger studios. In addition, by supporting small businesses and independent filmmakers, we can help create a thriving economy that is driven by innovation and creativity.
 
 <br>
-<a href="https://workdojos.com/screenwriter/website">next: website</a>
+<a href="https://insights.workdojos.com/screenwriter/website">next: website</a>
 <br>
 </p>

@@ -18,5 +18,5 @@ Finally, the marketing industry as a whole can benefit from increased transparen
 In conclusion, the marketing industry is facing significant challenges, but by addressing these issues and making it easier for digital marketerto find work, we can create a more sustainable and successful industry for all stakeholders.
 
 <br>
-<a href="https://workdojos.com/digitalmarketers/history">next: history</a>
+<a href="https://insights.workdojos.com/digitalmarketers/history">next: history</a>
 </p>

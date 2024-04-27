@@ -21,5 +21,5 @@ Finally, to create a brighter future for the luxury goods industry as a whole, w
 By addressing these controversies and challenges, we can create a more ethical and sustainable luxury goods industry that benefits not only jewelers, but society as a whole.
 
 <br>
-<a href="https://workdojos.com/jeweler/history">next: history</a>
+<a href="https://insights.workdojos.com/jeweler/history">next: history</a>
 </p>

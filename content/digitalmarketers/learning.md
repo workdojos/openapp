@@ -60,5 +60,5 @@ How do you stay up to date with the latest trends and best practices in digital 
 Can you give examples of successful campaigns or initiatives that you have worked on in the past?
 
 <br>
-<a href="https://workdojos.com/digitalmarketers/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/digitalmarketers/rights">next: workers' rights</a>
 </p>

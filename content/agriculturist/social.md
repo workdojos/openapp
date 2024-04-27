@@ -33,5 +33,5 @@ Pin articles or videos about agriculture and sustainable farming practices from 
 Overall, it's important to focus on creating engaging and informative content that speaks to your target audience (other agriculturists or those interested in the agriculture industry). Don't be afraid to share your own experiences and insights, and consider collaborating with others in the industry to showcase a variety of perspectives. Hashtags are also a great way to reach a larger audience and connect with others in the industry.
 
 <br>
-<a href="https://workdojos.com/agriculturist/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/agriculturist/startup">next: startup ideas</a>
 </p>

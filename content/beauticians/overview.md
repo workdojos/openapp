@@ -23,5 +23,5 @@ There are both good and bad jobs to have in the health and wellness industry. So
 Overall, the health and wellness industry is a dynamic and rewarding field that offers a wide range of career opportunities. With the right education, experience, and networking skills, you can find a fulfilling and rewarding job in this exciting industry.
 
 <br>
-<a href="https://workdojos.com/beauticians/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/beauticians/day-in-the-life">next: day in the life</a>
 </p>

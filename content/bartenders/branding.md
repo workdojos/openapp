@@ -20,5 +20,5 @@ In addition to posting regularly on these platforms, it is important to engage w
 Finally, we can seek out opportunities for collaboration with other organizations in the bartending and hospitality industry to increase brand awareness and reach a wider audience. This can include hosting joint events or sharing each other's content on social media.
 
 <br>
-<a href="https://workdojos.com/bartenders/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/bartenders/ethics">next: ethical framework</a>
 </p>

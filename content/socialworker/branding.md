@@ -19,5 +19,5 @@ I would also use analytics to measure the success of our social media campaigns 
 Finally, I would look for opportunities to collaborate with other organizations in the behavioral health industry to further increase brand awareness and reach. This could involve sharing each other's content, participating in joint campaigns, or partnering on events or webinars.
 
 <br>
-<a href="https://workdojos.com/socialworker/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/socialworker/ethics">next: ethical framework</a>
 </p>

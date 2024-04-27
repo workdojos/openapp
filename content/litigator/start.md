@@ -21,5 +21,5 @@ If you're looking for resources to learn more about working as a lawyer, you may
 Overall, a career as a lawyer in the legal industry can be incredibly rewarding and exciting. With the potential for a high salary, diverse job opportunities, and the ability to make a positive impact on others, there's no doubt that this is an industry with lots of upside potential. So get excited, do your research, and take the steps necessary to achieve your goals of becoming a successful lawyer!
 
 <br>
-<a href="https://workdojos.com/litigator/learning">next: learning</a>
+<a href="https://insights.workdojos.com/litigator/learning">next: learning</a>
 </p>

@@ -14,6 +14,6 @@ The original meaning of the word "animator" referred to someone who brings life 
 Over time, the meanings of both "animator" and "animation" have evolved to refer specifically to the art of creating and producing animated films or television shows. However, the root of both words, "anim," which means "life" or "movement," remains the same.
 
 <br>
-<a href="https://workdojos.com/animators/advice">next: advice</a>
+<a href="https://insights.workdojos.com/animators/advice">next: advice</a>
 <br>
 </p>

@@ -19,5 +19,5 @@ There are a variety of different career paths available for registered nurses, i
 Overall, a career as a registered nurse in the healthcare industry can be very rewarding and fulfilling for those who are passionate about helping others and have the necessary skills and qualifications. With a strong job market and the opportunity for advancement, it is definitely a career worth considering.
 
 <br>
-<a href="https://workdojos.com/registerednurse/start">next: get started</a>
+<a href="https://insights.workdojos.com/registerednurse/start">next: get started</a>
 </p>

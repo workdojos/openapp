@@ -46,5 +46,5 @@ What are your strengths and weaknesses as an animator?
 How have you stayed current on the latest software and techniques in the animation industry?
 
 <br>
-<a href="https://workdojos.com/animators/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/animators/rights">next: workers' rights</a>
 </p>

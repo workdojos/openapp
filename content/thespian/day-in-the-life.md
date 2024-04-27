@@ -23,6 +23,6 @@ Sarah knew that she had a long way to go before she could join the ranks of thes
 The audience erupted into applause as Sarah belted out the final note of her song, and she knew that this was just the beginning of a long and successful career in the world of the performing arts.
 
 <br>
-<a href="https://workdojos.com/thespian/history">next: history</a>
+<a href="https://insights.workdojos.com/thespian/history">next: history</a>
 <br>
 </p>

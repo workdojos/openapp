@@ -23,6 +23,6 @@ Maria knew that she had a long way to go before she could join the ranks of thes
 And so, Maria's journey as a successful event planner continued, filled with endless planning and endless possibilities.
 
 <br>
-<a href="https://workdojos.com/eventplanners/history">next: history</a>
+<a href="https://insights.workdojos.com/eventplanners/history">next: history</a>
 <br>
 </p>

@@ -18,5 +18,5 @@ In order to improve the animation industry, it is necessary for studios to prior
 In conclusion, the animation industry must address the controversies and challenges facing animators in order to create a more positive and sustainable future. It is time to make it easier for animatorto find work, pay them fairly for their talent, and strive for overall improvement in the industry. By doing so, we can create a brighter future for animators and the animation industry as a whole.
 
 <br>
-<a href="https://workdojos.com/animators/history">next: history</a>
+<a href="https://insights.workdojos.com/animators/history">next: history</a>
 </p>

@@ -15,6 +15,6 @@ The word "news" comes from the Old English word "nēos," which means "new" or "f
 The meaning of the word "photojournalism" has not changed much over time. It refers to the practice of using photographs to report on news events. The meaning of the word "news" has also remained largely unchanged, referring to new information or events. The meaning of the word "media" has changed slightly over time, as it originally referred to the physical means of communication, such as newspapers and radio, but now also includes digital forms of communication, such as social media.
 
 <br>
-<a href="https://workdojos.com/photojournalist/advice">next: advice</a>
+<a href="https://insights.workdojos.com/photojournalist/advice">next: advice</a>
 <br>
 </p>

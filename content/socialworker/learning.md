@@ -36,5 +36,5 @@ What do you believe is the role of a social worker in society?
 How do you prioritize your tasks and manage your time effectively?
 
 <br>
-<a href="https://workdojos.com/socialworker/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/socialworker/rights">next: workers' rights</a>
 </p>

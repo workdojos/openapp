@@ -20,5 +20,5 @@ In light of these trends, it is imperative that we work to promote fair work pra
 In conclusion, fair work practices are essential for the success and well-being of both the individual worker and the statistical research and development industry as a whole. By advocating for the rights and fair treatment of workers, we can create a more sustainable and equitable industry for all.
 
 <br>
-<a href="https://workdojos.com/statistician/branding">next: branding</a>
+<a href="https://insights.workdojos.com/statistician/branding">next: branding</a>
 </p>

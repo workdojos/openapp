@@ -21,5 +21,5 @@ Pinterest: Create boards featuring financial tips, resources, and inspiration. P
 Overall, the key to a successful social media campaign is to consistently share valuable and engaging content that speaks to your target audience. By offering helpful resources and interacting with followers, you can build a loyal following and increase brand awareness for your financial services business.
 
 <br>
-<a href="https://workdojos.com/investmentbanker/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/investmentbanker/startup">next: startup ideas</a>
 </p>

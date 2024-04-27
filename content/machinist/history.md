@@ -15,6 +15,6 @@ The word "machining" comes from the verb "to machine", which means "to shape or 
 Over time, the meanings of both "machinist" and "machining" have remained relatively consistent, although the specific machines and technologies used in machining have evolved and improved. Today, a machinist is typically someone who is skilled in operating and maintaining machines that cut, shape, or form materials, while machining refers to the process of using these machines to shape or form materials.
 
 <br>
-<a href="https://workdojos.com/machinist/advice">next: advice</a>
+<a href="https://insights.workdojos.com/machinist/advice">next: advice</a>
 <br>
 </p>

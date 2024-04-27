@@ -21,6 +21,6 @@ As the years passed, Rachel became a household name and a role model for aspirin
 Rachel's story is just one example of the many talented musicians who have made it in the music industry. From classical composers like Ludwig van Beethoven to modern-day pop stars like Lady Gaga, the world of music is full of amazing stories and talented people.
 
 <br>
-<a href="https://workdojos.com/musicalartist/history">next: history</a>
+<a href="https://insights.workdojos.com/musicalartist/history">next: history</a>
 <br>
 </p>

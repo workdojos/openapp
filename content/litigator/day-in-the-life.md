@@ -25,6 +25,6 @@ Over the years, Rachel's career flourished. She became known as one of the best 
 Rachel's story is just one example of the exciting and challenging life of a litigator. Whether they are working on high-profile cases or fighting for justice for their clients, litigators are an essential part of the legal industry, and their work has the power to change the world.
 
 <br>
-<a href="https://workdojos.com/litigator/history">next: history</a>
+<a href="https://insights.workdojos.com/litigator/history">next: history</a>
 <br>
 </p>

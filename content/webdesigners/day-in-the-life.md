@@ -23,6 +23,6 @@ Emily knew that she was just a small player in the vast digital services industr
 As she closed her laptop and headed to bed, Emily couldn't wait to see what the next day in the life of a web designer would bring.
 
 <br>
-<a href="https://workdojos.com/webdesigners/history">next: history</a>
+<a href="https://insights.workdojos.com/webdesigners/history">next: history</a>
 <br>
 </p>

@@ -19,5 +19,5 @@ In addition, the financial services industry as a whole can improve by prioritiz
 In conclusion, the financial services industry is facing significant challenges and controversies. However, by addressing these issues and prioritizing the needs of investment bankers and customers, we can create a more stable and trustworthy financial system that benefits all stakeholders.
 
 <br>
-<a href="https://workdojos.com/investmentbanker/history">next: history</a>
+<a href="https://insights.workdojos.com/investmentbanker/history">next: history</a>
 </p>

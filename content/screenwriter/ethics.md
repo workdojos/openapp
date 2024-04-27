@@ -21,5 +21,5 @@ Finally, it is also important to consider the financial implications of your car
 Overall, developing an ethical framework for starting a career as a screenwriter in the film industry involves considering the impact of your work on society, treating others with respect and fairness, and being mindful of financial considerations. By taking these ethical considerations into account, you can ensure that you are making choices that align with your values and contribute to the greater good.
 
 <br>
-<a href="https://workdojos.com/screenwriter/social">next: social media</a>
+<a href="https://insights.workdojos.com/screenwriter/social">next: social media</a>
 </p>

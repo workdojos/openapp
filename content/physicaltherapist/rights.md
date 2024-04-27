@@ -20,5 +20,5 @@ Furthermore, physical therapists deserve to be fairly compensated for their hard
 In conclusion, fair work practices for physical therapists in the physical therapy industry are crucial for the well-being and success of these professionals. It is important for employers to prioritize the rights and needs of their workers, as well as the overall quality of care provided to patients. By advocating for fair treatment and proper wages, we can ensure that physical therapists are able to do their jobs to the best of their ability and provide the highest level of care for their patients.
 
 <br>
-<a href="https://workdojos.com/physicaltherapist/branding">next: branding</a>
+<a href="https://insights.workdojos.com/physicaltherapist/branding">next: branding</a>
 </p>

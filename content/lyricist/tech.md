@@ -21,6 +21,6 @@ For lyricists, open-source technology can provide a way to showcase their work a
 Overall, open-source technology has the potential to revolutionize the music industry and help musicians and lyricists succeed on their own terms. By supporting small businesses and empowering independent artists, it can also play a key role in building a thriving economy.
 
 <br>
-<a href="https://workdojos.com/lyricist/website">next: website</a>
+<a href="https://insights.workdojos.com/lyricist/website">next: website</a>
 <br>
 </p>

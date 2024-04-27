@@ -19,5 +19,5 @@ In terms of job market trends, the demand for beauticians is expected to grow in
 Overall, it's important to do your research and consider all of your options before making a decision about your career path. But if you have a passion for beauty and wellness, and the necessary skills and qualifications, a career as a beautician in the health and wellness industry could be a great fit for you. So, it is a good idea to pursue this career.
 
 <br>
-<a href="https://workdojos.com/beauticians/start">next: get started</a>
+<a href="https://insights.workdojos.com/beauticians/start">next: get started</a>
 </p>

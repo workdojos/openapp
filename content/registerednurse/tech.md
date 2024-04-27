@@ -21,6 +21,6 @@ In addition to registered nurses, small businesses will also play a critical rol
 Overall, the healthcare industry is facing significant challenges, but there are also many opportunities for improvement. By embracing open-source technology, registered nurses can thrive in their careers, and small businesses can play a key role in driving innovation and improvement in the industry. With the right approach, we can create a healthcare system that is more accessible, efficient, and effective for all.
 
 <br>
-<a href="https://workdojos.com/registerednurse/website">next: website</a>
+<a href="https://insights.workdojos.com/registerednurse/website">next: website</a>
 <br>
 </p>

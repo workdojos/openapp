@@ -18,5 +18,5 @@ In addition to these resources, I would recommend engaging in ongoing ethical re
 Overall, building an ethical framework for a career as a beautician in the health and wellness industry requires a combination of knowledge, critical thinking, and ongoing ethical self-reflection. By actively seeking out and engaging with ethical resources and guidance, and by staying attuned to ethical challenges as they arise, a beautician can develop an ethical framework that helps them navigate this complex and rewarding field with confidence and integrity.
 
 <br>
-<a href="https://workdojos.com/beauticians/social">next: social media</a>
+<a href="https://insights.workdojos.com/beauticians/social">next: social media</a>
 </p>

@@ -19,6 +19,6 @@ One of the most interesting things we have learned about education in recent tim
 Overall, the evolution of education has been shaped by various cultural, social, and economic factors. As we continue to learn more about the best ways to educate and empower future generations, the concept of education will continue to evolve and adapt to meet the changing needs of society.
 
 <br>
-<a href="https://workdojos.com/schoolteachers/advice">next: advice</a>
+<a href="https://insights.workdojos.com/schoolteachers/advice">next: advice</a>
 <br>
 </p>

@@ -19,5 +19,5 @@ Some useful websites for learning more about the medical industry include the Am
 In terms of the best and worst jobs in the medical industry, it ultimately depends on an individual's interests and skills. Some highly sought-after medical specialties include surgery, neurology, and radiology, while some less desirable jobs may include working in long-term care facilities or performing repetitive tasks in a hospital setting. Ultimately, the best and worst jobs in the medical industry are subjective, and individuals should consider their own strengths and preferences when choosing a career path in healthcare.
 
 <br>
-<a href="https://workdojos.com/clinician/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/clinician/day-in-the-life">next: day in the life</a>
 </p>

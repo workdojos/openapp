@@ -21,5 +21,5 @@ Get excited about the potential for success: The music industry can be competiti
 Don't forget about the little-known perks: There are also many little-known perks of working in the music industry, such as getting to travel to different cities and countries, being able to work with talented and creative people, and having the opportunity to be a part of something that truly makes a difference in people's lives. Embrace these perks and let them inspire you to pursue your dreams with passion and purpose.
 
 <br>
-<a href="https://workdojos.com/musicalartist/learning">next: learning</a>
+<a href="https://insights.workdojos.com/musicalartist/learning">next: learning</a>
 </p>

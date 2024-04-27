@@ -20,5 +20,5 @@ One recent event that highlights the need for fair work practices in the cannabi
 In conclusion, it is essential that we promote fair work practices for growers in the cannabis industry. This includes ensuring that workers are treated with respect, compensated fairly, and protected from exploitation and mistreatment. By supporting these principles, we can create a more just and equitable industry for all.
 
 <br>
-<a href="https://workdojos.com/growers/branding">next: branding</a>
+<a href="https://insights.workdojos.com/growers/branding">next: branding</a>
 </p>

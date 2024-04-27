@@ -37,5 +37,5 @@ Use a mix of different types of content, such as photos, videos, infographics, a
 Update your platforms regularly to keep your followers engaged and attract new ones.
 
 <br>
-<a href="https://workdojos.com/labtech/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/labtech/ethics">next: ethical framework</a>
 </p>

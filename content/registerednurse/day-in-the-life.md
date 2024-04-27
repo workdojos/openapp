@@ -21,6 +21,6 @@ As Maria continued to work in the healthcare industry, she learned about some of
 In the end, Maria's hard work and dedication paid off, as she became known as one of the best registered nurses in her community. She was respected and admired by her colleagues and patients alike, and she knew that she had found her calling in the world of healthcare.
 
 <br>
-<a href="https://workdojos.com/registerednurse/history">next: history</a>
+<a href="https://insights.workdojos.com/registerednurse/history">next: history</a>
 <br>
 </p>

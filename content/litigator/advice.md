@@ -21,5 +21,5 @@ In addition to a law degree, there are several other qualifications that can be 
 Overall, a career as a lawyer can be a challenging and rewarding choice for individuals with the right skills and interests. If you are interested in pursuing a career in this field, I recommend researching the different options available, considering the job market trends, and obtaining the necessary qualifications to increase your chances of success.
 
 <br>
-<a href="https://workdojos.com/litigator/start">next: get started</a>
+<a href="https://insights.workdojos.com/litigator/start">next: get started</a>
 </p>

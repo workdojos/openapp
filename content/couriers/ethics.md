@@ -20,5 +20,5 @@ Virtues ethics: This approach would focus on the development of virtues and good
 Ultimately, the choice of ethical framework will depend on the individual's values and priorities, as well as the specific context and challenges faced by the supply-chain industry. However, by considering these different approaches and reflecting on their strengths and limitations, one can hopefully arrive at a well-reasoned and well-informed ethical framework for starting a career as a courier in the supply-chain industry.
 
 <br>
-<a href="https://workdojos.com/couriers/social">next: social media</a>
+<a href="https://insights.workdojos.com/couriers/social">next: social media</a>
 </p>

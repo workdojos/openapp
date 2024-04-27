@@ -69,5 +69,5 @@ Dependence on relationships with travel partners
 Need for continuous marketing efforts to attract and retain users
 
 <br>
-<a href="https://workdojos.com/travelagents/tech">next: open-source tech</a>
+<a href="https://insights.workdojos.com/travelagents/tech">next: open-source tech</a>
 </p>

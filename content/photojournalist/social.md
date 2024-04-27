@@ -21,5 +21,5 @@ Engage with followers: Make sure to regularly engage with your followers on all 
 Overall, the key is to create engaging and informative content that showcases your skills and expertise as a photo journalist, and to be proactive about engaging with your followers on social media. With a little creativity and effort, I'm confident that you'll be able to effectively promote your new business and increase brand awareness.
 
 <br>
-<a href="https://workdojos.com/photojournalist/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/photojournalist/startup">next: startup ideas</a>
 </p>

@@ -18,5 +18,5 @@ Another trend that has been a cause for concern is the increasing use of tempora
 In order to promote fair work practices for school teachers, it is crucial that these issues are addressed and resolved. This includes ensuring that teachers receive fair wages and benefits, and that all workers in the education industry are treated with respect and given the support they need to succeed in their roles. By advocating for the rights and well-being of school teachers, we can create a more equitable and supportive work environment that benefits both teachers and students.
 
 <br>
-<a href="https://workdojos.com/schoolteachers/branding">next: branding</a>
+<a href="https://insights.workdojos.com/schoolteachers/branding">next: branding</a>
 </p>

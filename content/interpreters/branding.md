@@ -21,5 +21,5 @@ To measure success, I would use analytics to track metrics such as website traff
 Overall, my goal as the social media manager for your organization would be to increase brand awareness, recruit followers, drive traffic to your website, and create opportunities for collaboration within the translation & interpretation industry.
 
 <br>
-<a href="https://workdojos.com/interpreters/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/interpreters/ethics">next: ethical framework</a>
 </p>

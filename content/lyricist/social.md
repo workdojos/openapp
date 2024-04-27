@@ -19,5 +19,5 @@ Finally, on Pinterest, you can create boards that showcase your lyrics, music in
 Overall, the key to creating an engaging campaign is to be authentic and genuine, and to share valuable content that resonates with your audience. By using a variety of platforms and engaging with your followers, you can effectively promote your new business as a lyricist and increase brand awareness in the music industry.
 
 <br>
-<a href="https://workdojos.com/lyricist/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/lyricist/startup">next: startup ideas</a>
 </p>

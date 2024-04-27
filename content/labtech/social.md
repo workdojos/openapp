@@ -32,5 +32,5 @@ Pin images and videos showcasing your lab and the work you do
 Collaborate with other lab techs or industry experts to create shared boards or contribute content to your boards
 
 <br>
-<a href="https://workdojos.com/labtech/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/labtech/startup">next: startup ideas</a>
 </p>

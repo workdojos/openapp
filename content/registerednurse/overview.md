@@ -21,5 +21,5 @@ In terms of the best and worst jobs in the healthcare industry, it really depend
 Overall, the healthcare industry is a dynamic and rewarding field with numerous opportunities for those interested in pursuing a career in the field. Whether you are looking to become a doctor, nurse, or healthcare administrator, there are a variety of paths to take and resources available to help you succeed.
 
 <br>
-<a href="https://workdojos.com/registerednurse/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/registerednurse/day-in-the-life">next: day in the life</a>
 </p>

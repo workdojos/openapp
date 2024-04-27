@@ -29,6 +29,6 @@ As the children listened to Joe's story, their eyes were wide with wonder and ad
 And so, the story of the day in the life of a firefighter became a lasting memory for the children, inspiring them to always strive for courage and compassion in their own lives. The end.
 
 <br>
-<a href="https://workdojos.com/firefighters/history">next: history</a>
+<a href="https://insights.workdojos.com/firefighters/history">next: history</a>
 <br>
 </p>

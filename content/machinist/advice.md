@@ -15,5 +15,5 @@ In terms of research, I would recommend exploring the job market trends in the m
 Based on this research, I would advise the individual on the best course of action for pursuing a career as a machinist. This might include pursuing relevant education or training, networking with professionals in the field, or gaining relevant experience through internships or entry-level positions. Ultimately, the key to success in this career is a combination of skills, interests, and experience, so it is important for the individual to be proactive in developing their expertise and building their professional network.
 
 <br>
-<a href="https://workdojos.com/machinist/start">next: get started</a>
+<a href="https://insights.workdojos.com/machinist/start">next: get started</a>
 </p>

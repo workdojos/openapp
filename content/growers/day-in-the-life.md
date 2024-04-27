@@ -23,6 +23,6 @@ As the day came to an end, Maria was satisfied with the work she had done and wa
 And that, dear friends, is a day in the life of a grower.
 
 <br>
-<a href="https://workdojos.com/growers/history">next: history</a>
+<a href="https://insights.workdojos.com/growers/history">next: history</a>
 <br>
 </p>

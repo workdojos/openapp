@@ -21,5 +21,5 @@ To further increase your chances of obtaining a park ranger position, it may be 
 Overall, a career as a park ranger can be rewarding and fulfilling for those who have a passion for the outdoors and a desire to protect and preserve natural resources. With the right qualifications and experience, you can make a meaningful contribution to conservation and park management.
 
 <br>
-<a href="https://workdojos.com/parkranger/start">next: get started</a>
+<a href="https://insights.workdojos.com/parkranger/start">next: get started</a>
 </p>

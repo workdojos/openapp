@@ -19,5 +19,5 @@ It's also important to consider the job market trends in the special events indu
 When considering a career as an event planner in the special events industry, it's important to do your research and understand the skills and qualifications that are necessary for success. It may also be helpful to reach out to professionals in the field and seek out internships or entry-level positions to gain hands-on experience. With hard work and dedication, a career as an event planner in the special events industry can be rewarding and fulfilling.
 
 <br>
-<a href="https://workdojos.com/eventplanners/start">next: get started</a>
+<a href="https://insights.workdojos.com/eventplanners/start">next: get started</a>
 </p>

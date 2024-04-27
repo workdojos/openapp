@@ -23,5 +23,5 @@ While there are many rewarding jobs in the botany industry, it is important to n
 Overall, the botany industry offers a wide range of exciting and fulfilling career opportunities for those with a passion for plants and the natural world. With the right resources and networking, anyone can find a place in this dynamic and important field.
 
 <br>
-<a href="https://workdojos.com/botanist/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/botanist/day-in-the-life">next: day in the life</a>
 </p>

@@ -20,5 +20,5 @@ To increase your chances of success in this field, it may be helpful to pursue c
 In conclusion, a career as a courier working in the supply-chain industry could be a great fit for you if you have relevant skills and experience, enjoy working independently, and are comfortable interacting with customers. To increase your chances of success in this field, it may be helpful to pursue relevant qualifications or certifications. I hope this guidance has been helpful and wish you the best of luck in your career journey.
 
 <br>
-<a href="https://workdojos.com/couriers/start">next: get started</a>
+<a href="https://insights.workdojos.com/couriers/start">next: get started</a>
 </p>

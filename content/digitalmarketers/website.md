@@ -22,6 +22,6 @@ Overall, the benefits of using open-source technology for your business website 
 
 <br>
 
-<a href="https://workdojos.com/digitalmarketers/overview">next: overview</a>
+<a href="https://insights.workdojos.com/digitalmarketers/overview">next: overview</a>
 <br>
 </p>

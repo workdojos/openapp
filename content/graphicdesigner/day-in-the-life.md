@@ -23,6 +23,6 @@ In the end, Sarah's hard work paid off. Her client was thrilled with the new log
 And so, Sarah's day in the life of a graphic designer was full of creativity, hard work, and endless possibilities. She knew that no matter where her career took her, she would always be inspired by the great designers who had come before her and eager to keep pushing the boundaries of what was possible.
 
 <br>
-<a href="https://workdojos.com/graphicdesigner/history">next: history</a>
+<a href="https://insights.workdojos.com/graphicdesigner/history">next: history</a>
 <br>
 </p>

@@ -39,5 +39,5 @@ How do you handle unexpected challenges during the planning process?
 How do you measure the success of an event or exhibition? What metrics do you use?
 
 <br>
-<a href="https://workdojos.com/exhibitionist/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/exhibitionist/rights">next: workers' rights</a>
 </p>

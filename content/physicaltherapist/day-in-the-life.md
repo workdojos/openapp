@@ -23,6 +23,6 @@ Throughout history, there have been many notable physical therapists who have ma
 In conclusion, the day in the life of a physical therapist is filled with challenges and triumphs, as they work tirelessly to help their patients achieve their goals. Whether they are working with athletes or seniors, physical therapists are dedicated professionals who play an integral role in the healthcare industry.
 
 <br>
-<a href="https://workdojos.com/physicaltherapist/history">next: history</a>
+<a href="https://insights.workdojos.com/physicaltherapist/history">next: history</a>
 <br>
 </p>

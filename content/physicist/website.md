@@ -19,6 +19,6 @@ It's important to consider the pros and cons of each option, as well as the cost
 
 <br>
 
-<a href="https://workdojos.com/physicist/overview">next: overview</a>
+<a href="https://insights.workdojos.com/physicist/overview">next: overview</a>
 <br>
 </p>

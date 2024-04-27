@@ -20,5 +20,5 @@ Pinterest: Create a Pinterest board specifically for your business as an animato
 Overall, the key to success with these platforms is to be consistent and engaging, and to always be on the lookout for new and innovative ways to showcase your work as an animator.
 
 <br>
-<a href="https://workdojos.com/animators/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/animators/startup">next: startup ideas</a>
 </p>

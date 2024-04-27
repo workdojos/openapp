@@ -33,5 +33,5 @@ Finally, the National Accrediting Agency for Clinical Laboratory Sciences (NAACL
 I hope these resources help you get excited about a career as a lab tech in the laboratory testing industry. Remember, this is an exciting and growing field with lots of upside potential, so don't be afraid to dive in and start exploring all the opportunities that are out there!
 
 <br>
-<a href="https://workdojos.com/labtech/learning">next: learning</a>
+<a href="https://insights.workdojos.com/labtech/learning">next: learning</a>
 </p>

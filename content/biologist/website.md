@@ -20,6 +20,6 @@ Overall, the main benefits of using open-source technology to build your website
 
 <br>
 
-<a href="https://workdojos.com/biologist/overview">next: overview</a>
+<a href="https://insights.workdojos.com/biologist/overview">next: overview</a>
 <br>
 </p>

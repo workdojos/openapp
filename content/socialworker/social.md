@@ -23,5 +23,5 @@ Use Instagram and Pinterest to showcase your services and offerings by sharing i
 Overall, the key is to be authentic and genuine in your content and interactions with your followers. By creating engaging and valuable content, you can effectively promote your business and build a strong community of followers who are interested in your work.
 
 <br>
-<a href="https://workdojos.com/socialworker/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/socialworker/startup">next: startup ideas</a>
 </p>

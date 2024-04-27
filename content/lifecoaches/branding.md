@@ -21,5 +21,5 @@ To drive traffic to your website and increase conversions, I would include links
 Overall, my goal as a social media manager for your life coaching organization would be to create a strong and engaging presence on Twitter, Instagram, and Pinterest that increases brand awareness, recruits followers, drives traffic to your website, and leads to conversions.
 
 <br>
-<a href="https://workdojos.com/lifecoaches/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/lifecoaches/ethics">next: ethical framework</a>
 </p>

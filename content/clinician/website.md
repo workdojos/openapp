@@ -24,6 +24,6 @@ Overall, the use of open-source technology for building your website can provide
 
 <br>
 
-<a href="https://workdojos.com/clinician/overview">next: overview</a>
+<a href="https://insights.workdojos.com/clinician/overview">next: overview</a>
 <br>
 </p>

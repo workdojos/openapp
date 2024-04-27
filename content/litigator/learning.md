@@ -37,5 +37,5 @@ Have you had any internships or work experience in a law firm or legal setting?
 How do you handle difficult or challenging cases?
 
 <br>
-<a href="https://workdojos.com/litigator/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/litigator/rights">next: workers' rights</a>
 </p>

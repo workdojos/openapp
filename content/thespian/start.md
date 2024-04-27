@@ -23,5 +23,5 @@ As for helpful websites, I would recommend checking out The Actor's center (http
 And finally, don't forget to keep a positive and excited attitude about your career as a thespian! Believe in yourself and your abilities, and always stay motivated and driven to succeed. With hard work and dedication, you can achieve your goals and have a successful and fulfilling career in the performing arts industry. So, keep up the good work and never give up on your dreams!
 
 <br>
-<a href="https://workdojos.com/thespian/learning">next: learning</a>
+<a href="https://insights.workdojos.com/thespian/learning">next: learning</a>
 </p>

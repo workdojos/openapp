@@ -19,5 +19,5 @@ Furthermore, the legal industry can improve in the future by implementing measur
 Overall, it is clear that the legal industry is facing a number of challenges that need to be addressed in order to create a more equitable and efficient justice system. By making it easier for lawyerto find work, paying them a fair wage, and increasing transparency and accountability, we can create a legal industry that is better for everyone.
 
 <br>
-<a href="https://workdojos.com/litigator/history">next: history</a>
+<a href="https://insights.workdojos.com/litigator/history">next: history</a>
 </p>

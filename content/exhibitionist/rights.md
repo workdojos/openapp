@@ -22,5 +22,5 @@ Another option is to advocate for stronger worker protections, such as extending
 Ultimately, it is important that we stand up for the rights of workers in the art and special events industry. By promoting fair work practices and pushing for change, we can create a more just and equitable industry for all.
 
 <br>
-<a href="https://workdojos.com/exhibitionist/branding">next: branding</a>
+<a href="https://insights.workdojos.com/exhibitionist/branding">next: branding</a>
 </p>

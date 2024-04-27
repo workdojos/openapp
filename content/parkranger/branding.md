@@ -23,5 +23,5 @@ Use analytics to measure success: I would use analytics tools to track the succe
 Collaborate with others: Finally, I would work to identify opportunities for collaboration with other organizations and individuals in the conservation and park management industry. This could involve sharing each other's content, hosting joint events, or participating in online campaigns together.
 
 <br>
-<a href="https://workdojos.com/parkranger/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/parkranger/ethics">next: ethical framework</a>
 </p>

@@ -22,6 +22,6 @@ The concept of supply-chain management has its roots in military logistics, wher
 Over time, the meaning of the term "supply-chain" has evolved to encompass not just the physical movement of goods, but also the management of information and data related to those goods. With the increasing use of technology in logistics and supply-chain management, the term now often includes the use of computer systems and data analytics to track and optimize the flow of goods and information within a supply chain.
 
 <br>
-<a href="https://workdojos.com/couriers/advice">next: advice</a>
+<a href="https://insights.workdojos.com/couriers/advice">next: advice</a>
 <br>
 </p>

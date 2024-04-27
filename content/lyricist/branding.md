@@ -30,5 +30,5 @@ Collaborate with other musicians or music industry professionals by sharing each
 Utilize Pinterest analytics to track which pins are getting the most traction and adjust future content accordingly.
 
 <br>
-<a href="https://workdojos.com/lyricist/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/lyricist/ethics">next: ethical framework</a>
 </p>

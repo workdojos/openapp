@@ -19,6 +19,6 @@ As the cannabis industry continues to mature and mainstream, it is important for
 Overall, the adoption of open-source technology in the cannabis industry is crucial for its continued growth and success. By promoting transparency, collaboration, and sustainability, open-source technology serves as a key component for small businesses and independent growers to thrive in the industry and contribute to a thriving economy.
 
 <br>
-<a href="https://workdojos.com/growers/website">next: website</a>
+<a href="https://insights.workdojos.com/growers/website">next: website</a>
 <br>
 </p>

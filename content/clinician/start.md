@@ -20,5 +20,5 @@ If you want to learn more about the perks and benefits of working as a clinician
 In conclusion, there are many exciting perks and benefits to working as a clinician in the medical industry. You'll be making a real difference in people's lives, you'll have the opportunity to grow and improve your skills, and you'll have the financial security of a good salary in a field that is always in demand. So don't be afraid to pursue your dream of becoming a clinician – with hard work and determination, you can make it happen!
 
 <br>
-<a href="https://workdojos.com/clinician/learning">next: learning</a>
+<a href="https://insights.workdojos.com/clinician/learning">next: learning</a>
 </p>

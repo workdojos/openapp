@@ -17,6 +17,6 @@ The word "interpretation" comes from the Latin word "interpretatio," which means
 Over time, the meanings of these words have remained largely unchanged. However, they have also been expanded to include other forms of communication beyond language, such as sign language or nonverbal cues.
 
 <br>
-<a href="https://workdojos.com/interpreters/advice">next: advice</a>
+<a href="https://insights.workdojos.com/interpreters/advice">next: advice</a>
 <br>
 </p>

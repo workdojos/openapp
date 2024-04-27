@@ -21,5 +21,5 @@ Finally, it is important to regularly create engaging content and update the org
 Overall, by following these strategies and regularly monitoring and analyzing our progress, we can effectively manage the presence of the writing & publishing organization on social media and achieve our goals of increasing brand awareness, recruiting followers, driving traffic to the website, and fostering collaboration with others in the industry.
 
 <br>
-<a href="https://workdojos.com/novelist/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/novelist/ethics">next: ethical framework</a>
 </p>

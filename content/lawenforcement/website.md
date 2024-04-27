@@ -23,6 +23,6 @@ Overall, using open-source technology can be a great way to build a professional
 
 <br>
 
-<a href="https://workdojos.com/lawenforcement/overview">next: overview</a>
+<a href="https://insights.workdojos.com/lawenforcement/overview">next: overview</a>
 <br>
 </p>

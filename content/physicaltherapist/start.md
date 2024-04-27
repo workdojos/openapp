@@ -25,5 +25,5 @@ The Physical Therapist Assistant: This website is specifically geared towards ph
 Remember, working as a physical therapist can be a rewarding and fulfilling career choice. With hard work and dedication, you can make a difference in people's lives while also enjoying the benefits of a growing and in-demand profession. Keep pushing towards your goals, and you'll be able to achieve them in no time!
 
 <br>
-<a href="https://workdojos.com/physicaltherapist/learning">next: learning</a>
+<a href="https://insights.workdojos.com/physicaltherapist/learning">next: learning</a>
 </p>

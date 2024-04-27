@@ -23,5 +23,5 @@ We also need to improve working conditions for biologists in the biosciences ind
 Ultimately, fair work practices are essential for the success of the biosciences industry. By promoting worker’s rights, fair treatment, and proper wages, we can create a more just and equitable industry that is better able to serve the needs of society.
 
 <br>
-<a href="https://workdojos.com/biologist/branding">next: branding</a>
+<a href="https://insights.workdojos.com/biologist/branding">next: branding</a>
 </p>

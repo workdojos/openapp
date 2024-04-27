@@ -39,5 +39,5 @@ Can you discuss a time when you had to make significant revisions to a script, a
 How do you stay up to date on industry trends and techniques, and how do you continue to improve your craft?
 
 <br>
-<a href="https://workdojos.com/screenwriter/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/screenwriter/rights">next: workers' rights</a>
 </p>

@@ -20,6 +20,6 @@ But the benefits of open-source technology go beyond just the content creation i
 In conclusion, the content creation industry is a vital part of the modern economy, and open-source technology plays a crucial role in helping content creators and small businesses to succeed. By using open-source tools, content creators can save money, stay current, and be a part of a supportive community, while small businesses can access the same resources as larger corporations, helping to create a thriving and diverse economy.
 
 <br>
-<a href="https://workdojos.com/contentcreators/website">next: website</a>
+<a href="https://insights.workdojos.com/contentcreators/website">next: website</a>
 <br>
 </p>

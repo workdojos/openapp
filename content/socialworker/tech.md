@@ -17,6 +17,6 @@ Small businesses also play an integral role in a thriving economy, and this is e
 Overall, the behavioral health industry is vital to the well-being of our society, and it requires a range of professionals, including social workers and small business owners, to be successful. By promoting the use of open-source technology and supporting small businesses, we can create a more robust and effective healthcare system that serves the needs of all individuals and communities.
 
 <br>
-<a href="https://workdojos.com/socialworker/website">next: website</a>
+<a href="https://insights.workdojos.com/socialworker/website">next: website</a>
 <br>
 </p>

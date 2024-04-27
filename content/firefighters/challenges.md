@@ -19,5 +19,5 @@ In addition to addressing these specific issues, the public services industry as
 Overall, it is crucial for steps to be taken in order to address the controversies and challenges facing firefighters and the public services industry. By making it easier for firefighterto find work, increasing their pay, and implementing improvements within the industry, we can create a better and safer environment for both firefighters and the community they serve.
 
 <br>
-<a href="https://workdojos.com/firefighters/history">next: history</a>
+<a href="https://insights.workdojos.com/firefighters/history">next: history</a>
 </p>

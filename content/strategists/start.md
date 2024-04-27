@@ -21,5 +21,5 @@ There are also numerous resources available to help you succeed in this field. W
 Finally, it's important to remember that the consulting industry is constantly evolving and growing. This means that there is always room for advancement and growth within your career. So if you're looking for an exciting and dynamic industry with lots of upside potential, the consulting industry may be the perfect fit for you. So go out there and chase your dreams, and don't forget to always stay motivated and focused on your goals!
 
 <br>
-<a href="https://workdojos.com/strategists/learning">next: learning</a>
+<a href="https://insights.workdojos.com/strategists/learning">next: learning</a>
 </p>

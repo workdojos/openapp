@@ -21,6 +21,6 @@ Throughout history, there have been many notable exhibitionists who have made a 
 As Alice continued to grow her event planning company and share her art with the world, she became a true inspiration to other exhibitionists everywhere, reminding us all that with hard work and dedication, we can achieve our dreams and share our talents with the world.
 
 <br>
-<a href="https://workdojos.com/exhibitionist/history">next: history</a>
+<a href="https://insights.workdojos.com/exhibitionist/history">next: history</a>
 <br>
 </p>

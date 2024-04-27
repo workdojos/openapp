@@ -36,5 +36,5 @@ Estimated 1st Year Cost of Operation: $50,000-$100,000
 Potential Business Challenges: Competition from similar platforms, difficulty in convincing small scale farmers to adopt technology, fluctuating market prices affecting user satisfaction
 
 <br>
-<a href="https://workdojos.com/agriculturist/tech">next: open-source tech</a>
+<a href="https://insights.workdojos.com/agriculturist/tech">next: open-source tech</a>
 </p>

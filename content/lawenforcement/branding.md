@@ -19,5 +19,5 @@ To increase engagement and build a strong online community, I would regularly re
 Finally, I would use analytics to measure the success of our campaigns and make data-driven decisions about what works and what needs to be adjusted. This would involve tracking metrics such as engagement, website traffic, and conversion rates, and using this data to inform future strategies and tactics.
 
 <br>
-<a href="https://workdojos.com/lawenforcement/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/lawenforcement/ethics">next: ethical framework</a>
 </p>

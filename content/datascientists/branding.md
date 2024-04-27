@@ -24,5 +24,5 @@ Regularly update all social media platforms with fresh, engaging content. This c
 Overall, my goal as a social media manager would be to create a strong, positive presence for the data science organization on social media, while also building relationships and increasing brand awareness within the industry.
 
 <br>
-<a href="https://workdojos.com/datascientists/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/datascientists/ethics">next: ethical framework</a>
 </p>

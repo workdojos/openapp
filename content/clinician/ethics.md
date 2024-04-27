@@ -16,5 +16,5 @@ One potential solution may be to adopt a hybrid approach that combines elements 
 Ultimately, the ethical framework for clinicians should prioritize the well-being of their patients and respect for their autonomy, while also considering the broader impacts of their actions on society. It may also be necessary to consider the ethical implications of new technologies and advancements in the medical industry, and to continually reassess and adjust the ethical framework as needed.
 
 <br>
-<a href="https://workdojos.com/clinician/social">next: social media</a>
+<a href="https://insights.workdojos.com/clinician/social">next: social media</a>
 </p>

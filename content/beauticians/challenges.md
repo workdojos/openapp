@@ -30,5 +30,5 @@ Conclusion:
 The health and wellness industry has the potential to be a rewarding and fulfilling field for both professionals and clients. However, in order for it to thrive, it is important to address the challenges facing beauticians, such as difficulty finding work and low pay. By valuing the contributions of beauticians and providing them with fair compensation and employment opportunities, we can create a stronger and more sustainable industry that benefits everyone.
 
 <br>
-<a href="https://workdojos.com/beauticians/history">next: history</a>
+<a href="https://insights.workdojos.com/beauticians/history">next: history</a>
 </p>

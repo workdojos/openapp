@@ -21,5 +21,5 @@ In terms of the best and worst jobs in the industry, it is important to consider
 Overall, the translation and interpretation industry is a dynamic and rewarding field with many exciting opportunities for professionals. Whether you are looking to work as a freelance translator or interpreter, or to join a large translation or interpretation company, there are a number of ways to find opportunities and succeed in this growing industry.
 
 <br>
-<a href="https://workdojos.com/interpreters/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/interpreters/day-in-the-life">next: day in the life</a>
 </p>

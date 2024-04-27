@@ -23,6 +23,6 @@ There are many ways in which the education industry as a whole can improve. One 
 Overall, it is clear that the education industry plays a vital role in shaping the future of our society. By valuing and supporting teachers, incorporating technology in a balanced and effective way, and investing in the overall improvement of the industry, we can work towards a brighter future for all students.
 
 <br>
-<a href="https://workdojos.com/schoolteachers/website">next: website</a>
+<a href="https://insights.workdojos.com/schoolteachers/website">next: website</a>
 <br>
 </p>

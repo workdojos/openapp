@@ -19,5 +19,5 @@ If you're interested in learning more about the consulting industry, there are s
 When it comes to the best and worst jobs in the consulting industry, it's important to consider your personal strengths and interests. Some of the best jobs in the industry may include positions in strategy consulting, where you have the opportunity to work on high-level projects and make a real impact on your clients' businesses. On the other hand, some of the worst jobs in the industry may include positions that are more administrative or support-oriented, where you have less opportunity for growth and development. Ultimately, the best job in the consulting industry will depend on your personal goals and preferences.
 
 <br>
-<a href="https://workdojos.com/strategists/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/strategists/day-in-the-life">next: day in the life</a>
 </p>

@@ -20,5 +20,5 @@ It is important for the startup financing industry to prioritize fair work pract
 In conclusion, fair work practices are crucial for the startup financing industry to thrive. By prioritizing the rights and well-being of workers, the industry can foster a positive and innovative culture that benefits both workers and the industry as a whole.
 
 <br>
-<a href="https://workdojos.com/financier/branding">next: branding</a>
+<a href="https://insights.workdojos.com/financier/branding">next: branding</a>
 </p>

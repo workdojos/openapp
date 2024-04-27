@@ -17,5 +17,5 @@ There are several steps that can be taken to address these controversies and cha
 Finally, the machining industry as a whole can improve in the years to come by investing in new technologies and equipment. This will not only increase efficiency and productivity, but it will also help to attract more skilled workers to the field. By addressing these controversies and challenges, we can create a stronger, more sustainable machining industry that benefits both machinists and the industry as a whole.
 
 <br>
-<a href="https://workdojos.com/machinist/history">next: history</a>
+<a href="https://insights.workdojos.com/machinist/history">next: history</a>
 </p>

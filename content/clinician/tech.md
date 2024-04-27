@@ -18,6 +18,6 @@ Small businesses will also play a crucial role in the future of the medical indu
 In conclusion, open-source technology and small businesses are crucial to the success and evolution of the medical industry. By embracing these innovations, clinicians can thrive in their careers and provide the best care possible for their patients, while supporting a thriving economy in the process.
 
 <br>
-<a href="https://workdojos.com/clinician/website">next: website</a>
+<a href="https://insights.workdojos.com/clinician/website">next: website</a>
 <br>
 </p>

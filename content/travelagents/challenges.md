@@ -21,5 +21,5 @@ Finally, making it easier for travel agents to find work is important for the in
 Overall, the travel and tours industry is facing a number of controversies and challenges. However, by making it easier for travel agents to find work, we can help to ensure that the industry continues to thrive and provide valuable services to travelers. By offering personalized service, providing guidance and assistance in difficult situations, and supporting the overall health of the industry, travel agents play a vital role in the travel and tours industry.
 
 <br>
-<a href="https://workdojos.com/travelagents/history">next: history</a>
+<a href="https://insights.workdojos.com/travelagents/history">next: history</a>
 </p>

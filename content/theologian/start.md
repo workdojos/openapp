@@ -25,5 +25,5 @@ The Society of Christian Ethics: This organization provides resources and suppor
 I hope these resources help you as you explore this exciting career path. Remember to stay positive and motivated, and always keep your goals in mind. With hard work and dedication, you can achieve great things as a theologian in the religious organizations industry.
 
 <br>
-<a href="https://workdojos.com/theologian/learning">next: learning</a>
+<a href="https://insights.workdojos.com/theologian/learning">next: learning</a>
 </p>

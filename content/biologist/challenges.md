@@ -18,5 +18,5 @@ Finally, we need to consider how we can improve the biosciences industry as a wh
 In conclusion, the biosciences industry is facing a number of controversies and challenges. However, by making it easier for biologistto find work, paying them more, and improving the industry as a whole, we can address these issues and help to advance the field. By doing so, we can not only benefit biologists, but also society as a whole.
 
 <br>
-<a href="https://workdojos.com/biologist/history">next: history</a>
+<a href="https://insights.workdojos.com/biologist/history">next: history</a>
 </p>

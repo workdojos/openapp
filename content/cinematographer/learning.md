@@ -42,5 +42,5 @@ How do you handle difficult lighting situations on set?
 How do you stay current with new camera and lighting technology?
 
 <br>
-<a href="https://workdojos.com/cinematographer/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/cinematographer/rights">next: workers' rights</a>
 </p>

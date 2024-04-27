@@ -23,5 +23,5 @@ As for useful websites and resources, some great places to start researching and
 In terms of getting excited about a career as an exhibitionist in this industry, just remember that you have the opportunity to be a part of something truly special. You'll get to use your creativity and skills to help create and execute events that are meaningful, memorable, and impactful. And who knows, with hard work and dedication, you may even have the chance to work on some of the biggest and most prestigious events in the world. So go out there and make it happen!
 
 <br>
-<a href="https://workdojos.com/exhibitionist/learning">next: learning</a>
+<a href="https://insights.workdojos.com/exhibitionist/learning">next: learning</a>
 </p>

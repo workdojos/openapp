@@ -43,5 +43,5 @@ Have you worked with any notable industry professionals or collaborated with oth
 How do you stay up to date with industry trends and changes?
 
 <br>
-<a href="https://workdojos.com/musicalartist/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/musicalartist/rights">next: workers' rights</a>
 </p>

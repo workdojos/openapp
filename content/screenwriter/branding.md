@@ -21,5 +21,5 @@ In addition to creating engaging content, it's important to regularly interact w
 To measure the success of our efforts, we can use analytics tools such as Twitter Analytics and Instagram Insights to track engagement, website traffic, and conversion rates. By regularly reviewing these metrics, we can fine-tune our strategy and make adjustments as needed to maximize our reach and impact.
 
 <br>
-<a href="https://workdojos.com/screenwriter/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/screenwriter/ethics">next: ethical framework</a>
 </p>

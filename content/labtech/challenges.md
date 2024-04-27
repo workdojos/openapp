@@ -17,5 +17,5 @@ Additionally, the laboratory testing industry needs to focus on improving the ov
 In conclusion, the laboratory testing industry is facing a number of challenges that need to be addressed in order to improve the quality and reliability of test results. By making it easier for lab techto find work and offering higher salaries, we can attract and retain a skilled workforce. Additionally, implementing standardized protocols and investing in ongoing training and development can help improve the overall quality and reliability of test results, leading to better patient care and increased public trust in the industry.
 
 <br>
-<a href="https://workdojos.com/labtech/history">next: history</a>
+<a href="https://insights.workdojos.com/labtech/history">next: history</a>
 </p>

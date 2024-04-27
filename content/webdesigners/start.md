@@ -21,5 +21,5 @@ Get excited about the potential for growth: The digital services industry is gro
 Remember, the key to success is to stay motivated and keep learning. Don't be afraid to ask questions and seek guidance from those who have been in the field for a while. With hard work and determination, you can achieve your goals and become a successful web designer in the digital services industry. Good luck!
 
 <br>
-<a href="https://workdojos.com/webdesigners/learning">next: learning</a>
+<a href="https://insights.workdojos.com/webdesigners/learning">next: learning</a>
 </p>

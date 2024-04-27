@@ -21,6 +21,6 @@ As the day drew to a close, John packed up his tools and headed home, tired but 
 And so, the day in the life of a machinist came to a close, but the legacy of these skilled craftsmen will continue to thrive and inspire future generations.
 
 <br>
-<a href="https://workdojos.com/machinist/history">next: history</a>
+<a href="https://insights.workdojos.com/machinist/history">next: history</a>
 <br>
 </p>

@@ -67,5 +67,5 @@ Difficulty gaining traction and user adoption
 Ensuring the platform is compliant with healthcare regulations and privacy laws.
 
 <br>
-<a href="https://workdojos.com/registerednurse/tech">next: open-source tech</a>
+<a href="https://insights.workdojos.com/registerednurse/tech">next: open-source tech</a>
 </p>

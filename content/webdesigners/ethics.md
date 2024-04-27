@@ -17,5 +17,5 @@ To further develop an ethical framework for starting a career as a web designer,
 Ultimately, an ethical framework for a web designer should be guided by a commitment to creating positive change in the world through their work. This might involve designing websites that empower users, promote social justice, or protect the environment. It might also involve considering the ethical implications of different design choices and actively working to create a more ethical and responsible digital world.
 
 <br>
-<a href="https://workdojos.com/webdesigners/social">next: social media</a>
+<a href="https://insights.workdojos.com/webdesigners/social">next: social media</a>
 </p>

@@ -21,5 +21,5 @@ When it comes to the best and worst jobs in the philosophy and higher education 
 Overall, the philosophy and higher education industry offers a wide range of opportunities for those interested in working within it. Whether as a professor, an administrator, or a support staff member, those in this industry have the opportunity to make a positive impact on the lives of students and contribute to the growth and development of the next generation. With the right resources and networking skills, it is possible to find a rewarding and fulfilling career in this dynamic and exciting industry.
 
 <br>
-<a href="https://workdojos.com/philosophers/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/philosophers/day-in-the-life">next: day in the life</a>
 </p>

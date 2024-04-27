@@ -21,6 +21,6 @@ In addition to the benefits for religious organizations and theologians, the ado
 Overall, the religious organizations industry has much to gain from embracing open-source technology. From better communication and outreach efforts to opportunities for theologians and support for small businesses, the adoption of open-source tools and platforms can have a positive impact on this important sector of society.
 
 <br>
-<a href="https://workdojos.com/theologian/website">next: website</a>
+<a href="https://insights.workdojos.com/theologian/website">next: website</a>
 <br>
 </p>

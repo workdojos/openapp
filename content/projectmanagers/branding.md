@@ -25,5 +25,5 @@ Update regularly: Consistency is key on social media. Make sure to post regularl
 Overall, my goal as a social media manager would be to increase brand awareness, recruit followers, drive traffic to your website, and create opportunities for collaboration with others in the broader business industry. I believe that with a well-planned strategy and consistent engagement, we can achieve these goals and more.
 
 <br>
-<a href="https://workdojos.com/projectmanagers/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/projectmanagers/ethics">next: ethical framework</a>
 </p>

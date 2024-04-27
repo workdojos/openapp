@@ -22,6 +22,6 @@ Throughout history, there have been many notable college professors who have mad
 Dr. Emma knew that she had big shoes to fill, but she was determined to make a lasting impact in the higher education industry. And as she finished her day and headed home, she knew that she had made a difference, and she couldn't wait to do it all again the next day.
 
 <br>
-<a href="https://workdojos.com/collegeprofessor/history">next: history</a>
+<a href="https://insights.workdojos.com/collegeprofessor/history">next: history</a>
 <br>
 </p>

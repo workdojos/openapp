@@ -18,5 +18,5 @@ There are several steps that can be taken to address these challenges and contro
 In conclusion, the botany industry is facing a number of significant challenges and controversies. These include a lack of funding for research and development, a lack of job opportunities, and inadequate compensation for botanists. By addressing these issues, we can create a brighter future for the botany industry and ensure that it continues to thrive and make important contributions to society.
 
 <br>
-<a href="https://workdojos.com/botanist/history">next: history</a>
+<a href="https://insights.workdojos.com/botanist/history">next: history</a>
 </p>

@@ -23,5 +23,5 @@ How will you handle conflicts of interest and potential ethical dilemmas that ma
 By answering these questions and incorporating the values and principles they represent into your work, you can build a strong foundation for ethical conduct as an exhibitionist in the art and special events industry.
 
 <br>
-<a href="https://workdojos.com/exhibitionist/social">next: social media</a>
+<a href="https://insights.workdojos.com/exhibitionist/social">next: social media</a>
 </p>

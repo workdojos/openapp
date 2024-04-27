@@ -40,5 +40,5 @@ How do you stay current in your field and incorporate new research into your tea
 How do you handle difficult or challenging students in the classroom?
 
 <br>
-<a href="https://workdojos.com/collegeprofessor/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/collegeprofessor/rights">next: workers' rights</a>
 </p>

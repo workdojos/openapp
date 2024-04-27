@@ -49,5 +49,5 @@ How do you gather and analyze data to inform your strategic decision making?
 How do you effectively communicate and present your strategic recommendations to leadership and other stakeholders?
 
 <br>
-<a href="https://workdojos.com/strategists/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/strategists/rights">next: workers' rights</a>
 </p>

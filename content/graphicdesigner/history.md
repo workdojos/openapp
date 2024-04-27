@@ -17,6 +17,6 @@ The term "graphic designer" was first coined in 1922 by William Addison Dwiggins
 Over time, the field of graphic design has evolved to include a variety of media, including print, digital, and interactive design. It is now a professional field that includes a wide range of disciplines, including branding, packaging design, web design, and user interface design. The term "graphic arts" is often used to refer to the broader field of visual communication and includes a variety of media, including printmaking, photography, and film.
 
 <br>
-<a href="https://workdojos.com/graphicdesigner/advice">next: advice</a>
+<a href="https://insights.workdojos.com/graphicdesigner/advice">next: advice</a>
 <br>
 </p>

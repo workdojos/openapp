@@ -38,6 +38,6 @@ I hope this information is helpful and gives you a good understanding of the ben
 
 <br>
 
-<a href="https://workdojos.com/cinematographer/overview">next: overview</a>
+<a href="https://insights.workdojos.com/cinematographer/overview">next: overview</a>
 <br>
 </p>

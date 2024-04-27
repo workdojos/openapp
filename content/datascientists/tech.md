@@ -18,6 +18,6 @@ Small businesses will play an integral role in a thriving economy in the future,
 In conclusion, the data science industry should embrace open-source technology to foster collaboration, diversity, and cost-effectiveness. For a data scientist to thrive in this industry, they should continuously learn and have strong communication skills. Small businesses will play a crucial role in a thriving economy in the future, and the data science industry can support this by providing affordable and accessible solutions through open-source technology.
 
 <br>
-<a href="https://workdojos.com/datascientists/website">next: website</a>
+<a href="https://insights.workdojos.com/datascientists/website">next: website</a>
 <br>
 </p>

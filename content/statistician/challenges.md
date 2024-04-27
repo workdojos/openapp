@@ -19,5 +19,5 @@ Finally, there is a need to improve the statistical research and development ind
 In conclusion, the statistical research and development industry faces numerous controversies and challenges, including accusations of statistical fraud, difficulty in finding work, and the need to improve the industry as a whole. However, by addressing these issues and investing in the future of the industry, we can make it easier for statisticians to find work and improve the overall quality of statistical research and development.
 
 <br>
-<a href="https://workdojos.com/statistician/history">next: history</a>
+<a href="https://insights.workdojos.com/statistician/history">next: history</a>
 </p>

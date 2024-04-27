@@ -16,6 +16,6 @@ Health & wellness: The word "health" can be traced back to the Old English word 
 The concept of health and wellness has evolved over time to encompass not just physical well-being, but also mental, emotional, and spiritual well-being. Today, the term "health and wellness" is often used to refer to a holistic approach to living that focuses on maintaining overall well-being through diet, exercise, stress management, and other healthy lifestyle practices.
 
 <br>
-<a href="https://workdojos.com/beauticians/advice">next: advice</a>
+<a href="https://insights.workdojos.com/beauticians/advice">next: advice</a>
 <br>
 </p>

@@ -21,5 +21,5 @@ While the cannabis industry offers many exciting opportunities, it is important 
 Overall, the cannabis industry is an exciting and rapidly growing field with numerous opportunities for those interested in working in this industry. With the right networking, education, and experience, it is possible to find a rewarding and fulfilling career in the cannabis industry.
 
 <br>
-<a href="https://workdojos.com/growers/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/growers/day-in-the-life">next: day in the life</a>
 </p>

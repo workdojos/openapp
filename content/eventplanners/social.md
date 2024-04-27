@@ -19,5 +19,5 @@ On Pinterest, I would create boards featuring event planning inspiration, such a
 Overall, the goal of this campaign would be to showcase my skills as an event planner and to attract new clients looking for a professional and creative planner for their special events.
 
 <br>
-<a href="https://workdojos.com/eventplanners/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/eventplanners/startup">next: startup ideas</a>
 </p>

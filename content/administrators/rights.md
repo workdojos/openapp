@@ -19,5 +19,5 @@ One recent event that has brought attention to the issue of fair work practices 
 Overall, it is clear that there are many challenges facing workers in the administration and bookkeeping industry. It is crucial that companies prioritize fair treatment and proper wages for their employees in order to create a more sustainable and equitable industry. By promoting worker’s rights and fair practices, we can create a better future for all workers in this field.
 
 <br>
-<a href="https://workdojos.com/administrators/branding">next: branding</a>
+<a href="https://insights.workdojos.com/administrators/branding">next: branding</a>
 </p>

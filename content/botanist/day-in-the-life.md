@@ -22,6 +22,6 @@ As Amelia continued to study botany, she also began to think about the ways that
 And so, Amelia set out on a journey to become a great botanist, just like the ones she had read about in books. She traveled far and wide, studying plants and learning all she could about the world of botany. And as she learned, she also worked tirelessly to share her knowledge with others, hoping to inspire a new generation of botanists to follow in her footsteps.
 
 <br>
-<a href="https://workdojos.com/botanist/history">next: history</a>
+<a href="https://insights.workdojos.com/botanist/history">next: history</a>
 <br>
 </p>

@@ -18,5 +18,5 @@ In terms of qualifications, it is not always necessary to have a formal degree i
 Overall, it seems that a career as a content creator in the content creation industry is a good fit for you based on your skills, interests, and experience. I recommend continuing to develop your skills and building your portfolio, and considering pursuing relevant qualifications if it aligns with your career goals. With hard work and dedication, you can have a successful and fulfilling career as a content creator.
 
 <br>
-<a href="https://workdojos.com/contentcreators/start">next: get started</a>
+<a href="https://insights.workdojos.com/contentcreators/start">next: get started</a>
 </p>

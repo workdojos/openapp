@@ -52,5 +52,5 @@ How do you stay up to date with design trends and technologies?
 How do you handle feedback from clients or team members on your designs?
 
 <br>
-<a href="https://workdojos.com/graphicdesigner/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/graphicdesigner/rights">next: workers' rights</a>
 </p>

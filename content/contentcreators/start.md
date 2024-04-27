@@ -22,5 +22,5 @@ The Creative Penn (https://www.thecreativepenn.com/) is a website that offers ti
 I hope this information has gotten you excited about a career as a content creator! Remember, there are many resources and opportunities available to help you succeed in this exciting and growing industry.
 
 <br>
-<a href="https://workdojos.com/contentcreators/learning">next: learning</a>
+<a href="https://insights.workdojos.com/contentcreators/learning">next: learning</a>
 </p>

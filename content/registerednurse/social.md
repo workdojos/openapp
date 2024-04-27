@@ -21,5 +21,5 @@ Pinterest: Create a Pinterest board featuring healthcare-related content, such a
 I hope these ideas help! Let me know if you have any other questions or need further assistance.
 
 <br>
-<a href="https://workdojos.com/registerednurse/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/registerednurse/startup">next: startup ideas</a>
 </p>

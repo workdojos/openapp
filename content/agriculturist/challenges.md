@@ -16,5 +16,5 @@ There are several ways in which we can make it easier for agriculturistto find w
 Overall, it is clear that the agriculture industry is facing a number of challenges and controversies that need to be addressed if we want to ensure its long-term success. By making it easier for agriculturistto find work and paying them more, we can create a more sustainable and thriving industry that will benefit everyone.
 
 <br>
-<a href="https://workdojos.com/agriculturist/history">next: history</a>
+<a href="https://insights.workdojos.com/agriculturist/history">next: history</a>
 </p>

@@ -37,5 +37,5 @@ How do you approach environmental sustainability in your work?
 How do you approach farm management and financial planning?
 
 <br>
-<a href="https://workdojos.com/agriculturist/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/agriculturist/rights">next: workers' rights</a>
 </p>

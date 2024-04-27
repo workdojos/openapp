@@ -19,5 +19,5 @@ I would also advise the individual to consider the job market trends in the beha
 Overall, I believe that the individual has the skills and interests necessary to pursue a successful career as a social worker in the behavioral health industry. With the right education and experience, and a commitment to helping others, I believe that they can make a meaningful and rewarding impact in this field.
 
 <br>
-<a href="https://workdojos.com/socialworker/start">next: get started</a>
+<a href="https://insights.workdojos.com/socialworker/start">next: get started</a>
 </p>

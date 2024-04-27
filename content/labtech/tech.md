@@ -19,6 +19,6 @@ Small businesses play a crucial role in a thriving economy, and the laboratory t
 As a lab tech, it is important to not only stay current on the latest technology and techniques, but also be open to utilizing open-source solutions. This not only benefits your own work, but also the industry as a whole. By embracing open-source technology, we can all work together to drive innovation and improve the accuracy and efficiency of the laboratory testing industry.
 
 <br>
-<a href="https://workdojos.com/labtech/website">next: website</a>
+<a href="https://insights.workdojos.com/labtech/website">next: website</a>
 <br>
 </p>

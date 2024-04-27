@@ -25,6 +25,6 @@ Overall, the decision to use open-source technology for your website will depend
 
 <br>
 
-<a href="https://workdojos.com/litigator/overview">next: overview</a>
+<a href="https://insights.workdojos.com/litigator/overview">next: overview</a>
 <br>
 </p>

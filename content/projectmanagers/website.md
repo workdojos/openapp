@@ -21,6 +21,6 @@ Overall, the use of open-source technology can offer a cost-effective and custom
 
 <br>
 
-<a href="https://workdojos.com/projectmanagers/overview">next: overview</a>
+<a href="https://insights.workdojos.com/projectmanagers/overview">next: overview</a>
 <br>
 </p>

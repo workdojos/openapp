@@ -22,5 +22,5 @@ Qualifications: While there are no specific educational requirements for becomin
 Overall, I would recommend this individual to gain as much experience and education as possible in camera work and cinematography, and to network with professionals in the industry to gain insight and potential job opportunities.
 
 <br>
-<a href="https://workdojos.com/cinematographer/start">next: get started</a>
+<a href="https://insights.workdojos.com/cinematographer/start">next: get started</a>
 </p>

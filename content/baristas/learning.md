@@ -43,5 +43,5 @@ What is your favorite type of coffee bean and why?
 How do you stay organized and efficient during a busy shift?
 
 <br>
-<a href="https://workdojos.com/baristas/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/baristas/rights">next: workers' rights</a>
 </p>

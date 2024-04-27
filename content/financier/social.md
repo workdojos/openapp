@@ -38,5 +38,5 @@ Share visually appealing graphics and images that showcase your business and the
 Engage with followers by repinning and commenting on their pins.
 
 <br>
-<a href="https://workdojos.com/financier/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/financier/startup">next: startup ideas</a>
 </p>

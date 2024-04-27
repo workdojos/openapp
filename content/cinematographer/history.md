@@ -14,6 +14,6 @@ Cinema: The word "cinema" also has roots in the Greek language, with "kinēma" a
 Over time, the meanings of both "cinematographer" and "cinema" have remained relatively unchanged. However, the technology and techniques used in the field have evolved significantly, leading to the development of new subcategories such as digital cinematography and special effects cinematography.
 
 <br>
-<a href="https://workdojos.com/cinematographer/advice">next: advice</a>
+<a href="https://insights.workdojos.com/cinematographer/advice">next: advice</a>
 <br>
 </p>

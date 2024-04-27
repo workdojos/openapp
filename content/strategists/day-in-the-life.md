@@ -23,6 +23,6 @@ So, as you can see, the life of a strategist is never dull. It requires constant
 The end.
 
 <br>
-<a href="https://workdojos.com/strategists/history">next: history</a>
+<a href="https://insights.workdojos.com/strategists/history">next: history</a>
 <br>
 </p>

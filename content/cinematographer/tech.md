@@ -20,6 +20,6 @@ In the future, small businesses will play an integral role in a thriving economy
 In conclusion, the cinema industry must embrace open-source technology in order to adapt and thrive in a rapidly changing world. By doing so, we can not only support the success of cinematographers and small businesses, but also contribute to the overall health and prosperity of our economy.
 
 <br>
-<a href="https://workdojos.com/cinematographer/website">next: website</a>
+<a href="https://insights.workdojos.com/cinematographer/website">next: website</a>
 <br>
 </p>

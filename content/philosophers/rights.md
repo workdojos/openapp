@@ -20,5 +20,5 @@ To promote fair work practices in the higher education industry, I believe that 
 Ultimately, fair work practices are not only a matter of justice and fairness, but also contribute to the overall success and excellence of the higher education industry. By prioritizing the rights and well-being of workers, we can create a stronger and more sustainable academic community.
 
 <br>
-<a href="https://workdojos.com/philosophers/branding">next: branding</a>
+<a href="https://insights.workdojos.com/philosophers/branding">next: branding</a>
 </p>

@@ -21,6 +21,6 @@ The word "film" can be traced back to the early 19th century, when the medium of
 In the early 20th century, "film" was used to refer specifically to motion pictures, or movies. Today, the word "film" is often used to refer to any recorded media that can be shown on a screen, whether it is a movie, television show, or video. The word "film" has also been used to refer to the medium of film as a whole, including the process of making and distributing movies.
 
 <br>
-<a href="https://workdojos.com/screenwriter/advice">next: advice</a>
+<a href="https://insights.workdojos.com/screenwriter/advice">next: advice</a>
 <br>
 </p>

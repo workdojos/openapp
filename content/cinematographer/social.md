@@ -18,5 +18,5 @@ YouTube: Create a channel featuring short films or documentaries shot by you, as
 Pinterest: Create boards featuring your work as a cinematographer, as well as inspiration boards with beautiful shots and compositions from your favorite films. Pin relevant content from other sources, and engage with followers by asking them to share their own favorite cinematography-related pins.
 
 <br>
-<a href="https://workdojos.com/cinematographer/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/cinematographer/startup">next: startup ideas</a>
 </p>

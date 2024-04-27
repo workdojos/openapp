@@ -17,5 +17,5 @@ Another ethical framework that could be relevant is consequentialism, which emph
 Ultimately, it will be important for you to carefully consider the values and principles that guide your actions as a jeweler, and to strive to act in a way that is consistent with these values. This may involve engaging in ongoing reflection and dialogue with others, such as colleagues, customers, and experts in the field, to ensure that you are making informed and ethical decisions.
 
 <br>
-<a href="https://workdojos.com/jeweler/social">next: social media</a>
+<a href="https://insights.workdojos.com/jeweler/social">next: social media</a>
 </p>

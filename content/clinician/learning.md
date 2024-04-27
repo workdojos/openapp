@@ -43,5 +43,5 @@ How do you communicate with patients and families to ensure they understand thei
 How do you work as part of a team with other healthcare professionals?
 
 <br>
-<a href="https://workdojos.com/clinician/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/clinician/rights">next: workers' rights</a>
 </p>

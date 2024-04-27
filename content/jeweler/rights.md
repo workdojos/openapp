@@ -24,5 +24,5 @@ Of course, there are those who argue that the luxury goods industry is already h
 In conclusion, fair work practices are essential for jewelers working in the luxury goods industry. Not only is it the right thing to do, but it also has practical benefits for both the employees and the companies themselves. It is our responsibility to ensure that workers are treated with respect and paid a fair wage for their labor, and to hold companies accountable for their actions.
 
 <br>
-<a href="https://workdojos.com/jeweler/branding">next: branding</a>
+<a href="https://insights.workdojos.com/jeweler/branding">next: branding</a>
 </p>

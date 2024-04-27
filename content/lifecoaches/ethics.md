@@ -17,5 +17,5 @@ One could also consider the ethical principles of virtue ethics, which emphasize
 Ultimately, the ethical framework for starting a career as a life coach will depend on the specific values and goals of the individual and the industry as a whole. It is important to carefully consider the various ethical theories and principles and determine which ones align with one's own values and goals as a life coach, as well as the needs and expectations of clients.
 
 <br>
-<a href="https://workdojos.com/lifecoaches/social">next: social media</a>
+<a href="https://insights.workdojos.com/lifecoaches/social">next: social media</a>
 </p>

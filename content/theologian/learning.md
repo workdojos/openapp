@@ -41,5 +41,5 @@ How do you approach contemporary issues in theology?
 How do you understand the relationship between theology and ethics?
 
 <br>
-<a href="https://workdojos.com/theologian/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/theologian/rights">next: workers' rights</a>
 </p>

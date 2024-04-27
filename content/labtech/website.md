@@ -21,6 +21,6 @@ Overall, the pros and cons of using open-source technology to build your own web
 
 <br>
 
-<a href="https://workdojos.com/labtech/overview">next: overview</a>
+<a href="https://insights.workdojos.com/labtech/overview">next: overview</a>
 <br>
 </p>

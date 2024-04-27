@@ -22,5 +22,5 @@ It is also important for event planners to have a clear understanding of their r
 Ultimately, fair work practices are crucial for the success and sustainability of the special events industry. By ensuring that event planners are treated with respect and fairness, we can create a more positive and productive work environment for everyone involved.
 
 <br>
-<a href="https://workdojos.com/eventplanners/branding">next: branding</a>
+<a href="https://insights.workdojos.com/eventplanners/branding">next: branding</a>
 </p>

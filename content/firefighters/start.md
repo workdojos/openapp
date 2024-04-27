@@ -21,5 +21,5 @@ Keep an open mind and be willing to learn. Firefighting is an exciting and growi
 Remember, firefighters are heroes who work tirelessly to keep our communities safe. The work they do is essential and deeply fulfilling, and there are many perks and benefits to working in this field. So don't be afraid to take the plunge and pursue a career as a firefighter - it could be the best decision you ever make!
 
 <br>
-<a href="https://workdojos.com/firefighters/learning">next: learning</a>
+<a href="https://insights.workdojos.com/firefighters/learning">next: learning</a>
 </p>

@@ -17,5 +17,5 @@ Another trend that has raised concerns about fair work practices for college pro
 In my opinion, fair work practices for college professors in the higher education industry are crucial for the well-being and success of both the professors and the students they serve. Professors deserve to be paid a fair wage and treated with respect and dignity in the workplace, regardless of whether they are tenured faculty or adjuncts, or whether they are teaching in-person or online. To promote worker’s rights, fair treatment, and proper wages, higher education institutions should work to address issues such as the exploitation of adjuncts and the unequal compensation of online instructors. By doing so, they can ensure that the higher education industry is one that values and supports the hardworking professionals who are at the heart of the industry.
 
 <br>
-<a href="https://workdojos.com/collegeprofessor/branding">next: branding</a>
+<a href="https://insights.workdojos.com/collegeprofessor/branding">next: branding</a>
 </p>

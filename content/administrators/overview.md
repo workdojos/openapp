@@ -31,5 +31,5 @@ Some of the best jobs in the Administration & book-keeping industry include thos
 In conclusion, the Administration & book-keeping industry is a vital part of the business world, and offers a wide range of opportunities for those interested in pursuing a career in this field. With the right education and networking, anyone can find a fulfilling and rewarding job in this industry.
 
 <br>
-<a href="https://workdojos.com/administrators/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/administrators/day-in-the-life">next: day in the life</a>
 </p>

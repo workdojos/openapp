@@ -25,5 +25,5 @@ As with any industry, there are both good and bad jobs to be had in the conserva
 Overall, the conservation and park management industry is a rewarding and exciting field that offers many opportunities for those who are passionate about the environment. With the right education and networking opportunities, anyone can find a fulfilling career in this important industry.
 
 <br>
-<a href="https://workdojos.com/parkranger/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/parkranger/day-in-the-life">next: day in the life</a>
 </p>

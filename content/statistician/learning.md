@@ -47,5 +47,5 @@ How do you visualize data to communicate insights effectively?
 How do you work with cross-functional teams to provide statistical support?
 
 <br>
-<a href="https://workdojos.com/statistician/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/statistician/rights">next: workers' rights</a>
 </p>

@@ -18,6 +18,6 @@ The term "digital marketer" is a relatively recent one, as it refers to someone 
 Overall, the word "marketing" has a long history dating back to ancient times, and has evolved over time to encompass a wide range of activities related to promoting and selling products and services. "Digital marketer" is a more recent term that specifically refers to someone who specializes in marketing products or services online using digital tools and platforms.
 
 <br>
-<a href="https://workdojos.com/digitalmarketers/advice">next: advice</a>
+<a href="https://insights.workdojos.com/digitalmarketers/advice">next: advice</a>
 <br>
 </p>

@@ -17,5 +17,5 @@ In terms of job market trends, the startup financing industry is currently exper
 Overall, a career as a financier in the startup financing industry can be rewarding and challenging, but with the right skills, qualifications and experience, it can be a fulfilling and successful career path.
 
 <br>
-<a href="https://workdojos.com/financier/start">next: get started</a>
+<a href="https://insights.workdojos.com/financier/start">next: get started</a>
 </p>

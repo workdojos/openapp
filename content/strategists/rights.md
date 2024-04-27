@@ -20,5 +20,5 @@ Finally, it is important to promote fair treatment and respect for all workers i
 In conclusion, fair work practices are crucial for a strategist working in the consulting industry. By promoting worker's rights, fair treatment, and proper wages, we can create a more sustainable and ethical industry that benefits everyone.
 
 <br>
-<a href="https://workdojos.com/strategists/branding">next: branding</a>
+<a href="https://insights.workdojos.com/strategists/branding">next: branding</a>
 </p>

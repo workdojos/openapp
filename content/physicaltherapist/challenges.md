@@ -19,5 +19,5 @@ To address these challenges, it is crucial that we take steps to make it easier 
 In conclusion, the physical therapy industry is facing several controversies and challenges that need to be addressed to ensure the success and viability of the profession. By taking steps to make it easier for physical therapists to find work and provide quality care, we can improve the industry as a whole and enhance the health and wellbeing of individuals across the country.
 
 <br>
-<a href="https://workdojos.com/physicaltherapist/history">next: history</a>
+<a href="https://insights.workdojos.com/physicaltherapist/history">next: history</a>
 </p>

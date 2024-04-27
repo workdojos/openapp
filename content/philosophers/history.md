@@ -19,6 +19,6 @@ The concept of higher education, or education that is beyond the secondary level
 Over time, the meaning of higher education has evolved to refer to formal education that is beyond the secondary level and is typically offered at institutions of higher learning, such as colleges and universities. Higher education is often seen as a way to acquire specialized knowledge and skills in a particular field or discipline, and it is often a requirement for certain careers and professions.
 
 <br>
-<a href="https://workdojos.com/philosophers/advice">next: advice</a>
+<a href="https://insights.workdojos.com/philosophers/advice">next: advice</a>
 <br>
 </p>

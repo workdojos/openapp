@@ -17,6 +17,6 @@ The term "laboratory testing" refers to the process of testing samples or substa
 Over time, the meanings of these words have remained relatively unchanged, although the field of laboratory technology and testing has evolved significantly, with advances in technology and techniques.
 
 <br>
-<a href="https://workdojos.com/labtech/advice">next: advice</a>
+<a href="https://insights.workdojos.com/labtech/advice">next: advice</a>
 <br>
 </p>

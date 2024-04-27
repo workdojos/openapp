@@ -19,5 +19,5 @@ One recent trend in the animation industry that has caused concern among animato
 Overall, it is clear that animators deserve fair treatment, proper wages, and job security. While the animation industry has come a long way in recent years, there is still much work to be done to ensure that animators are treated fairly and given the respect they deserve. I believe that by advocating for the rights of animators and promoting fair work practices, we can create a more equitable and sustainable industry for all.
 
 <br>
-<a href="https://workdojos.com/animators/branding">next: branding</a>
+<a href="https://insights.workdojos.com/animators/branding">next: branding</a>
 </p>

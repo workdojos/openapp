@@ -32,5 +32,5 @@ Share testimonials and case studies to showcase your work and build credibility.
 Collaborate with other web designers or related businesses to create a shared board featuring web design inspiration and resources.
 
 <br>
-<a href="https://workdojos.com/webdesigners/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/webdesigners/startup">next: startup ideas</a>
 </p>

@@ -37,5 +37,5 @@ Estimated 1st Year Cost of Operation: $100,000
 Potential Business Challenges: Competition with other digital behavioral health platforms, difficulty in establishing partnerships and convincing individuals to try a new platform, and the potential for security concerns with a digital platform.
 
 <br>
-<a href="https://workdojos.com/socialworker/tech">next: open-source tech</a>
+<a href="https://insights.workdojos.com/socialworker/tech">next: open-source tech</a>
 </p>

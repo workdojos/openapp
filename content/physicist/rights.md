@@ -20,5 +20,5 @@ In light of these trends, it is important that we promote fair work practices fo
 It is time for the physics and higher education industry to prioritize the well-being and rights of its workers. By promoting fair work practices and addressing the underlying issues that contribute to unfair treatment, we can create a more just and equitable industry for all physicists.
 
 <br>
-<a href="https://workdojos.com/physicist/branding">next: branding</a>
+<a href="https://insights.workdojos.com/physicist/branding">next: branding</a>
 </p>

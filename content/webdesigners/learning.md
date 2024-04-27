@@ -45,5 +45,5 @@ How do you handle challenges or obstacles in your design process?
 How do you stay up-to-date with the latest design trends and techniques?
 
 <br>
-<a href="https://workdojos.com/webdesigners/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/webdesigners/rights">next: workers' rights</a>
 </p>

@@ -31,5 +31,5 @@ The Project Management Academy is another great resource for training and certif
 To get you excited about a career as a project manager, I'll leave you with this thought: working as a project manager can be a challenging and rewarding career that allows you to make a positive impact on businesses and organizations. With the right training and dedication, you can become a key leader in your field and enjoy a successful and fulfilling career.
 
 <br>
-<a href="https://workdojos.com/projectmanagers/learning">next: learning</a>
+<a href="https://insights.workdojos.com/projectmanagers/learning">next: learning</a>
 </p>

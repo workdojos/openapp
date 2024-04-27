@@ -19,5 +19,5 @@ In addition, it is important that we work to improve the overall transparency an
 Ultimately, the goal should be to create a more inclusive and supportive environment for theologians, one that allows them to fulfill their important role in society without facing undue challenges or obstacles. By working together and taking proactive steps to address the issues facing the religious organizations industry, we can create a brighter future for theologians and the communities they serve.
 
 <br>
-<a href="https://workdojos.com/theologian/history">next: history</a>
+<a href="https://insights.workdojos.com/theologian/history">next: history</a>
 </p>

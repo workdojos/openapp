@@ -20,6 +20,6 @@ Another notable data scientist was Grace Hopper, a computer scientist and naval 
 As Alice worked hard to solve complex problems and make a difference in the world, she knew that she was standing on the shoulders of giants like Ada and Grace. And she knew that there would always be new discoveries and challenges waiting for her in the ever-evolving world of data science.
 
 <br>
-<a href="https://workdojos.com/datascientists/history">next: history</a>
+<a href="https://insights.workdojos.com/datascientists/history">next: history</a>
 <br>
 </p>

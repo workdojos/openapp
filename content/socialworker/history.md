@@ -15,6 +15,6 @@ The term "behavioral health" has its roots in the field of psychology, which dev
 Over time, the meanings of these terms have evolved and expanded. Social workers today may work in a variety of settings, including schools, hospitals, and government agencies, and may focus on issues such as child welfare, substance abuse, and mental health. Behavioral health, on the other hand, has become a broader term that encompasses a range of mental health and wellness issues, including addiction, mood disorders, and stress management.2
 
 <br>
-<a href="https://workdojos.com/socialworker/advice">next: advice</a>
+<a href="https://insights.workdojos.com/socialworker/advice">next: advice</a>
 <br>
 </p>

@@ -43,5 +43,5 @@ How do you maintain laboratory equipment and supplies?
 Describe a time when you had to follow safety protocols in the lab.
 
 <br>
-<a href="https://workdojos.com/labtech/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/labtech/rights">next: workers' rights</a>
 </p>

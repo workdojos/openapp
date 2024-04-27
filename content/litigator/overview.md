@@ -21,5 +21,5 @@ However, it is important to note that not all jobs within the legal industry are
 Overall, the legal industry is a dynamic and rewarding field that offers a wide range of opportunities for those who are interested in pursuing a career in law. Whether you are looking to become a lawyer, a paralegal, or a legal assistant, there are many resources available to help you navigate this exciting and challenging industry.
 
 <br>
-<a href="https://workdojos.com/litigator/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/litigator/day-in-the-life">next: day in the life</a>
 </p>

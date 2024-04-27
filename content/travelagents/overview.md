@@ -21,5 +21,5 @@ As with any industry, there are both good and bad jobs to be had in the travel a
 In conclusion, the travel and tours industry is a dynamic and exciting field with numerous opportunities for employment and personal growth. By networking, gaining relevant skills, and staying informed about the industry, individuals can find fulfilling careers in the travel and tours industry.
 
 <br>
-<a href="https://workdojos.com/travelagents/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/travelagents/day-in-the-life">next: day in the life</a>
 </p>

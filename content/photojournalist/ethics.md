@@ -23,5 +23,5 @@ Professional responsibility: As a member of the journalism and media industry, y
 By considering these key ethical principles, you can begin to develop a framework for ethical decision-making and conduct as a photojournalist. It is also important to be open to seeking guidance and counsel from colleagues and mentors in the industry, as well as engaging in ongoing self-reflection and critical evaluation of your own ethical practices.
 
 <br>
-<a href="https://workdojos.com/photojournalist/social">next: social media</a>
+<a href="https://insights.workdojos.com/photojournalist/social">next: social media</a>
 </p>

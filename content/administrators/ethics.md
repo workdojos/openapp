@@ -14,5 +14,5 @@ Additionally, it could be helpful to consider the specific values and goals of t
 Ultimately, the development of an ethical framework for a business is a complex and multifaceted task that requires careful consideration of a wide range of factors. It is important for the business administrator to be aware of their own values and biases, as well as the values and expectations of their stakeholders, in order to create a framework that is fair, just, and in line with the overall goals of the business.
 
 <br>
-<a href="https://workdojos.com/administrators/social">next: social media</a>
+<a href="https://insights.workdojos.com/administrators/social">next: social media</a>
 </p>

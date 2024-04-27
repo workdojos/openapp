@@ -20,5 +20,5 @@ As far as job market trends go, the agriculture industry is expected to grow in 
 Overall, pursuing a career as an agriculturist can be a rewarding and fulfilling choice for individuals with a strong interest in agriculture and a desire to contribute to the sustainability of the food system. With the right education and experience, you can position yourself as a valuable asset in this field.
 
 <br>
-<a href="https://workdojos.com/agriculturist/start">next: get started</a>
+<a href="https://insights.workdojos.com/agriculturist/start">next: get started</a>
 </p>

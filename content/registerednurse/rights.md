@@ -24,5 +24,5 @@ To promote fair treatment and proper wages for nurses, it is important for both 
 In conclusion, fair work practices are essential for registered nurses in the healthcare industry. It is important that nurses receive fair wages and benefits, as well as being treated with respect and given opportunities for advancement. By advocating for change and speaking up for their rights, nurses can help to create a more fair and equitable workplace for themselves and their colleagues.
 
 <br>
-<a href="https://workdojos.com/registerednurse/branding">next: branding</a>
+<a href="https://insights.workdojos.com/registerednurse/branding">next: branding</a>
 </p>

@@ -18,6 +18,6 @@ So how can a bartender thrive in the bartending and hospitality industry? In add
 Finally, it is clear that small businesses will continue to play an integral role in a thriving economy in the future. By using open-source technology and focusing on providing top-quality service, bartenders and other hospitality workers can contribute to the success of small businesses and help drive economic growth. It is crucial for the industry to embrace these tools and strategies in order to thrive in today's rapidly-changing market.
 
 <br>
-<a href="https://workdojos.com/bartenders/website">next: website</a>
+<a href="https://insights.workdojos.com/bartenders/website">next: website</a>
 <br>
 </p>

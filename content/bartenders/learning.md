@@ -47,5 +47,5 @@ How do you handle a mistake in an order?
 What is your favorite cocktail to make and why?
 
 <br>
-<a href="https://workdojos.com/bartenders/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/bartenders/rights">next: workers' rights</a>
 </p>

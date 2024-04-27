@@ -22,6 +22,6 @@ As he returned home that evening, Jack couldn't help but feel a sense of pride i
 And so, Jack continued to deliver packages and packages of goods, always knowing that he was playing a vital role in the world around him.
 
 <br>
-<a href="https://workdojos.com/couriers/history">next: history</a>
+<a href="https://insights.workdojos.com/couriers/history">next: history</a>
 <br>
 </p>

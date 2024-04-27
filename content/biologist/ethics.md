@@ -18,5 +18,5 @@ Additionally, it may be useful to consider the potential consequences of your ac
 Overall, it is important to approach your career as a biologist with a strong sense of moral responsibility and a commitment to ethical principles. By considering the various ethical theories and principles outlined above, you can develop a comprehensive ethical framework that guides your actions and decision-making as you embark on your career in the biosciences industry.
 
 <br>
-<a href="https://workdojos.com/biologist/social">next: social media</a>
+<a href="https://insights.workdojos.com/biologist/social">next: social media</a>
 </p>

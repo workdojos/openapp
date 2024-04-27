@@ -15,6 +15,6 @@ The term "religious organizations" refers to any group or institution that is de
 Over time, the meanings of both "theologian" and "religious organizations" have evolved. While they still refer to those who study and write about God, and to groups that practice and promote a particular religion, they have also come to encompass a wider range of meanings. For example, theologians may now also be involved in social justice issues, interfaith dialogue, and other areas that relate to the intersection of faith and society. Similarly, religious organizations may also be involved in charitable work, education, and other activities that serve the wider community.
 
 <br>
-<a href="https://workdojos.com/theologian/advice">next: advice</a>
+<a href="https://insights.workdojos.com/theologian/advice">next: advice</a>
 <br>
 </p>

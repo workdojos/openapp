@@ -24,5 +24,5 @@ As with any industry, there are both good and bad jobs to have in the marketing 
 Overall, the marketing industry is a dynamic and exciting field with many opportunities for growth and success. By networking, staying up-to-date with industry trends, and seeking out the right job opportunities, anyone can find a fulfilling career in the marketing industry.
 
 <br>
-<a href="https://workdojos.com/digitalmarketers/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/digitalmarketers/day-in-the-life">next: day in the life</a>
 </p>

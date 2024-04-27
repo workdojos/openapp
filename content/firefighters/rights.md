@@ -22,5 +22,5 @@ In order to promote fair work practices for firefighters, I believe that we must
 Overall, fair work practices are essential for ensuring that firefighters are able to do their jobs effectively and with dignity. By advocating for these practices, we can help to create a more positive and supportive work environment for these vital workers, and ensure that they are able to serve our communities with the highest level of care and professionalism.
 
 <br>
-<a href="https://workdojos.com/firefighters/branding">next: branding</a>
+<a href="https://insights.workdojos.com/firefighters/branding">next: branding</a>
 </p>

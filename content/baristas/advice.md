@@ -18,5 +18,5 @@ To pursue a career as a barista, you may want to consider obtaining some relevan
 In conclusion, a career as a barista working in the coffee and hospitality industry may be a great fit for you based on your skills, interests, and experience. The job market for baristas is growing, and obtaining relevant qualifications can help you stand out in the job market and pursue your career goals. I hope this information has been helpful, and I wish you the best of luck in your career endeavors.
 
 <br>
-<a href="https://workdojos.com/baristas/start">next: get started</a>
+<a href="https://insights.workdojos.com/baristas/start">next: get started</a>
 </p>

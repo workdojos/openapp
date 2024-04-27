@@ -49,5 +49,5 @@ Emphasize the importance of researching and considering job opportunities carefu
 Offer any final thoughts or advice on pursuing a career in the industry
 
 <br>
-<a href="https://workdojos.com/labtech/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/labtech/day-in-the-life">next: day in the life</a>
 </p>

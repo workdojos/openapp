@@ -23,5 +23,5 @@ International Association of Culinary Professionals: https://www.iacp.com/
 Remember, working as a barista in the coffee and hospitality industry is more than just serving drinks. It's about creating a positive and memorable experience for customers, and having the opportunity to learn, grow, and advance in your career. Get excited about this exciting and growing industry and all the upside potential it has to offer!
 
 <br>
-<a href="https://workdojos.com/baristas/learning">next: learning</a>
+<a href="https://insights.workdojos.com/baristas/learning">next: learning</a>
 </p>

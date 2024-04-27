@@ -17,6 +17,6 @@ The term "financial services" refers to a wide range of services related to mana
 Over time, the meanings of these words have remained largely unchanged, though the specific activities and industries associated with them have evolved and expanded.
 
 <br>
-<a href="https://workdojos.com/investmentbanker/advice">next: advice</a>
+<a href="https://insights.workdojos.com/investmentbanker/advice">next: advice</a>
 <br>
 </p>

@@ -21,5 +21,5 @@ Use positive language and tone: As you research and learn more about the machini
 Find activities and resources that will help you achieve your goals: Finally, look for resources and activities that can help you learn more about the machining industry and develop the skills you need to succeed as a machinist. This might include joining a professional association, taking online courses or workshops, or attending trade shows or conferences. By actively seeking out opportunities to learn and grow, you'll be more likely to achieve your goals.
 
 <br>
-<a href="https://workdojos.com/machinist/learning">next: learning</a>
+<a href="https://insights.workdojos.com/machinist/learning">next: learning</a>
 </p>

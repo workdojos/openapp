@@ -24,5 +24,5 @@ Another solution is to provide better education and resources for lyricists, suc
 In conclusion, it is crucial to recognize the importance of fair work practices for lyricists in the music industry and to advocate for their rights, fair treatment, and proper wages. By implementing solutions such as clearer contracts and providing education and resources, we can create a more just and equitable industry for all.
 
 <br>
-<a href="https://workdojos.com/lyricist/branding">next: branding</a>
+<a href="https://insights.workdojos.com/lyricist/branding">next: branding</a>
 </p>

@@ -20,5 +20,5 @@ If you want to learn more about the exciting and growing field of botany, there 
 I hope this information has gotten you excited about the potential of a career as a botanist. Remember, working as a botanist can be incredibly rewarding and fulfilling, and there are many opportunities for growth and advancement within the industry. So if you have a passion for plants and the environment, don't hesitate to pursue a career in botany – it could be the perfect fit for you!
 
 <br>
-<a href="https://workdojos.com/botanist/learning">next: learning</a>
+<a href="https://insights.workdojos.com/botanist/learning">next: learning</a>
 </p>

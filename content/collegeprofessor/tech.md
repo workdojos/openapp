@@ -18,6 +18,6 @@ But open-source technology is not just beneficial for higher education; it can a
 Overall, the higher education industry has a lot to gain from the adoption of open-source technology. It can improve the quality of education, provide new opportunities for professors, and support the growth of small businesses in the future. As such, it is essential that colleges and universities prioritize the incorporation of open-source resources in their operations.
 
 <br>
-<a href="https://workdojos.com/collegeprofessor/website">next: website</a>
+<a href="https://insights.workdojos.com/collegeprofessor/website">next: website</a>
 <br>
 </p>

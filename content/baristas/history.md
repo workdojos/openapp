@@ -14,6 +14,6 @@ Coffee: The word "coffee" is believed to have originated from the Arabic word "q
 Hospitality: The word "hospitality" comes from the Latin word "hospitalitas", which means "friendliness" or "generosity towards guests". The term was originally used to describe the act of welcoming and caring for travelers and guests in one's home or place of business. Today, the word is used more broadly to refer to the act of providing food, lodging, and other amenities to guests or customers, and it is often associated with the hotel and restaurant industry. The meaning of the word has remained largely unchanged over time, though it has come to encompass a wider range of services and industries.
 
 <br>
-<a href="https://workdojos.com/baristas/advice">next: advice</a>
+<a href="https://insights.workdojos.com/baristas/advice">next: advice</a>
 <br>
 </p>

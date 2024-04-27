@@ -19,5 +19,5 @@ To increase your employability and competitiveness in the job market, it would b
 Overall, a career as a graphic designer in the graphic design and graphic arts industry can be a rewarding and fulfilling choice for individuals with a strong interest in creativity and visual problem solving. With the right skills, education, and experience, you can succeed in this field and make a meaningful impact in the world of visual communication.
 
 <br>
-<a href="https://workdojos.com/graphicdesigner/start">next: get started</a>
+<a href="https://insights.workdojos.com/graphicdesigner/start">next: get started</a>
 </p>

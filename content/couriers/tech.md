@@ -18,6 +18,6 @@ Moreover, small businesses will play an integral role in a thriving economy in t
 Overall, the adoption of open-source technology in the supply-chain industry is crucial for the success of small businesses and the economy as a whole. By leveraging this technology, couriers and other small businesses can thrive and contribute to the growth and prosperity of their communities.
 
 <br>
-<a href="https://workdojos.com/couriers/website">next: website</a>
+<a href="https://insights.workdojos.com/couriers/website">next: website</a>
 <br>
 </p>

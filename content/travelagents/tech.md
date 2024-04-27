@@ -19,6 +19,6 @@ Small businesses will also play a critical role in a thriving travel and tours i
 Overall, the travel and tours industry has a bright future ahead, as long as businesses are willing to adapt and embrace new technologies and trends. By embracing open-source solutions, specializing in niche areas, and focusing on offering personalized and authentic experiences, travel agents and small businesses can thrive and play a key role in a thriving economy.
 
 <br>
-<a href="https://workdojos.com/travelagents/website">next: website</a>
+<a href="https://insights.workdojos.com/travelagents/website">next: website</a>
 <br>
 </p>

@@ -41,5 +41,5 @@ Engage with other machinists and industry professionals on Pinterest, building a
 I hope these ideas help you create an engaging campaign to promote your new business as a machinist on Instagram, Twitter, YouTube, and Pinterest! Let me know if you have any other questions or need further assistance.
 
 <br>
-<a href="https://workdojos.com/machinist/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/machinist/startup">next: startup ideas</a>
 </p>

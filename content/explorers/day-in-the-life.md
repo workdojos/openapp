@@ -23,6 +23,6 @@ As he journeyed on, Jack discovered many amazing things and made a name for hims
 So, the next time you are out exploring the great outdoors, remember Jack and the other brave adventurers who have paved the way for us to discover and learn about the amazing world we live in.
 
 <br>
-<a href="https://workdojos.com/explorers/history">next: history</a>
+<a href="https://insights.workdojos.com/explorers/history">next: history</a>
 <br>
 </p>

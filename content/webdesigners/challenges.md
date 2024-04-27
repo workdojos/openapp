@@ -19,5 +19,5 @@ One way to make it easier for web designers to find work and improve the digital
 In conclusion, the digital services industry is facing numerous controversies and challenges, and it is crucial that steps be taken to address these issues. By ensuring privacy, providing support for web designers, and investing in education and training, we can make it easier for web designers to find work and improve the industry as a whole.
 
 <br>
-<a href="https://workdojos.com/webdesigners/history">next: history</a>
+<a href="https://insights.workdojos.com/webdesigners/history">next: history</a>
 </p>

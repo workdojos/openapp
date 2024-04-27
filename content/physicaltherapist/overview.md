@@ -21,5 +21,5 @@ When it comes to the best and worst jobs in the physical therapy industry, it is
 In conclusion, the physical therapy industry offers a wide range of opportunities for those interested in pursuing a career in healthcare. By networking and seeking out internships and externships, individuals can find exciting and fulfilling job opportunities in the field. By researching websites such as the American Physical Therapy Association and the Physical Therapy Job Outlook, individuals can also gain valuable insights on the industry and make informed decisions about their career path.
 
 <br>
-<a href="https://workdojos.com/physicaltherapist/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/physicaltherapist/day-in-the-life">next: day in the life</a>
 </p>

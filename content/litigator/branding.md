@@ -19,5 +19,5 @@ To drive traffic to the website and increase conversions, I would include calls-
 Finally, I would regularly monitor and respond to questions and comments on all platforms to show our dedication to customer service and build trust with followers. I would also use analytics tools to track the success of our campaigns and make any necessary adjustments to optimize performance.
 
 <br>
-<a href="https://workdojos.com/litigator/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/litigator/ethics">next: ethical framework</a>
 </p>

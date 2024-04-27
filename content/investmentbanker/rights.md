@@ -20,5 +20,5 @@ In order to combat these issues and promote fair work practices, there are sever
 Overall, it is crucial that the financial services industry works to prioritize the well-being and rights of its workers. By promoting fair treatment, proper wages, and a diverse and inclusive workplace, the industry can not only create a more positive and equitable work environment, but also improve its overall success and innovation.
 
 <br>
-<a href="https://workdojos.com/investmentbanker/branding">next: branding</a>
+<a href="https://insights.workdojos.com/investmentbanker/branding">next: branding</a>
 </p>

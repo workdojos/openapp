@@ -22,5 +22,5 @@ However, this argument fails to take into account the unique challenges and dang
 Overall, it is clear that police officers deserve fair work practices, including proper compensation, benefits, and support. By treating police officers with respect and appreciation, we can ensure that they are able to do their jobs effectively and keep our communities safe.
 
 <br>
-<a href="https://workdojos.com/lawenforcement/branding">next: branding</a>
+<a href="https://insights.workdojos.com/lawenforcement/branding">next: branding</a>
 </p>

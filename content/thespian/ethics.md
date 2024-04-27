@@ -19,5 +19,5 @@ Utilitarianism is another option, which holds that the best action is the one th
 These are just a few possibilities, but there are many other ethical theories and frameworks that you could consider as you develop your ethical framework for starting a career as a thespian.
 
 <br>
-<a href="https://workdojos.com/thespian/social">next: social media</a>
+<a href="https://insights.workdojos.com/thespian/social">next: social media</a>
 </p>

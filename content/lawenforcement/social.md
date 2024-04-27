@@ -21,5 +21,5 @@ Finally, on Pinterest, you can create boards featuring infographics, tips and re
 Overall, the key to creating an engaging campaign on social media is to consistently provide valuable and relevant content to your followers, while also incorporating interactive and visually appealing elements to keep them engaged. By utilizing a variety of platforms, you can reach a wider audience and effectively promote your business as a police officer working in the protective services industry.
 
 <br>
-<a href="https://workdojos.com/lawenforcement/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/lawenforcement/startup">next: startup ideas</a>
 </p>

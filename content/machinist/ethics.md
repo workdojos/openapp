@@ -17,5 +17,5 @@ Another important aspect of this ethical framework might be the idea of social r
 Overall, an ethical framework for starting a career as a machinist working in the machining industry might involve a commitment to professionalism, honesty, integrity, responsibility, and social responsibility, as well as a willingness to think critically and reflect on the moral and ethical implications of one's work.
 
 <br>
-<a href="https://workdojos.com/machinist/social">next: social media</a>
+<a href="https://insights.workdojos.com/machinist/social">next: social media</a>
 </p>

@@ -19,5 +19,5 @@ A third principle that could be useful in developing an ethical framework for yo
 In conclusion, there are many different approaches that you could take in developing an ethical framework for your career as a theologian working in the religious organizations industry. The key is to find a set of principles that align with your values and that will guide you in making ethical decisions and acting in accordance with your beliefs.
 
 <br>
-<a href="https://workdojos.com/theologian/social">next: social media</a>
+<a href="https://insights.workdojos.com/theologian/social">next: social media</a>
 </p>

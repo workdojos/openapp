@@ -19,5 +19,5 @@ As far as qualifications go, it would be beneficial for you to pursue a degree o
 In conclusion, based on your skills, interests, and experience, a potential career as a jeweler in the luxury goods industry may be a good fit for you. I recommend exploring different programs and opportunities to gain the necessary qualifications and experience in the field. Keep in mind the growing demand for sustainable and innovative products, and consider how you can differentiate yourself in the job market. I hope this guidance has been helpful, and please don't hesitate to reach out to me with any further questions or concerns.
 
 <br>
-<a href="https://workdojos.com/jeweler/start">next: get started</a>
+<a href="https://insights.workdojos.com/jeweler/start">next: get started</a>
 </p>

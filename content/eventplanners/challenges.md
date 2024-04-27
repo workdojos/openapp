@@ -19,5 +19,5 @@ In addition to addressing these challenges, there are also ways in which the spe
 In conclusion, the special events industry is facing numerous controversies and challenges, including the lack of access to work opportunities and fair compensation for event planners. By making it easier for event plannerto find work and paying them more for their expertise, we can improve the industry as a whole. Additionally, prioritizing sustainability in event planning can contribute to a more sustainable future for the industry.
 
 <br>
-<a href="https://workdojos.com/eventplanners/history">next: history</a>
+<a href="https://insights.workdojos.com/eventplanners/history">next: history</a>
 </p>

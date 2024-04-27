@@ -21,5 +21,5 @@ Collaborate with others: One way to increase brand awareness and reach a new aud
 Use analytics to measure success: It's important to track the success of your social media efforts, so be sure to use analytics tools to measure the reach and engagement of your posts. This can help you identify what types of content are most effective and where you can improve.
 
 <br>
-<a href="https://workdojos.com/thespian/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/thespian/ethics">next: ethical framework</a>
 </p>

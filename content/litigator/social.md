@@ -21,5 +21,5 @@ On Pinterest, you could create boards featuring legal resources, infographics, a
 In addition to creating content, it’s important to engage with your followers by responding to comments and messages, and encouraging them to share your posts or tag their friends in order to increase brand awareness. You could also consider collaborating with other social media influencers or industry professionals to expand your reach and attract new followers.
 
 <br>
-<a href="https://workdojos.com/litigator/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/litigator/startup">next: startup ideas</a>
 </p>

@@ -16,5 +16,5 @@ One way to address these issues is by making it easier for clinicianto find work
 Finally, the medical industry as a whole needs to focus on finding ways to improve the quality of care that is delivered. This could involve investing in new technologies and training programs, as well as working to foster a more collaborative and innovative culture within the industry. By focusing on these areas, we can create a medical industry that is better equipped to meet the needs of patients and that is able to deliver high-quality care on a consistent basis.
 
 <br>
-<a href="https://workdojos.com/clinician/history">next: history</a>
+<a href="https://insights.workdojos.com/clinician/history">next: history</a>
 </p>

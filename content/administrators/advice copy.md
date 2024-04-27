@@ -24,7 +24,7 @@ Overall, a career as an administrator in the administration and book-keeping ind
 
 
 <figure>
-    <a href="https://workdojos.com/administrators/start">
+    <a href="https://insights.workdojos.com/administrators/start">
     <img src='/uploads/arrow.png' style="width: 15%;height: 20%;padding: 3px; overflow: hidden;border: none; align="left"; alt='alt'; alt='An orange arrow pointing right';/>
     <figcaption>Next:  Getting started.</figcaption>
     </a>

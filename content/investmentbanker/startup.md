@@ -38,5 +38,5 @@ Potential Business Challenges: Competition with established investment brokers, 
 
 <br>
 <br>
-<a href="https://workdojos.com/investmentbanker/tech">next: open-source tech</a>
+<a href="https://insights.workdojos.com/investmentbanker/tech">next: open-source tech</a>
 </p>

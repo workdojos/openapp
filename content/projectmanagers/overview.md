@@ -21,5 +21,5 @@ When it comes to the best and worst jobs in the business industry, it ultimately
 In conclusion, the business industry is a vibrant and dynamic field with a wide range of career opportunities. By networking with professionals in your field, leveraging online job boards and career websites, and staying up to date with industry news and resources, you can find exciting and fulfilling opportunities in the business industry.
 
 <br>
-<a href="https://workdojos.com/projectmanagers/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/projectmanagers/day-in-the-life">next: day in the life</a>
 </p>

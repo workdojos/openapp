@@ -19,5 +19,5 @@ In terms of qualifications, it's helpful to have a degree in a related field suc
 Overall, if you have a strong interest in plant biology and agriculture, have a good attention to detail, and are comfortable working in a regulated industry, a career as a grower in the cannabis industry may be a good fit for you. It's important to conduct thorough research and continue to educate yourself on the industry to ensure success in this field. Good luck on your career journey!
 
 <br>
-<a href="https://workdojos.com/growers/start">next: get started</a>
+<a href="https://insights.workdojos.com/growers/start">next: get started</a>
 </p>

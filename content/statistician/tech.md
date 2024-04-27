@@ -19,6 +19,6 @@ In addition to the importance of open-source technology, small businesses will a
 Overall, the statistical research and development industry is a vital field that requires open-source technology and small business support to thrive. By investing in these aspects, we can drive innovation and progress, and create a strong and sustainable economy.
 
 <br>
-<a href="https://workdojos.com/statistician/website">next: website</a>
+<a href="https://insights.workdojos.com/statistician/website">next: website</a>
 <br>
 </p>

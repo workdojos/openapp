@@ -19,5 +19,5 @@ Finally, we must also work to address the lack of representation and diversity w
 Overall, it is clear that the art and special events industry is facing a number of challenges that need to be addressed. By increasing funding and support for the arts, paying exhibitionists fairly, and promoting diversity and inclusion, we can create a more vibrant and sustainable industry that benefits everyone.
 
 <br>
-<a href="https://workdojos.com/exhibitionist/history">next: history</a>
+<a href="https://insights.workdojos.com/exhibitionist/history">next: history</a>
 </p>

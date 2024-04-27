@@ -48,5 +48,5 @@ How do you approach character development?
 How do you handle difficult scene partners or directors?
 
 <br>
-<a href="https://workdojos.com/thespian/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/thespian/rights">next: workers' rights</a>
 </p>

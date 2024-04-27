@@ -20,5 +20,5 @@ Another trend that has emerged in recent years is the privatization of park mana
 Ultimately, the goal of fair work practices for park rangers is to ensure that we are able to do the important work we do without being treated unfairly. We need to stand up for our rights and demand that we are paid fair wages and treated with the respect and dignity we deserve. By working together and advocating for change, we can create a more just and equitable industry for all park rangers.
 
 <br>
-<a href="https://workdojos.com/parkranger/branding">next: branding</a>
+<a href="https://insights.workdojos.com/parkranger/branding">next: branding</a>
 </p>

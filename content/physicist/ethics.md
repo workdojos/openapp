@@ -17,5 +17,5 @@ It might also be helpful to consider the values and principles that are importan
 Ultimately, developing an ethical framework for your work as a physicist will require some level of reflection and introspection, as well as a willingness to consider and evaluate different perspectives and viewpoints. It may also involve seeking guidance and support from colleagues, mentors, and other resources within the field.
 
 <br>
-<a href="https://workdojos.com/physicist/social">next: social media</a>
+<a href="https://insights.workdojos.com/physicist/social">next: social media</a>
 </p>

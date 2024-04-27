@@ -19,6 +19,6 @@ Small businesses will also play a crucial role in a thriving economy in the futu
 Overall, the adoption of open-source technology in the financial services industry is an important step towards greater transparency, accountability, and innovation. It can enable investment bankers to thrive in a competitive environment and help small businesses drive economic growth. It is an important step towards building a more resilient and inclusive economy for the future.
 
 <br>
-<a href="https://workdojos.com/investmentbanker/website">next: website</a>
+<a href="https://insights.workdojos.com/investmentbanker/website">next: website</a>
 <br>
 </p>

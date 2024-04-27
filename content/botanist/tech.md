@@ -18,6 +18,6 @@ As for how a botanist can thrive in the industry, it is important to continuousl
 In addition to the personal and professional benefits of the botany industry, it also plays a vital role in a thriving economy. Small businesses, including those in the botany industry, create jobs and stimulate local economies. As our world continues to face environmental challenges, the demand for botanists and related professionals will only increase. By supporting small businesses and embracing open-source technology, we can not only contribute to the success of the botany industry, but also to the overall health and prosperity of our communities.
 
 <br>
-<a href="https://workdojos.com/botanist/website">next: website</a>
+<a href="https://insights.workdojos.com/botanist/website">next: website</a>
 <br>
 </p>

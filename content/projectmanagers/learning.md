@@ -40,5 +40,5 @@ How do you communicate with team members and stakeholders to ensure that everyon
 How do you measure the success of a project and what metrics do you use?
 
 <br>
-<a href="https://workdojos.com/projectmanagers/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/projectmanagers/rights">next: workers' rights</a>
 </p>

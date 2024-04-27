@@ -20,5 +20,5 @@ Finally, don't be afraid to ask for help when you need it. There are plenty of r
 Overall, starting a business as an administrator in the administration and bookkeeping industry can be a challenging but rewarding journey. By staying focused, seeking out resources and support, and surrounding yourself with positive, supportive people, you can achieve your goals and make a real impact in the lives of others.
 
 <br>
-<a href="https://workdojos.com/administrators/learning">next: learning</a>
+<a href="https://insights.workdojos.com/administrators/learning">next: learning</a>
 </p>

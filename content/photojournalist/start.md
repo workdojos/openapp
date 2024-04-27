@@ -29,5 +29,5 @@ International News Services: This organization is dedicated to promoting the wor
 Remember, working as a photojournalist in the journalism, news, and media industry is an exciting and growing field with lots of upside potential. With dedication, hard work, and a passion for storytelling, you can make a real impact and create a fulfilling and rewarding career for yourself. Go out there and seize the opportunities that come your way!
 
 <br>
-<a href="https://workdojos.com/photojournalist/learning">next: learning</a>
+<a href="https://insights.workdojos.com/photojournalist/learning">next: learning</a>
 </p>

@@ -16,6 +16,6 @@ If you are interested in pursuing a career in the biosciences industry, there ar
 Finally, it is important to remember that small businesses will play a vital role in the future of the biosciences industry. By fostering a culture of innovation and collaboration, small businesses can help to drive the field forward and contribute to a thriving economy. Whether you are working in a small startup or a larger corporation, it is important to recognize the value that small businesses bring to the table and support them whenever possible. So, if you want to thrive in the biosciences industry, be passionate about your work, stay flexible and adaptable, and remember the importance of small businesses.
 
 <br>
-<a href="https://workdojos.com/biologist/website">next: website</a>
+<a href="https://insights.workdojos.com/biologist/website">next: website</a>
 <br>
 </p>

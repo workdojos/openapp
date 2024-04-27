@@ -20,5 +20,5 @@ To make opportunities for collaboration with others in the cinema industry, I wo
 Overall, it is important to regularly engage with the audience through responding to comments and questions, monitoring conversations, and using analytics to measure the success of campaigns and efforts to increase brand awareness and conversions.
 
 <br>
-<a href="https://workdojos.com/cinematographer/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/cinematographer/ethics">next: ethical framework</a>
 </p>

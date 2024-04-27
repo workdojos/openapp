@@ -17,5 +17,5 @@ Finally, you may want to consider the principle of justice, which holds that peo
 To develop a comprehensive ethical framework for your career as a graphic designer, you may also want to consider the specific values and goals that you hope to achieve through your work. For example, you may want to prioritize creativity, innovation, and excellence, or you may be more focused on social justice and community engagement. By considering these values and goals, you can craft a set of ethical guidelines that align with your personal and professional aspirations.
 
 <br>
-<a href="https://workdojos.com/graphicdesigner/social">next: social media</a>
+<a href="https://insights.workdojos.com/graphicdesigner/social">next: social media</a>
 </p>

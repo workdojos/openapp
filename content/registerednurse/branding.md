@@ -19,5 +19,5 @@ To increase the opportunity for collaboration with other healthcare organization
 Throughout the campaign, I would use community management tools to monitor conversations and respond to questions and comments in a timely and professional manner. I would also use analytics to measure the success of the campaigns and make any necessary adjustments to ensure maximum effectiveness.
 
 <br>
-<a href="https://workdojos.com/registerednurse/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/registerednurse/ethics">next: ethical framework</a>
 </p>

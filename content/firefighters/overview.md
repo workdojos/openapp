@@ -21,5 +21,5 @@ There are many resources available for those interested in learning more about t
 When it comes to the best and worst jobs within the public services industry, it ultimately comes down to personal preference and job satisfaction. Some of the best jobs in the industry may include positions such as physicians, teachers, and social workers, while some of the worst jobs may include positions such as waste management workers, correctional officers, and animal control workers. Ultimately, the best job in the public services industry is one that aligns with your values and passions, and allows you to make a meaningful contribution to your community.
 
 <br>
-<a href="https://workdojos.com/firefighters/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/firefighters/day-in-the-life">next: day in the life</a>
 </p>

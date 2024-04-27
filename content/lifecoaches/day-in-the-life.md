@@ -23,6 +23,6 @@ As she drifted off to sleep that night, Rachel thought about all the notable lif
 As Rachel drifted off to sleep, she knew that she was part of a long and proud tradition of life coaches, helping people all over the world to live their best lives.
 
 <br>
-<a href="https://workdojos.com/lifecoaches/history">next: history</a>
+<a href="https://insights.workdojos.com/lifecoaches/history">next: history</a>
 <br>
 </p>

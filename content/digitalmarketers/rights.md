@@ -23,5 +23,5 @@ Finally, there needs to be a greater focus on worker’s rights and protections.
 Overall, it is clear that there are numerous issues when it comes to fair work practices in the digital marketing industry. By promoting transparency, protecting contract workers, and focusing on worker’s rights, we can create a more equitable and fair industry for all.
 
 <br>
-<a href="https://workdojos.com/digitalmarketers/branding">next: branding</a>
+<a href="https://insights.workdojos.com/digitalmarketers/branding">next: branding</a>
 </p>

@@ -17,5 +17,5 @@ One way to address these issues and make the physics and higher education indust
 In conclusion, it is clear that the physics and higher education industry is facing a number of challenges and controversies that are affecting the work and career opportunities of physicists. In order to address these issues and ensure the industry is able to thrive in the future, it is essential for the industry as a whole to take action and make it easier for physicists to find work. By improving career development resources, increasing funding for research and development, and investing in the education and training of physicists, we can create a more inclusive and supportive industry that is able to meet the changing needs and demands of the 21st century.
 
 <br>
-<a href="https://workdojos.com/physicist/history">next: history</a>
+<a href="https://insights.workdojos.com/physicist/history">next: history</a>
 </p>

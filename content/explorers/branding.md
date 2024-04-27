@@ -21,5 +21,5 @@ Finally, we can use these platforms to seek out opportunities for collaboration 
 Overall, the goal of our social media strategy should be to create engaging and relevant content that resonates with our target audience and showcases our brand as a leader in the outdoor industry. By regularly monitoring and analyzing our performance, we can continually improve and refine our strategy to achieve our goals of increased brand awareness, follower growth, website traffic, and conversion.
 
 <br>
-<a href="https://workdojos.com/explorers/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/explorers/ethics">next: ethical framework</a>
 </p>

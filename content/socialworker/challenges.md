@@ -17,5 +17,5 @@ To address these issues and improve the behavioral health industry, we must prio
 Overall, the behavioral health industry has the potential to make significant progress in the coming years, but it will require a concerted effort from all stakeholders, including social workers, policymakers, and community advocates. By addressing the controversies and challenges facing the industry, we can create a more effective and compassionate system of care that truly helps individuals in need.
 
 <br>
-<a href="https://workdojos.com/socialworker/history">next: history</a>
+<a href="https://insights.workdojos.com/socialworker/history">next: history</a>
 </p>

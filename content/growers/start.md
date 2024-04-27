@@ -21,5 +21,5 @@ There are also many resources available for those interested in learning more ab
 Overall, working as a grower in the cannabis industry can be a rewarding and exciting career path with lots of potential for growth and advancement. If you are passionate about the plant and want to be a part of an exciting and growing industry, then this could be the perfect career for you!
 
 <br>
-<a href="https://workdojos.com/growers/learning">next: learning</a>
+<a href="https://insights.workdojos.com/growers/learning">next: learning</a>
 </p>

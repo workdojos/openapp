@@ -19,5 +19,5 @@ Finally, supporting the development of new talent is critical to the long-term s
 Overall, there are numerous challenges facing the performing arts industry, but with the right approaches, it is possible to overcome these challenges and create a more inclusive and sustainable industry. By making it easier for thespians to find work, promoting diversity and inclusion in casting, and supporting the development of new talent, we can ensure that the performing arts industry continues to thrive and bring joy and inspiration to people around the world.
 
 <br>
-<a href="https://workdojos.com/thespian/history">next: history</a>
+<a href="https://insights.workdojos.com/thespian/history">next: history</a>
 </p>

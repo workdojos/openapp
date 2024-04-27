@@ -23,6 +23,6 @@ Sarah was inspired by the greats that came before her, like Bob Dylan and John L
 And so, Sarah's day as a lyricist was always filled with creativity, collaboration, and the magic of music. It was a day unlike any other, and she loved every moment of it.
 
 <br>
-<a href="https://workdojos.com/lyricist/history">next: history</a>
+<a href="https://insights.workdojos.com/lyricist/history">next: history</a>
 <br>
 </p>

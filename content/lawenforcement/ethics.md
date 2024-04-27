@@ -19,5 +19,5 @@ Another important aspect of developing an ethical framework for this career coul
 Ultimately, the ethical framework for starting a career as a police officer should be centered on upholding the values and responsibilities of the protective services industry, while also considering the rights and well-being of individuals and communities.
 
 <br>
-<a href="https://workdojos.com/lawenforcement/social">next: social media</a>
+<a href="https://insights.workdojos.com/lawenforcement/social">next: social media</a>
 </p>

@@ -20,6 +20,6 @@ In the future, small businesses will play an even more integral role in a thrivi
 In conclusion, the administration and bookkeeping industry is at the forefront of a shift towards open-source technology, which has the potential to revolutionize the way administrators and bookkeepers work and support small businesses in their growth and success. By staying up-to-date with the latest developments in open-source technology, administrators and bookkeepers can thrive in this industry, and contribute to a thriving economy in the future.
 
 <br>
-<a href="https://workdojos.com/administrators/website">next: website</a>
+<a href="https://insights.workdojos.com/administrators/website">next: website</a>
 <br>
 </p>

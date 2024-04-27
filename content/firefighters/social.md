@@ -19,5 +19,5 @@ Youtube: Create a Youtube channel and upload videos of your work as a firefighte
 Pinterest: Create a Pinterest board featuring images and infographics about fire safety, public services, and your business. Pin your own content as well as relevant articles and resources from other sources to engage with your followers.
 
 <br>
-<a href="https://workdojos.com/firefighters/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/firefighters/startup">next: startup ideas</a>
 </p>

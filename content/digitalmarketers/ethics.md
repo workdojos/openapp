@@ -16,5 +16,5 @@ Another approach could involve exploring the principles of consequentialism, whi
 Ultimately, the development of an ethical framework for a career in digital marketing will likely involve a combination of these and other philosophical approaches, as well as a consideration of the specific values and goals of the individual marketer and the company they work for.
 
 <br>
-<a href="https://workdojos.com/digitalmarketers/social">next: social media</a>
+<a href="https://insights.workdojos.com/digitalmarketers/social">next: social media</a>
 </p>

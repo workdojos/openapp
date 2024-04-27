@@ -21,6 +21,6 @@ Throughout history, there have been many notable interpreters who have made sign
 As the day came to a close, Maria reflected on the importance of her work as an interpreter. She knew that without her skills and dedication, many people would not be able to communicate and understand one another, and the world would be a much more divided place. And so, she went to bed that night feeling grateful for the opportunity to be a bridge between different cultures and languages, and excited for the next day's adventures as a skilled interpreter.
 
 <br>
-<a href="https://workdojos.com/interpreters/history">next: history</a>
+<a href="https://insights.workdojos.com/interpreters/history">next: history</a>
 <br>
 </p>

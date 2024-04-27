@@ -19,5 +19,5 @@ There are many different types of jobs available in the animation industry, rang
 Overall, the animation industry is a dynamic and rewarding field that offers endless possibilities for those with a passion for creating visual stories and characters. With the right combination of talent, dedication, and networking, anyone can find success in this exciting and growing industry.
 
 <br>
-<a href="https://workdojos.com/animators/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/animators/day-in-the-life">next: day in the life</a>
 </p>

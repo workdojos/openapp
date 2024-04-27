@@ -18,5 +18,5 @@ Intellectual property rights: Cinematographers often work with copyrighted mater
 To develop an ethical framework for starting a career as a cinematographer, one might consider creating a set of guiding principles that outline the values and principles that will guide one's work. These principles might include things like respect for actors and crew members, commitment to representing people and groups fairly, and a dedication to upholding intellectual property rights. It might also be useful to seek out resources and guidance from organizations like the International Cinematographers Guild or the Society of Cinematographers, which provide resources and support for professionals in the field. Ultimately, the key to developing an ethical framework for this career is to remain mindful of the ethical considerations that may arise, and to take steps to ensure that one's work is guided by a commitment to fairness, respect, and the rights of others.
 
 <br>
-<a href="https://workdojos.com/cinematographer/social">next: social media</a>
+<a href="https://insights.workdojos.com/cinematographer/social">next: social media</a>
 </p>

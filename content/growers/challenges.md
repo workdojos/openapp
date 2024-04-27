@@ -21,5 +21,5 @@ In addition to addressing these challenges, there are also numerous ways in whic
 In conclusion, the cannabis industry is facing a number of controversies and challenges, but with the right policies and initiatives, it has the potential to become a more inclusive, equitable, and innovative industry. By supporting the needs and rights of cannabis growers, we can help to create a brighter future for the industry as a whole.
 
 <br>
-<a href="https://workdojos.com/growers/history">next: history</a>
+<a href="https://insights.workdojos.com/growers/history">next: history</a>
 </p>

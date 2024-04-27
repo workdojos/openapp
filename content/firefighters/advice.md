@@ -17,5 +17,5 @@ In terms of qualifications, it is important to note that firefighters typically 
 Overall, a career as a firefighter can be rewarding and challenging, and it is important for the individual to carefully consider their skills, interests, and experience before making a decision. It may be helpful for them to speak with current firefighters and conduct informational interviews in order to get a better sense of the day-to-day realities of this profession.
 
 <br>
-<a href="https://workdojos.com/firefighters/start">next: get started</a>
+<a href="https://insights.workdojos.com/firefighters/start">next: get started</a>
 </p>

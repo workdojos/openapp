@@ -21,5 +21,5 @@ Pinterest: Use Pinterest to create a board featuring your music and inspiration 
 Overall, the key to success in this campaign will be to create consistent, high-quality content that connects with your audience and showcases your talent as a musical artist. Good luck!
 
 <br>
-<a href="https://workdojos.com/musicalartist/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/musicalartist/startup">next: startup ideas</a>
 </p>

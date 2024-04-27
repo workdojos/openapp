@@ -14,6 +14,6 @@ The word botanist was first recorded in English in the 16th century, and it refe
 Over time, the meanings of both words have remained largely unchanged, although the study of botany has expanded to include the study of plant ecology, evolution, and genetics. Today, a botanist is a scientist who studies plants and a botanist is a person who practices botany.
 
 <br>
-<a href="https://workdojos.com/botanist/advice">next: advice</a>
+<a href="https://insights.workdojos.com/botanist/advice">next: advice</a>
 <br>
 </p>

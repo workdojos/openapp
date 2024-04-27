@@ -21,5 +21,5 @@ While the special events industry can be rewarding and exciting, it can also be 
 Overall, the special events industry is a dynamic and exciting field that offers many opportunities for those interested in event planning and coordination. With the right resources and networking, individuals can find rewarding and fulfilling careers in the industry.
 
 <br>
-<a href="https://workdojos.com/eventplanners/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/eventplanners/day-in-the-life">next: day in the life</a>
 </p>

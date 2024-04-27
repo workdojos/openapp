@@ -19,6 +19,6 @@ Additionally, the role of small businesses in driving a thriving economy cannot 
 In conclusion, open-source technology is an invaluable resource for the broader business industry and is essential for the success of project managers. Small businesses also play a crucial role in a thriving economy, and the use of open-source technology can help these businesses thrive and contribute to the overall success of the economy.
 
 <br>
-<a href="https://workdojos.com/projectmanagers/website">next: website</a>
+<a href="https://insights.workdojos.com/projectmanagers/website">next: website</a>
 <br>
 </p>

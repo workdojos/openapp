@@ -17,5 +17,5 @@ Additionally, it is important to regularly monitor and respond to comments and q
 Overall, the goal of our social media strategy is to increase brand awareness, recruit followers, drive traffic to our website, and convert leads into action. By creating a cohesive and consistent presence across all platforms and engaging with our audience, we can effectively achieve these goals and make a positive impact in the public services industry.
 
 <br>
-<a href="https://workdojos.com/firefighters/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/firefighters/ethics">next: ethical framework</a>
 </p>

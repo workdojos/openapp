@@ -20,5 +20,5 @@ In addition to a strong educational foundation, it's also helpful to gain practi
 Overall, if you have a passion for plants and a strong background in biology or a related field, a career as a botanist could be a great fit for you. With the right education and experience, you can pursue a fulfilling and rewarding career in the botany industry.
 
 <br>
-<a href="https://workdojos.com/botanist/start">next: get started</a>
+<a href="https://insights.workdojos.com/botanist/start">next: get started</a>
 </p>

@@ -21,5 +21,5 @@ To measure the success of the social media campaigns, I would use analytics tool
 Overall, by developing and executing targeted social media campaigns and engaging with the audience, we can increase brand awareness, recruit followers, drive traffic to the website, and create opportunities for collaboration with others in the education industry.
 
 <br>
-<a href="https://workdojos.com/schoolteachers/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/schoolteachers/ethics">next: ethical framework</a>
 </p>

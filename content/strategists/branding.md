@@ -25,5 +25,5 @@ Engage with other users by commenting on their pins and repinning their content.
 Overall, it's important to regularly post engaging content, engage with your audience, and utilize relevant hashtags to increase brand awareness and drive traffic to your website. I hope these suggestions help!
 
 <br>
-<a href="https://workdojos.com/strategists/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/strategists/ethics">next: ethical framework</a>
 </p>

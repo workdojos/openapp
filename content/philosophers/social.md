@@ -27,5 +27,5 @@ Engage with your followers by asking them to share their own philosophical insig
 Overall, the key to creating an engaging social media campaign is to create visually appealing content that resonates with your audience and to actively engage with your followers. By doing so, you can effectively promote your business as a philosopher and increase brand awareness in the philosophy and higher education industry.2
 
 <br>
-<a href="https://workdojos.com/philosophers/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/philosophers/startup">next: startup ideas</a>
 </p>

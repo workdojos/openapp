@@ -15,6 +15,6 @@ The term "musical artist" is a relatively modern invention, as the concept of a 
 Over time, the meaning of the word "music" has broadened to encompass a wide range of styles and genres, including classical, rock, pop, hip hop, and electronic. The term "musical artist" now refers to anyone who creates or performs music professionally, regardless of their specific genre or style.
 
 <br>
-<a href="https://workdojos.com/musicalartist/advice">next: advice</a>
+<a href="https://insights.workdojos.com/musicalartist/advice">next: advice</a>
 <br>
 </p>

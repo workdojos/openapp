@@ -19,5 +19,5 @@ There are a variety of useful websites and resources available for those interes
 When it comes to the best and worst jobs in the music industry, it really depends on individual interests and strengths. Some of the best jobs may include positions as record executives, live music promoters, or audio engineers, while some of the worst jobs may include working as a roadie or dealing with difficult artists. Ultimately, it's important to consider what you are most passionate about and find a role that aligns with your interests and skills.
 
 <br>
-<a href="https://workdojos.com/lyricist/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/lyricist/day-in-the-life">next: day in the life</a>
 </p>

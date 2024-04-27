@@ -20,5 +20,5 @@ Another trend that has affected the travel and tours industry is the impact of t
 In conclusion, as a travel agent and advocate for fair work practices, I believe that all workers in our industry deserve to be treated with respect and dignity, regardless of the trends or events that may impact our industry. We must stand up for our rights and push for fair wages, benefits, and treatment in order to create a more just and equitable industry for all.
 
 <br>
-<a href="https://workdojos.com/travelagents/branding">next: branding</a>
+<a href="https://insights.workdojos.com/travelagents/branding">next: branding</a>
 </p>

@@ -19,6 +19,6 @@ In addition to the benefits for individual businesses, small businesses also pla
 Overall, the digital services industry and open-source technology go hand in hand. The use of open-source technology benefits not only web designers and small businesses, but also the industry as a whole. It is important that we continue to support and promote the use of open-source technology in the digital services industry to ensure its accessibility and sustainability.
 
 <br>
-<a href="https://workdojos.com/webdesigners/website">next: website</a>
+<a href="https://insights.workdojos.com/webdesigners/website">next: website</a>
 <br>
 </p>

@@ -43,5 +43,5 @@ How do you utilize social media to promote your content?
 Can you provide examples of successful content campaigns you have led or been a part of?
 
 <br>
-<a href="https://workdojos.com/contentcreators/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/contentcreators/rights">next: workers' rights</a>
 </p>

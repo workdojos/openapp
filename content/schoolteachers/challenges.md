@@ -17,5 +17,5 @@ To address these challenges, we must make it easier for school teachers to find 
 Overall, the education industry has the potential to improve significantly in the coming years. By addressing the controversies and challenges facing the industry, we can create a more effective and efficient education system that benefits both teachers and students.
 
 <br>
-<a href="https://workdojos.com/schoolteachers/history">next: history</a>
+<a href="https://insights.workdojos.com/schoolteachers/history">next: history</a>
 </p>

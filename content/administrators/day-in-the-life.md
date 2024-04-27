@@ -22,6 +22,6 @@ Throughout history, there have been many notable administrators who have made th
 Sarah's story is just one example of the important role that administrators play in our world. They may not always be in the spotlight, but their hard work and dedication make a huge difference in the lives of so many people.
 
 <br>
-<a href="https://workdojos.com/administrators/history">next: history</a>
+<a href="https://insights.workdojos.com/administrators/history">next: history</a>
 <br>
 </p>

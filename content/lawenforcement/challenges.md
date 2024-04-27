@@ -17,5 +17,5 @@ Furthermore, there are steps that the protective services industry can take to i
 In conclusion, the protective services industry is facing a number of controversies and challenges, including difficulties in finding work and low pay for police officers. However, by addressing these issues and implementing reforms, we can create a stronger and more effective law enforcement system that better serves the public.
 
 <br>
-<a href="https://workdojos.com/lawenforcement/history">next: history</a>
+<a href="https://insights.workdojos.com/lawenforcement/history">next: history</a>
 </p>

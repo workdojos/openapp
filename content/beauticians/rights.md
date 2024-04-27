@@ -21,5 +21,5 @@ Furthermore, there have been numerous reports of workers in the health and welln
 In conclusion, it is clear that there are many issues facing beauticians working in the health and wellness industry. From the rise of independent contractors and gig workers, to the use of NDAs and discrimination and harassment on the job, there are many challenges that these workers face. It is important for us to stand up for the rights of these workers and ensure that they are treated with the respect and fairness that they deserve. We must work together to promote fair work practices for beauticians in the health and wellness industry and create a more just and equitable society for all.
 
 <br>
-<a href="https://workdojos.com/beauticians/branding">next: branding</a>
+<a href="https://insights.workdojos.com/beauticians/branding">next: branding</a>
 </p>

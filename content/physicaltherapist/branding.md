@@ -25,5 +25,5 @@ Use analytics to measure the success of your campaigns and make data-driven deci
 Overall, the key to managing a successful social media presence for your physical therapy organization is to be consistent, engaging, and responsive to your audience. By following these strategies, you can effectively increase brand awareness, recruit followers, drive traffic to your website, and create opportunities for collaboration within the physical therapy industry.
 
 <br>
-<a href="https://workdojos.com/physicaltherapist/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/physicaltherapist/ethics">next: ethical framework</a>
 </p>

@@ -25,7 +25,7 @@ Overall, I believe that open-source technology can be a great investment for bus
 
 <br>
 
-<a href="https://workdojos.com/investmentbanker/overview">next: overview</a>
+<a href="https://insights.workdojos.com/investmentbanker/overview">next: overview</a>
 <br>
 <br>
 </p>

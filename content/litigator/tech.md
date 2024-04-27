@@ -21,6 +21,6 @@ In addition to benefiting individual attorneys, the adoption of open-source tech
 In conclusion, the legal industry has the potential to greatly benefit from open-source technology. It can reduce costs, increase efficiency, and help both attorneys and small businesses thrive. As such, it is important for lawyers to be open to exploring and embracing open-source options in their practices. By doing so, they can better serve their clients and contribute to a stronger economy.
 
 <br>
-<a href="https://workdojos.com/litigator/website">next: website</a>
+<a href="https://insights.workdojos.com/litigator/website">next: website</a>
 <br>
 </p>

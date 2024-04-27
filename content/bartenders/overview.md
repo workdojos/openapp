@@ -21,5 +21,5 @@ There are a number of useful websites where you can learn more about the industr
 When it comes to the best and worst jobs in the industry, it's important to consider a number of factors, including pay, benefits, and working conditions. Some of the best jobs in the industry may include managerial roles, such as restaurant managers or hotel general managers, which offer higher pay and more stability. On the other hand, some of the worst jobs may include positions with low pay and long, irregular hours, such as servers or bartenders in low-end establishments. Ultimately, it's important to find a job that aligns with your career goals and personal preferences.
 
 <br>
-<a href="https://workdojos.com/bartenders/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/bartenders/day-in-the-life">next: day in the life</a>
 </p>

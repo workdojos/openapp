@@ -17,6 +17,6 @@ The phrase "protective services" refers to any agency or organization that is re
 Over time, the meaning of the words "police" and "officer" have remained largely unchanged, although their roles and responsibilities have evolved. The phrase "protective services" has also remained unchanged in its basic meaning, but the specific agencies or organizations that fall under this category may have changed over time.
 
 <br>
-<a href="https://workdojos.com/lawenforcement/advice">next: advice</a>
+<a href="https://insights.workdojos.com/lawenforcement/advice">next: advice</a>
 <br>
 </p>

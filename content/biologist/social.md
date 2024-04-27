@@ -20,5 +20,5 @@ Pinterest: Create boards on Pinterest that showcase your work as a biologist in 
 Overall, the key to creating an engaging campaign on social media is to share content that is interesting, informative, and relevant to your audience. By highlighting your work as a biologist in the biosciences industry, you can not only promote your business but also educate and inspire others who are interested in the field.
 
 <br>
-<a href="https://workdojos.com/biologist/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/biologist/startup">next: startup ideas</a>
 </p>

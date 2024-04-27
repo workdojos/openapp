@@ -20,5 +20,5 @@ Another important aspect of fair work practices in the behavioral healthcare ind
 Overall, it is clear that there is still much work to be done in terms of promoting fair work practices for social workers in the behavioral healthcare industry. From advocating for higher wages and better benefits, to addressing issues of workplace safety, there are many ways in which we can work to ensure that social workers are treated fairly and given the support and resources that they need to do their jobs effectively. By working together and speaking out for worker's rights, we can create a more just and equitable society for all.
 
 <br>
-<a href="https://workdojos.com/socialworker/branding">next: branding</a>
+<a href="https://insights.workdojos.com/socialworker/branding">next: branding</a>
 </p>

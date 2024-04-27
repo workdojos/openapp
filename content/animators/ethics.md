@@ -16,5 +16,5 @@ Additionally, you may want to consider the role of creativity and artistic expre
 Ultimately, the development of an ethical framework for your business will depend on your own values and priorities, as well as the specific challenges and opportunities that you encounter as a business owner. It will be important to remain open to learning and adapting as you grow and evolve as a business, and to be willing to make difficult decisions in order to ensure that your business is operating in an ethical and responsible manner. So, the ethical framework for starting a business as an animator in the animation industry should be based on the principles of fairness, honesty, and respect for all stakeholders involved.
 
 <br>
-<a href="https://workdojos.com/animators/social">next: social media</a>
+<a href="https://insights.workdojos.com/animators/social">next: social media</a>
 </p>

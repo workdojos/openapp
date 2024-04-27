@@ -23,5 +23,5 @@ Use analytics tools: Use analytics tools like Twitter Analytics or Instagram Ins
 Update regularly: Consistently post new content to keep your followers engaged and coming back for more. You can also use scheduling tools like Hootsuite to schedule posts in advance.
 
 <br>
-<a href="https://workdojos.com/exhibitionist/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/exhibitionist/ethics">next: ethical framework</a>
 </p>

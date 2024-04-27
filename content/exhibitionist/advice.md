@@ -21,5 +21,5 @@ It is also worth noting that the job market for exhibitionists can be competitiv
 In summary, pursuing a career as an exhibitionist in the art and special events industry is a rewarding and challenging path that requires a strong passion for art and culture, excellent communication and organizational skills, and a relevant degree or qualification. It is also important to gain practical experience through internships or entry-level positions in order to stand out in a competitive job market.
 
 <br>
-<a href="https://workdojos.com/exhibitionist/start">next: get started</a>
+<a href="https://insights.workdojos.com/exhibitionist/start">next: get started</a>
 </p>

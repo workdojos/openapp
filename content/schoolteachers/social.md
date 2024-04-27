@@ -21,5 +21,5 @@ Pinterest: Create boards featuring educational resources, lesson plans, and teac
 Overall, the key to creating an engaging campaign is to share valuable, relevant content that resonates with your target audience. By consistently posting and engaging with your followers, you can build a strong online presence and promote your business as a school teacher in the education industry.
 
 <br>
-<a href="https://workdojos.com/schoolteachers/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/schoolteachers/startup">next: startup ideas</a>
 </p>

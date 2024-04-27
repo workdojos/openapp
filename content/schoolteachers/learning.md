@@ -39,5 +39,5 @@ How do you differentiate instruction for students with different learning needs?
 How do you assess student learning and progress?
 
 <br>
-<a href="https://workdojos.com/schoolteachers/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/schoolteachers/rights">next: workers' rights</a>
 </p>

@@ -33,5 +33,5 @@ Conclusion:
 Translation and interpretation are essential industries that facilitate communication and understanding between individuals and groups who do not speak the same language. However, these industries have faced numerous controversies and challenges, including low pay and lack of job opportunities for interpreters. We must work towards improving the translation and interpretation industry by increasing job opportunities and fair pay for interpreters, and addressing other controversies facing the industry. By doing so, we can help to create a stronger and more vibrant industry that benefits everyone involved.
 
 <br>
-<a href="https://workdojos.com/interpreters/history">next: history</a>
+<a href="https://insights.workdojos.com/interpreters/history">next: history</a>
 </p>

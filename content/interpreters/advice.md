@@ -24,5 +24,5 @@ Given these trends, I would advise the individual to consider obtaining addition
 Overall, a career as a translator or interpreter can be rewarding and fulfilling for individuals who are fluent in multiple languages and have a passion for language and communication. With the right education and experience, this individual can be well-suited for a successful career in the translation and interpretation industry.
 
 <br>
-<a href="https://workdojos.com/interpreters/start">next: get started</a>
+<a href="https://insights.workdojos.com/interpreters/start">next: get started</a>
 </p>

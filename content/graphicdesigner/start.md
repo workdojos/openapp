@@ -33,5 +33,5 @@ Don't forget to check out online portfolio sites like Behance, Dribbble, and Por
 Remember, as a graphic designer, you have the power to create visually stunning and effective designs that can make a real impact on businesses and organizations. Embrace your creativity, stay up-to-date on the latest industry trends, and don't be afraid to take on new challenges. The graphic design industry is full of endless possibilities, and with hard work and dedication, you can achieve great things!
 
 <br>
-<a href="https://workdojos.com/graphicdesigner/learning">next: learning</a>
+<a href="https://insights.workdojos.com/graphicdesigner/learning">next: learning</a>
 </p>

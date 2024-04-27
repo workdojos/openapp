@@ -18,5 +18,5 @@ To measure the success of your campaigns, I would use analytics tools such as Go
 Finally, I would ensure that your presence on each platform is consistently updated with fresh, engaging content that resonates with your audience and helps to drive your business objectives. This could involve sharing industry news, highlighting success stories, or showcasing your products and services in a creative and compelling way.
 
 <br>
-<a href="https://workdojos.com/digitalmarketers/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/digitalmarketers/ethics">next: ethical framework</a>
 </p>

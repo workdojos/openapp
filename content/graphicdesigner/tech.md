@@ -19,6 +19,6 @@ In order for the graphic design and graphic arts industry to thrive, it is essen
 In conclusion, open-source technology is essential for the graphic design and graphic arts industry, and small businesses will play an integral role in a thriving economy in the future. As a graphic designer, I have personally seen the benefits of open-source technology and the impact it can have on my work and the industry as a whole. By embracing open-source options, designers and small businesses are able to stay competitive and offer top-quality services to their clients.
 
 <br>
-<a href="https://workdojos.com/graphicdesigner/website">next: website</a>
+<a href="https://insights.workdojos.com/graphicdesigner/website">next: website</a>
 <br>
 </p>

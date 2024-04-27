@@ -21,5 +21,5 @@ To integrate these values and responsibilities into an ethical framework for sta
 Ultimately, the development of an ethical framework for starting a career as a park ranger will depend on the specific values and goals of the individual ranger and the organization they work for. However, by considering the inherent value of nature, the importance of sustainability, and the ethical responsibilities of the role, one can create a framework that guides ethical decision-making and helps ensure that the conservation and management of park resources is done in a way that is consistent with moral principles and values.
 
 <br>
-<a href="https://workdojos.com/parkranger/social">next: social media</a>
+<a href="https://insights.workdojos.com/parkranger/social">next: social media</a>
 </p>

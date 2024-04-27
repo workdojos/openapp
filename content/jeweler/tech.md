@@ -19,6 +19,6 @@ Furthermore, small businesses will play an integral role in a thriving economy i
 In conclusion, open-source technology is crucial for the luxury goods industry in order to promote transparency and traceability, as well as support small businesses. It is important for both consumers and businesses to embrace this technology in order to create a more ethical and sustainable industry.
 
 <br>
-<a href="https://workdojos.com/jeweler/website">next: website</a>
+<a href="https://insights.workdojos.com/jeweler/website">next: website</a>
 <br>
 </p>

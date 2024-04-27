@@ -53,5 +53,5 @@ How do you prioritize tasks when you have multiple responsibilities?
 Describe a time when you had to think creatively to solve a problem at work.
 
 <br>
-<a href="https://workdojos.com/administrators/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/administrators/rights">next: workers' rights</a>
 </p>

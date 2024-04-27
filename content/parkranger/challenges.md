@@ -19,5 +19,5 @@ There are several steps that can be taken to make it easier for park rangers to 
 In conclusion, the conservation and park management industry is facing significant challenges, including controversies and job scarcity. However, by making it easier for park rangers to find work, we can help to preserve our natural resources and ensure that future generations can enjoy them. By providing funding, training, and professional development opportunities, we can help the industry to thrive and continue to make a positive impact on our planet.
 
 <br>
-<a href="https://workdojos.com/parkranger/history">next: history</a>
+<a href="https://insights.workdojos.com/parkranger/history">next: history</a>
 </p>

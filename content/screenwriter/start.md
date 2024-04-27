@@ -41,5 +41,5 @@ The Sundance Institute: This is a non-profit organization that supports and ment
 I hope these facts and resources will inspire you and get you excited about a career as a screenwriter in the film industry. Remember, screenwriting is a challenging and rewarding profession that requires dedication, creativity, and perseverance. But with hard work and persistence, you can achieve your goals and reach your full potential as a writer. Keep writing and never give up!
 
 <br>
-<a href="https://workdojos.com/screenwriter/learning">next: learning</a>
+<a href="https://insights.workdojos.com/screenwriter/learning">next: learning</a>
 </p>

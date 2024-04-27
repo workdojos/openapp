@@ -18,5 +18,5 @@ Additionally, the use of unpaid or low-paid internships as a way to break into t
 To address these issues, it is important for screenwriters to advocate for better working conditions and protections in the industry. This could include supporting unions and collective bargaining efforts, pushing for fair compensation for writing work, and advocating for better protections for unpaid interns. By taking a stand for fair work practices, screenwriters can help ensure that their profession is respected and valued, and that they are treated with the dignity and respect they deserve.
 
 <br>
-<a href="https://workdojos.com/screenwriter/branding">next: branding</a>
+<a href="https://insights.workdojos.com/screenwriter/branding">next: branding</a>
 </p>

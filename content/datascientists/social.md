@@ -18,5 +18,5 @@ YouTube: Create a YouTube channel featuring videos of you discussing your work a
 Pinterest: Create a Pinterest board featuring infographics, data visualizations, and other resources related to data science. Share your own work as well as interesting articles and resources from other data scientists and organizations. Use relevant tags and descriptions to make it easier for people to find your board and follow it.
 
 <br>
-<a href="https://workdojos.com/datascientists/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/datascientists/startup">next: startup ideas</a>
 </p>

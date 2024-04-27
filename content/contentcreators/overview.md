@@ -23,5 +23,5 @@ There are many different jobs within the content creation industry, ranging from
 In conclusion, the content creation industry is a dynamic and exciting field that offers a wide range of opportunities for professionals looking to express their creativity and skills. With the right resources and networking strategies, anyone can find their footing in this growing industry.
 
 <br>
-<a href="https://workdojos.com/contentcreators/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/contentcreators/day-in-the-life">next: day in the life</a>
 </p>

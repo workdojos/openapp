@@ -22,5 +22,5 @@ Finally, outdoor workers also need to be treated with respect and dignity on the
 In conclusion, fair work practices are essential for the well-being and success of outdoor workers. By addressing issues such as fair compensation, safety protections, and respect and dignity on the job, we can create a more supportive and sustainable industry that serves the needs of all workers.
 
 <br>
-<a href="https://workdojos.com/explorers/branding">next: branding</a>
+<a href="https://insights.workdojos.com/explorers/branding">next: branding</a>
 </p>

@@ -21,5 +21,5 @@ Additionally, it may be helpful to consider other ethical frameworks such as vir
 Ultimately, the ethical framework for a project manager will depend on their personal values and the specific context of their work. By considering the various ethical theories and principles outlined above, a project manager can create a personalized ethical framework that guides their decision-making and actions in the workplace.
 
 <br>
-<a href="https://workdojos.com/projectmanagers/social">next: social media</a>
+<a href="https://insights.workdojos.com/projectmanagers/social">next: social media</a>
 </p>

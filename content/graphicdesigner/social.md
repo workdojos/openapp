@@ -21,5 +21,5 @@ Pinterest: Create a Pinterest board dedicated to your design work and inspiratio
 I hope these ideas help get you started on creating an engaging social media campaign to promote your business as a graphic designer!
 
 <br>
-<a href="https://workdojos.com/graphicdesigner/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/graphicdesigner/startup">next: startup ideas</a>
 </p>

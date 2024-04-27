@@ -28,5 +28,5 @@ I also recommend speaking with current registered nurses to get a sense of what 
 Remember, becoming a registered nurse is a challenging but rewarding journey. With hard work, dedication, and a positive attitude, you can achieve your goal and make a real difference in the lives of others. Keep pushing forward and you will succeed!
 
 <br>
-<a href="https://workdojos.com/registerednurse/learning">next: learning</a>
+<a href="https://insights.workdojos.com/registerednurse/learning">next: learning</a>
 </p>

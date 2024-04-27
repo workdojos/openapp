@@ -21,5 +21,5 @@ Justice refers to the idea of fairness and equality. This principle would be rel
 In developing an ethical framework for starting a career as a lab tech, it would be important to consider these principles and how they apply to the specific context of the laboratory testing industry. This might involve considering issues such as the impact of the work on the environment, the safety and well-being of workers, and the potential for harm to the general public. Ultimately, the goal would be to create a framework that promotes the well-being of all stakeholders and encourages ethical decision-making in the workplace.
 
 <br>
-<a href="https://workdojos.com/labtech/social">next: social media</a>
+<a href="https://insights.workdojos.com/labtech/social">next: social media</a>
 </p>

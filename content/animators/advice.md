@@ -22,5 +22,5 @@ Network and gain experience: Networking and gaining experience can be crucial fo
 I hope this information is helpful! Let me know if you have any other questions or if you'd like more guidance on this topic.
 
 <br>
-<a href="https://workdojos.com/animators/start">next: get started</a>
+<a href="https://insights.workdojos.com/animators/start">next: get started</a>
 </p>

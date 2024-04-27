@@ -22,5 +22,5 @@ Post engaging content: This can include behind-the-scenes glimpses of your anima
 Collaborate with other animation professionals: Reach out to other professionals in the industry and see if you can collaborate on projects or share each other's content. This can help to increase your reach and build relationships within the community.
 
 <br>
-<a href="https://workdojos.com/animators/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/animators/ethics">next: ethical framework</a>
 </p>

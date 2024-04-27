@@ -19,5 +19,5 @@ There are a number of useful websites where you can learn more about the digital
 When it comes to the best and worst jobs in the digital services industry, it really depends on your interests and skill set. Some of the best jobs may include positions such as software engineer, user experience designer, or digital marketing manager, which offer high salaries and opportunities for advancement. On the other hand, some of the worst jobs may include roles with low pay, high stress levels, and little room for growth. It's important to do your research and consider your own strengths and goals before choosing a career in the digital services industry.
 
 <br>
-<a href="https://workdojos.com/webdesigners/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/webdesigners/day-in-the-life">next: day in the life</a>
 </p>

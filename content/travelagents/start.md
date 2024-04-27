@@ -31,5 +31,5 @@ The Travel Institute: The Travel Institute is a professional development organiz
 With all of these resources at your disposal, you'll be well on your way to learning about the benefits and perks of working as a travel agent in the travel & tours industry. Don't forget to stay motivated and keep your goals in mind as you embark on this exciting journey!
 
 <br>
-<a href="https://workdojos.com/travelagents/learning">next: learning</a>
+<a href="https://insights.workdojos.com/travelagents/learning">next: learning</a>
 </p>

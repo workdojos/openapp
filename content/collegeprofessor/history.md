@@ -14,6 +14,6 @@ The word "professor" comes from the Latin word "professus," which means to decla
 The phrase "higher education" refers to the education that is obtained beyond high school, typically at a college or university. The term "higher" refers to the advanced level of knowledge and skills that are gained through this type of education. The concept of higher education has a long history, with the first universities being established in the Middle East and Europe in the 11th and 12th centuries. In modern times, higher education is seen as a necessary step for many careers and is highly valued for the opportunities it provides for personal and professional growth.
 
 <br>
-<a href="https://workdojos.com/collegeprofessor/advice">next: advice</a>
+<a href="https://insights.workdojos.com/collegeprofessor/advice">next: advice</a>
 <br>
 </p>

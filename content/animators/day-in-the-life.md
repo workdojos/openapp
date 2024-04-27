@@ -22,6 +22,6 @@ Throughout history, there have been many notable animators who have made a signi
 As Sarah continues to grow and learn in the world of animation, she knows that she has a long way to go. But with hard work and dedication, she knows that she can achieve anything she sets her mind to. And who knows, perhaps one day she will become a notable animator herself, creating stories and characters that will capture the hearts and minds of audiences around the world.
 
 <br>
-<a href="https://workdojos.com/animators/history">next: history</a>
+<a href="https://insights.workdojos.com/animators/history">next: history</a>
 <br>
 </p>

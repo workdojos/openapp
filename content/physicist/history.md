@@ -15,6 +15,6 @@ The word "physics" also has its roots in the Latin and Greek languages. It comes
 The term "higher education" refers to the education that is provided at institutions of higher learning, such as universities and colleges. The word "education" comes from the Latin word "educatio", which means "to educate" or "to bring up". The term "higher" refers to the level of education that is provided at these institutions, which is generally more advanced and specialized than the education provided at lower levels. The term "higher education" has been in use since the 19th century.
 
 <br>
-<a href="https://workdojos.com/physicist/advice">next: advice</a>
+<a href="https://insights.workdojos.com/physicist/advice">next: advice</a>
 <br>
 </p>

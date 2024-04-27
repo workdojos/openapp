@@ -21,5 +21,5 @@ However, supporting project managers and improving the business industry as a wh
 In conclusion, the challenges facing project managers are a key issue in the business industry today. By providing these professionals with the support and opportunities they need, we can drive innovation, improve business success, and create a better future for the industry as a whole.
 
 <br>
-<a href="https://workdojos.com/projectmanagers/history">next: history</a>
+<a href="https://insights.workdojos.com/projectmanagers/history">next: history</a>
 </p>

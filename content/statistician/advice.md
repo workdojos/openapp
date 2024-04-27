@@ -17,5 +17,5 @@ In terms of qualifications, a bachelor's degree in statistics or a related field
 Overall, a career as a statistician in the statistical research and development industry can be a rewarding and challenging option for individuals with strong analytical and problem-solving skills, an interest in data analysis and research, and relevant qualifications. With strong job growth projected in this field, there should be plenty of opportunities available for those who are well-suited to this career.
 
 <br>
-<a href="https://workdojos.com/statistician/start">next: get started</a>
+<a href="https://insights.workdojos.com/statistician/start">next: get started</a>
 </p>

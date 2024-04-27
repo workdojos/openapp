@@ -52,5 +52,5 @@ How do you stay current on environmental issues and park management practices?
 Describe a time when you had to perform maintenance tasks in the park.
 
 <br>
-<a href="https://workdojos.com/parkranger/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/parkranger/rights">next: workers' rights</a>
 </p>

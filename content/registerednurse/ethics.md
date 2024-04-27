@@ -17,5 +17,5 @@ Finally, I would consider the social and cultural context in which a registered 
 Overall, the development of an ethical framework for a career as a registered nurse working in the healthcare industry requires careful consideration of various ethical theories, stakeholders, and cultural context. It is important for a registered nurse to continuously reflect on and evaluate their ethical decision-making process in order to ensure that they are acting in a way that aligns with their values and upholds the ethical standards of their profession.
 
 <br>
-<a href="https://workdojos.com/registerednurse/social">next: social media</a>
+<a href="https://insights.workdojos.com/registerednurse/social">next: social media</a>
 </p>

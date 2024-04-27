@@ -18,5 +18,5 @@ On YouTube, create a series of short videos that showcase your business, your co
 On Pinterest, create boards that showcase your business, coffee-making tips, and coffee-themed recipes and drinks. You could also create boards with inspiration for coffee shop decor, coffee-themed gift ideas, and other relevant topics. Use Pinterest's "Rich Pins" feature to add extra information and links to your pins, and engage with other users by commenting on and repinning their content.
 
 <br>
-<a href="https://workdojos.com/baristas/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/baristas/startup">next: startup ideas</a>
 </p>

@@ -33,5 +33,5 @@ How do you stay up to date on the latest developments in physics?
 How do you approach problem-solving in physics?
 
 <br>
-<a href="https://workdojos.com/physicist/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/physicist/rights">next: workers' rights</a>
 </p>

@@ -36,5 +36,5 @@ Estimated 1st Year Cost of Operation: $200,000-$300,000
 Potential Business Challenges: Competition from established delivery companies, securing funding and partnerships, managing employee and transportation logistics.
 
 <br>
-<a href="https://workdojos.com/couriers/tech">next: open-source tech</a>
+<a href="https://insights.workdojos.com/couriers/tech">next: open-source tech</a>
 </p>

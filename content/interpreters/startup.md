@@ -71,5 +71,5 @@ Maintaining and improving the technology platform as the business grows.
 
 <br>
 <br>
-<a href="https://workdojos.com/interpreters/tech">next: open-source tech</a>
+<a href="https://insights.workdojos.com/interpreters/tech">next: open-source tech</a>
 </p>

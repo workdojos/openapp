@@ -21,5 +21,5 @@ When it comes to the best and worst jobs in the agriculture industry, it really 
 Overall, the agriculture industry offers a wide range of career opportunities for those interested in working in this vital sector. With the right skills and a dedication to innovation, there are many exciting and rewarding careers to be found in agriculture.
 
 <br>
-<a href="https://workdojos.com/agriculturist/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/agriculturist/day-in-the-life">next: day in the life</a>
 </p>

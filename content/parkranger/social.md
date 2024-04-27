@@ -32,5 +32,5 @@ Pin quotes and infographics that highlight the importance of park rangers and th
 Collaborate with other Pinterest users who are interested in nature and conservation to reach a wider audience.
 
 <br>
-<a href="https://workdojos.com/parkranger/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/parkranger/startup">next: startup ideas</a>
 </p>

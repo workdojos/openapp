@@ -19,5 +19,5 @@ As for qualifications, it is important to note that physical therapists must hav
 In conclusion, based on your skills, interests, and the job market trends in the physical therapy industry, it appears that a career as a physical therapist would be a good fit for you. I recommend that you research DPT programs and begin preparing for the licensure exam in order to pursue this career path. Best of luck to you on your professional journey!
 
 <br>
-<a href="https://workdojos.com/physicaltherapist/start">next: get started</a>
+<a href="https://insights.workdojos.com/physicaltherapist/start">next: get started</a>
 </p>

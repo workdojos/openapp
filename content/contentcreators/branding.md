@@ -26,5 +26,5 @@ Collaborate with others in the industry: Look for opportunities to collaborate w
 Overall, as the social media manager for your content creation organization, my main goal would be to effectively communicate your brand message and increase engagement with your audience through the use of creative and relevant content.
 
 <br>
-<a href="https://workdojos.com/contentcreators/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/contentcreators/ethics">next: ethical framework</a>
 </p>

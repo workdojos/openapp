@@ -22,6 +22,6 @@ Overall, it's important to consider your specific needs and goals when choosing 
 
 <br>
 
-<a href="https://workdojos.com/animators/overview">next: overview</a>
+<a href="https://insights.workdojos.com/animators/overview">next: overview</a>
 <br>
 </p>

@@ -19,5 +19,5 @@ Additionally, I would advise the individual to consider building a strong online
 Overall, pursuing a career as a screenwriter in the film industry requires dedication, hard work, and persistence, but with the right skills, experience, and qualifications, it can be a rewarding and fulfilling career path.
 
 <br>
-<a href="https://workdojos.com/screenwriter/start">next: get started</a>
+<a href="https://insights.workdojos.com/screenwriter/start">next: get started</a>
 </p>

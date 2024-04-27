@@ -21,5 +21,5 @@ When it comes to the best and worst jobs in the industry, it really depends on a
 Overall, the graphic design and graphic arts industry is a dynamic and exciting field with a wide range of career opportunities. By networking, staying up to date on industry trends, and building a strong portfolio, designers can find rewarding and fulfilling work in this industry.
 
 <br>
-<a href="https://workdojos.com/graphicdesigner/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/graphicdesigner/day-in-the-life">next: day in the life</a>
 </p>

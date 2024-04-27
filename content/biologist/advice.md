@@ -18,5 +18,5 @@ In terms of qualifications, a bachelor's degree in biology or a related field is
 Overall, a career as a biologist in the biosciences industry can be a rewarding and fulfilling choice for those with a passion for the natural sciences and a desire to make a difference in the world. With the right skills, interests, and qualifications, you can succeed in this dynamic and growing field.
 
 <br>
-<a href="https://workdojos.com/biologist/start">next: get started</a>
+<a href="https://insights.workdojos.com/biologist/start">next: get started</a>
 </p>

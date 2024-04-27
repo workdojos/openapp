@@ -24,5 +24,5 @@ Share your passion and excitement with others: One of the best ways to get other
 Remember, starting a business is never easy, but with hard work, dedication, and a positive mindset, you can achieve your goals and create a successful startup as an animator. Keep pushing forward, and never give up on your dreams!
 
 <br>
-<a href="https://workdojos.com/animators/learning">next: learning</a>
+<a href="https://insights.workdojos.com/animators/learning">next: learning</a>
 </p>

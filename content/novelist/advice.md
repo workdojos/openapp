@@ -17,5 +17,5 @@ In terms of qualifications, it is not necessarily necessary to have a formal deg
 Overall, pursuing a career as a novelist requires a combination of passion, skills, and determination. It may be a challenging path, but with hard work and dedication, it is possible to succeed in this field.
 
 <br>
-<a href="https://workdojos.com/novelist/start">next: get started</a>
+<a href="https://insights.workdojos.com/novelist/start">next: get started</a>
 </p>

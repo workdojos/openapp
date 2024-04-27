@@ -28,5 +28,5 @@ The Society for Developmental Biology provides information on careers in develop
 Remember, working as a biologist in the biosciences industry can be an exciting and rewarding career path with lots of potential for personal and professional growth. Keep up the good work and never stop learning!
 
 <br>
-<a href="https://workdojos.com/biologist/learning">next: learning</a>
+<a href="https://insights.workdojos.com/biologist/learning">next: learning</a>
 </p>

@@ -22,5 +22,5 @@ There have been recent trends and events in the interpretation industry that hig
 In conclusion, fair work practices for interpreters in the translation and interpretation industry are crucial for the well-being of both individuals and society. It is important to recognize the value and importance of interpretation services and to ensure that interpreters are treated with respect and given fair wages and benefits. Businesses have a responsibility to prioritize the rights and needs of their workers in order to create a more equitable and just society.
 
 <br>
-<a href="https://workdojos.com/interpreters/branding">next: branding</a>
+<a href="https://insights.workdojos.com/interpreters/branding">next: branding</a>
 </p>

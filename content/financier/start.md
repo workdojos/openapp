@@ -21,5 +21,5 @@ Some useful websites to check out include Angel Investment Network, Seedrs, and 
 Overall, working as a financier in the startup financing industry can be extremely rewarding and exciting. With the opportunity to work with innovative entrepreneurs and the potential for financial gain, it's a career path worth considering. So go out there and chase your dreams!
 
 <br>
-<a href="https://workdojos.com/financier/learning">next: learning</a>
+<a href="https://insights.workdojos.com/financier/learning">next: learning</a>
 </p>

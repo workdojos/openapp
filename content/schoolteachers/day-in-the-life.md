@@ -21,6 +21,6 @@ As the school day came to an end, Ms. Jenkins packed up her things and headed ho
 The end.
 
 <br>
-<a href="https://workdojos.com/schoolteachers/history">next: history</a>
+<a href="https://insights.workdojos.com/schoolteachers/history">next: history</a>
 <br>
 </p>

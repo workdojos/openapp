@@ -19,5 +19,5 @@ In addition to education and experience, I would recommend the individual consid
 Overall, a career as a physicist in the physics and higher education industry can be rewarding and lucrative for individuals with the necessary skills and interests. By conducting research and obtaining the necessary education and experience, the individual can position themselves for success in this field.
 
 <br>
-<a href="https://workdojos.com/physicist/start">next: get started</a>
+<a href="https://insights.workdojos.com/physicist/start">next: get started</a>
 </p>

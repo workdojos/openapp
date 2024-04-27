@@ -17,6 +17,6 @@ Both of these words have undergone some changes in meaning over time. In the pas
 The word "legal" has also undergone some changes in meaning over time. In the past, the word was used to refer to anything that was in accordance with the law. Today, the word is typically used to refer to matters that are related to the law or that are governed by the law.
 
 <br>
-<a href="https://workdojos.com/litigator/advice">next: advice</a>
+<a href="https://insights.workdojos.com/litigator/advice">next: advice</a>
 <br>
 </p>

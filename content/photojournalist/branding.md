@@ -19,5 +19,5 @@ To measure the success of our efforts, we can utilize analytics tools to track t
 Finally, we can explore opportunities for collaboration with other organizations in the journalism, news, and media industry. This can help to increase our reach and build relationships within the industry.
 
 <br>
-<a href="https://workdojos.com/photojournalist/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/photojournalist/ethics">next: ethical framework</a>
 </p>

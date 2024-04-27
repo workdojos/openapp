@@ -19,6 +19,6 @@ In addition to the benefits for individual life coaches, small businesses will a
 In conclusion, the life coaching industry has the potential to be a powerful force for positive change, but it must embrace open-source technology in order to do so. By leveraging these tools, life coaches can build their businesses, share their knowledge and expertise, and contribute to the growth and success of small businesses in the future. So, the life coaching industry should take the initiative to adopt open-source technology to create a more transparent, accountable, and collaborative industry that serves the needs of clients and small businesses alike.
 
 <br>
-<a href="https://workdojos.com/lifecoaches/website">next: website</a>
+<a href="https://insights.workdojos.com/lifecoaches/website">next: website</a>
 <br>
 </p>

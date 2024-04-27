@@ -19,5 +19,5 @@ A third ethical theory to consider is virtue ethics, which holds that actions sh
 Ultimately, developing an ethical framework for starting a career as a travel agent will likely involve a combination of these different approaches and a careful consideration of one's own values and goals. It may also involve seeking guidance from industry professionals and codes of ethics, as well as seeking to stay informed about relevant legal and regulatory considerations.
 
 <br>
-<a href="https://workdojos.com/travelagents/social">next: social media</a>
+<a href="https://insights.workdojos.com/travelagents/social">next: social media</a>
 </p>

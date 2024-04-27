@@ -38,5 +38,5 @@ How do you help clients set and achieve their goals?
 How do you handle difficult or resistant clients?
 
 <br>
-<a href="https://workdojos.com/lifecoaches/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/lifecoaches/rights">next: workers' rights</a>
 </p>

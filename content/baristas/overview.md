@@ -21,5 +21,5 @@ When it comes to the best and worst jobs in the industry, it really depends on p
 In conclusion, the coffee and hospitality industry is a vast and dynamic field with plenty of job opportunities and exciting experiences to offer. Whether you're interested in working as a barista or chef, or in a more managerial role, there are plenty of ways to find and create opportunities within the industry. By networking, staying up-to-date on industry trends, and finding a job that aligns with your interests and skills, you can build a successful and fulfilling career within the coffee and hospitality industry.
 
 <br>
-<a href="https://workdojos.com/baristas/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/baristas/day-in-the-life">next: day in the life</a>
 </p>

@@ -14,5 +14,5 @@ To address these challenges, it is necessary to make it easier for bartenderto f
 In conclusion, the bartending and hospitality industry has the potential to thrive and succeed if we take steps to address the challenges and controversies facing it. By supporting and valuing our bartenders, we can create a more sustainable and successful industry for all involved.
 
 <br>
-<a href="https://workdojos.com/bartenders/history">next: history</a>
+<a href="https://insights.workdojos.com/bartenders/history">next: history</a>
 </p>

@@ -25,5 +25,5 @@ Collaborate with other cannabis organizations: Partner with other companies in t
 By following these steps, you can effectively manage your cannabis organization's presence on social media and increase brand awareness, recruit followers, drive traffic to your website, and increase conversions.
 
 <br>
-<a href="https://workdojos.com/growers/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/growers/ethics">next: ethical framework</a>
 </p>

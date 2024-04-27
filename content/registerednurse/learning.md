@@ -36,5 +36,5 @@ How do you communicate with other healthcare professionals and patients?
 How do you handle stressful or emergency situations in the workplace?
 
 <br>
-<a href="https://workdojos.com/registerednurse/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/registerednurse/rights">next: workers' rights</a>
 </p>

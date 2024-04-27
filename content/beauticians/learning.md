@@ -40,5 +40,5 @@ How do you plan to market yourself as a beautician?
 Describe a time when you had to troubleshoot a problem during a beauty treatment.
 
 <br>
-<a href="https://workdojos.com/beauticians/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/beauticians/rights">next: workers' rights</a>
 </p>

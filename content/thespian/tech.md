@@ -19,6 +19,6 @@ As for thespians looking to thrive in the performing arts industry, there are a 
 Overall, the performing arts industry is an exciting and dynamic field with endless possibilities for those who are willing to put in the hard work and dedication. By embracing open-source technology and small businesses, we can create a thriving economy that supports and nurtures the talents and passions of performing artists around the world.
 
 <br>
-<a href="https://workdojos.com/thespian/website">next: website</a>
+<a href="https://insights.workdojos.com/thespian/website">next: website</a>
 <br>
 </p>

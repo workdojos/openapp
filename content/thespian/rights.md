@@ -22,5 +22,5 @@ The argument that the industry cannot afford to pay its workers fair wages is a 
 In conclusion, it is essential that the performing arts industry prioritize the fair treatment and proper wages of its workers. The exploitation of unpaid labor and subpar working conditions must be addressed and rectified in order to create a more equitable and sustainable industry. As a thespian and advocate for worker's rights, I stand in support of fair work practices for all performers in the performing arts industry.
 
 <br>
-<a href="https://workdojos.com/thespian/branding">next: branding</a>
+<a href="https://insights.workdojos.com/thespian/branding">next: branding</a>
 </p>

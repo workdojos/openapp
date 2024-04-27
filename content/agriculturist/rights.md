@@ -19,5 +19,5 @@ Despite these challenges, there are also efforts being made to improve the lives
 Ultimately, it is crucial that we stand up for the rights and fair treatment of agricultural workers. By advocating for better wages, safer working conditions, and equal treatment, we can create a more just and equitable agriculture industry for all.
 
 <br>
-<a href="https://workdojos.com/agriculturist/branding">next: branding</a>
+<a href="https://insights.workdojos.com/agriculturist/branding">next: branding</a>
 </p>

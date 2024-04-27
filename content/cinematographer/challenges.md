@@ -16,5 +16,5 @@ Furthermore, the cinema industry as a whole can benefit from addressing these is
 In conclusion, it is crucial that we make it easier for cinematographerto find work and receive fair compensation. By doing so, we can not only support these talented professionals, but also improve the cinema industry as a whole. It is time for the industry to recognize the value of cinematographers and take steps to ensure that they are treated with the respect and appreciation that they deserve.
 
 <br>
-<a href="https://workdojos.com/cinematographer/history">next: history</a>
+<a href="https://insights.workdojos.com/cinematographer/history">next: history</a>
 </p>

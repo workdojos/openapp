@@ -19,5 +19,5 @@ In addition, the life coaching industry needs to work on improving its reputatio
 Overall, the life coaching industry has the potential to make a significant impact on individuals and society as a whole. By addressing the controversies and challenges facing the industry, we can create a better future for life coaches and the people they serve.
 
 <br>
-<a href="https://workdojos.com/lifecoaches/history">next: history</a>
+<a href="https://insights.workdojos.com/lifecoaches/history">next: history</a>
 </p>

@@ -19,6 +19,6 @@ But open-source technology is not just beneficial for event planners. It can als
 Overall, I believe that the special events industry has a bright future ahead. With the help of open-source technology, event planners can continue to create amazing experiences for their clients, and small businesses can thrive and contribute to a strong economy. It is important for all of us to support and embrace these technological advancements, as they have the potential to benefit us all in the long run.
 
 <br>
-<a href="https://workdojos.com/eventplanners/website">next: website</a>
+<a href="https://insights.workdojos.com/eventplanners/website">next: website</a>
 <br>
 </p>

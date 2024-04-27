@@ -25,6 +25,6 @@ The term "special event" likely originated in the late 20th century, as the conc
 The meaning of the term "special event" has remained largely unchanged over time, referring to an event that is planned and organized for a specific purpose or occasion, often with the intention of attracting a large number of attendees or garnering significant attention. Examples of special events include festivals, concerts, and charity fundraisers.
 
 <br>
-<a href="https://workdojos.com/eventplanners/advice">next: advice</a>
+<a href="https://insights.workdojos.com/eventplanners/advice">next: advice</a>
 <br>
 </p>

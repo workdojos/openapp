@@ -19,5 +19,5 @@ Finally, I would advise on which qualifications would be beneficial for pursuing
 In summary, a career as a theologian can be rewarding and meaningful for those with strong communication and critical thinking skills, a deep interest in religious traditions, and relevant education and experience. While the job market in the religious organizations industry may be competitive, there are still opportunities for theologians in various roles. To increase your chances of success, obtaining a higher degree and relevant certifications may be beneficial.
 
 <br>
-<a href="https://workdojos.com/theologian/start">next: get started</a>
+<a href="https://insights.workdojos.com/theologian/start">next: get started</a>
 </p>

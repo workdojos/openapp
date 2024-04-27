@@ -15,6 +15,6 @@ The word "statistical" also comes from the Latin "statisticus," and it refers to
 The field of statistical research and development has a long history dating back to ancient civilizations, when people used data and statistical analysis to make decisions about things like crop yields, population size, and military strategy. In modern times, statistical research and development has become a vital part of many fields, including economics, finance, healthcare, and marketing, and it plays a crucial role in the development of new products and technologies.
 
 <br>
-<a href="https://workdojos.com/statistician/advice">next: advice</a>
+<a href="https://insights.workdojos.com/statistician/advice">next: advice</a>
 <br>
 </p>

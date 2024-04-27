@@ -17,5 +17,5 @@ Despite these challenges, strategists play a vital role in helping businesses an
 Ultimately, the consulting industry has the potential to make a huge positive impact on businesses and organizations around the world. By addressing the controversies and challenges facing strategists, and by working to create a more transparent and accountable industry, we can help ensure that the consulting industry continues to thrive and deliver valuable insights and solutions to its clients.
 
 <br>
-<a href="https://workdojos.com/strategists/history">next: history</a>
+<a href="https://insights.workdojos.com/strategists/history">next: history</a>
 </p>

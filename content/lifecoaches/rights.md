@@ -20,5 +20,5 @@ In light of these trends, it is important that we stand up for the rights of lif
 In conclusion, as life coaches, it is our duty to promote fair treatment and proper wages for all workers in our industry. By standing up for our rights and the rights of our colleagues, we can create a more equitable and sustainable life coaching industry for all.
 
 <br>
-<a href="https://workdojos.com/lifecoaches/branding">next: branding</a>
+<a href="https://insights.workdojos.com/lifecoaches/branding">next: branding</a>
 </p>

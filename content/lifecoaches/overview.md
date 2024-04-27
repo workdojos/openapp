@@ -21,5 +21,5 @@ There are many websites that offer information about the life coaching industry,
 In terms of the best and worst jobs in the industry, it really depends on the individual coach and their specific interests and skills. Some coaches may thrive in a corporate coaching setting, while others may prefer working with individuals in a more private setting. Ultimately, it is important to choose a coaching niche that aligns with your passions and expertise.
 
 <br>
-<a href="https://workdojos.com/lifecoaches/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/lifecoaches/day-in-the-life">next: day in the life</a>
 </p>

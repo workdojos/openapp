@@ -14,6 +14,6 @@ Over time, the meanings of these words have evolved and expanded. Today, the wor
 Overall, the origins of these words can be traced back to ancient Latin, where they were used to describe practitioners of medicine and their work with patients. Today, their meanings have evolved to encompass a wide range of healthcare professionals and the various aspects of the medical field.
 
 <br>
-<a href="https://workdojos.com/clinician/advice">next: advice</a>
+<a href="https://insights.workdojos.com/clinician/advice">next: advice</a>
 <br>
 </p>

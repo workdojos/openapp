@@ -16,6 +16,6 @@ But the benefits of open-source technology go beyond just cost savings and acces
 In a world where technology is constantly changing and the animation industry is more competitive than ever, small businesses and independent animators will play an integral role in a thriving economy. By embracing open-source technology and building strong communities, these animators and small businesses can not only survive, but thrive in an industry that is constantly evolving.
 
 <br>
-<a href="https://workdojos.com/animators/website">next: website</a>
+<a href="https://insights.workdojos.com/animators/website">next: website</a>
 <br>
 </p>

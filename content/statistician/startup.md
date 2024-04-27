@@ -71,5 +71,5 @@ Limited budget for marketing and advertising
 Difficulty in building a strong network of clients and partners in a specialized industry
 
 <br>
-<a href="https://workdojos.com/statistician/tech">next: open-source tech</a>
+<a href="https://insights.workdojos.com/statistician/tech">next: open-source tech</a>
 </p>

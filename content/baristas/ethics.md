@@ -18,5 +18,5 @@ Additionally, it might be helpful to consider the broader social and environment
 Overall, developing an ethical framework for starting a career as a barista working for Starbucks would involve considering both the specific context and responsibilities of the role, as well as broader ethical issues related to the company and its impact on society and the environment.
 
 <br>
-<a href="https://workdojos.com/baristas/social">next: social media</a>
+<a href="https://insights.workdojos.com/baristas/social">next: social media</a>
 </p>

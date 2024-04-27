@@ -20,5 +20,5 @@ Pinterest: Create a Pinterest board dedicated to education-related content and r
 Overall, the key to an engaging campaign is to create high-quality content that speaks to your audience and provides value, and to actively engage with your followers on social media. By consistently posting and interacting with your followers, you can build a loyal following and establish yourself as a go-to source of information and inspiration in the higher education industry.
 
 <br>
-<a href="https://workdojos.com/collegeprofessor/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/collegeprofessor/startup">next: startup ideas</a>
 </p>

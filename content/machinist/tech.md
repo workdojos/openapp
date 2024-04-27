@@ -19,6 +19,6 @@ In terms of the future of the machining industry and the economy as a whole, sma
 Overall, the machining industry can greatly benefit from the adoption of open-source technology. It allows for cost-effectiveness and collaboration, and small businesses will play a vital role in the industry's success and the overall thriving of the economy.
 
 <br>
-<a href="https://workdojos.com/machinist/website">next: website</a>
+<a href="https://insights.workdojos.com/machinist/website">next: website</a>
 <br>
 </p>

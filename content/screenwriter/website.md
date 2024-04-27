@@ -25,6 +25,6 @@ Overall, using open-source technology to build your own website can be a great w
 
 <br>
 
-<a href="https://workdojos.com/screenwriter/overview">next: overview</a>
+<a href="https://insights.workdojos.com/screenwriter/overview">next: overview</a>
 <br>
 </p>

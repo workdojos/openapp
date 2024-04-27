@@ -23,5 +23,5 @@ While working in the higher education industry can be rewarding and fulfilling, 
 Overall, the higher education industry is a dynamic and rewarding field with a wide range of opportunities and challenges. By networking, staying informed, and being aware of the potential challenges and drawbacks, you can find the right job and make a positive impact in the lives of students and the advancement of knowledge.
 
 <br>
-<a href="https://workdojos.com/collegeprofessor/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/collegeprofessor/day-in-the-life">next: day in the life</a>
 </p>

@@ -19,5 +19,5 @@ Youtube: Create a Youtube channel to showcase your jewelry pieces in more detail
 Pinterest: Use Pinterest to showcase your jewelry pieces in a visually appealing manner, with boards dedicated to different collections or themes. Utilize Pinterest's search function to reach users searching for luxury jewelry and engage with relevant boards and users to increase visibility.
 
 <br>
-<a href="https://workdojos.com/jeweler/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/jeweler/startup">next: startup ideas</a>
 </p>

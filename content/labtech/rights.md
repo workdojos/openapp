@@ -24,5 +24,5 @@ Additionally, the industry can invest in professional development and training p
 In conclusion, fair work practices are crucial for lab techs in the laboratory testing industry. By prioritizing the rights and well-being of these workers, the industry can improve working conditions, enhance productivity, and foster a sense of pride and satisfaction among its employees. By taking these steps, the industry can ensure that it has a strong and sustainable workforce that is able to continue producing reliable and high-quality results.
 
 <br>
-<a href="https://workdojos.com/labtech/branding">next: branding</a>
+<a href="https://insights.workdojos.com/labtech/branding">next: branding</a>
 </p>

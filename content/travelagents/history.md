@@ -17,6 +17,6 @@ The phrase "travel agent" is a combination of these two words, referring to some
 The phrase "travel and tours" refers to the business of organizing and offering guided tours and vacations for travelers. This phrase likely originated in the 20th century, as the tourism industry began to expand and become more organized. The term "tours" comes from the Old French word "tour," which means "a round." It originally referred to a journey or expedition that involved going around or visiting different places.
 
 <br>
-<a href="https://workdojos.com/travelagents/advice">next: advice</a>
+<a href="https://insights.workdojos.com/travelagents/advice">next: advice</a>
 <br>
 </p>

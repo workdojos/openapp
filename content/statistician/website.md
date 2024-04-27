@@ -27,6 +27,6 @@ Overall, I believe that using open-source technology to build your own website c
 
 <br>
 
-<a href="https://workdojos.com/statistician/overview">next: overview</a>
+<a href="https://insights.workdojos.com/statistician/overview">next: overview</a>
 <br>
 </p>

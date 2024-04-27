@@ -21,6 +21,6 @@ Another notable travel agent was Bertha Palmer, who was known for her innovative
 As the years went by, the travel industry continued to grow and evolve. Today, there are so many different ways to travel, from luxury resorts to adventure tours to cultural exchanges. And travel agents like Maria are still helping people realize their travel dreams and discover new parts of the world.
 
 <br>
-<a href="https://workdojos.com/travelagents/history">next: history</a>
+<a href="https://insights.workdojos.com/travelagents/history">next: history</a>
 <br>
 </p>

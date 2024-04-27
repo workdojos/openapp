@@ -18,5 +18,5 @@ In order to ensure a bright future for the content creation industry, we must al
 In conclusion, the content creation industry is facing numerous controversies and challenges that threaten the livelihoods and success of content creators. By addressing issues such as copyright infringement, fair compensation, and the support of the next generation of content creators, we can create a brighter future for the industry and ensure that content creators are recognized and valued for their contributions.
 
 <br>
-<a href="https://workdojos.com/contentcreators/history">next: history</a>
+<a href="https://insights.workdojos.com/contentcreators/history">next: history</a>
 </p>

@@ -16,5 +16,5 @@ One way to apply these ethical theories to the specific context of the bartendin
 Ultimately, the development of an ethical framework for a career in the bartending and hospitality industry will depend on the specific values and beliefs of the individual bartender, as well as the specific context in which they work. However, by considering the ethical theories and stakeholders involved, a bartender can develop a framework that guides their actions and helps them make ethical decisions in their role.
 
 <br>
-<a href="https://workdojos.com/bartenders/social">next: social media</a>
+<a href="https://insights.workdojos.com/bartenders/social">next: social media</a>
 </p>

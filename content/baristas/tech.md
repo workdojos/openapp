@@ -20,6 +20,6 @@ Furthermore, the use of open-source technology can help support the growth of sm
 Overall, the adoption of open-source technology in the coffee and hospitality industry is a no-brainer. It can help small businesses thrive, support the growth of the economy, and empower baristas to excel in their roles. It is time for the industry to embrace open-source technology and all the benefits it has to offer.
 
 <br>
-<a href="https://workdojos.com/baristas/website">next: website</a>
+<a href="https://insights.workdojos.com/baristas/website">next: website</a>
 <br>
 </p>

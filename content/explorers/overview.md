@@ -21,5 +21,5 @@ As with any industry, there are both good and bad jobs to have in the outdoor in
 Overall, the outdoor industry offers a wealth of exciting and rewarding career opportunities for those willing to put in the work and build connections in the field. With its strong focus on sustainability, conservation, and outdoor recreation, it is an industry that can be both personally and professionally fulfilling for those who are passionate about the great outdoors.
 
 <br>
-<a href="https://workdojos.com/explorers/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/explorers/day-in-the-life">next: day in the life</a>
 </p>

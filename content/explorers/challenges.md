@@ -17,5 +17,5 @@ One way to address these issues is to make it easier for explorerto find work an
 In order to make the outdoor industry a better place for everyone, it is important that we address these controversies and challenges head on. By making it easier for explorerto find work and be paid fairly, and by promoting diversity and representation within the industry, we can create a more inclusive and sustainable outdoor industry that is able to thrive for years to come.
 
 <br>
-<a href="https://workdojos.com/explorers/history">next: history</a>
+<a href="https://insights.workdojos.com/explorers/history">next: history</a>
 </p>

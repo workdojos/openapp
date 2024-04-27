@@ -23,7 +23,7 @@ In terms of the costs associated with using open-source technology, there are ge
 
 <br>
 
-<a href="https://workdojos.com/interpreters/overview">next: overview</a>
+<a href="https://insights.workdojos.com/interpreters/overview">next: overview</a>
 <br>
 <br>
 </p>

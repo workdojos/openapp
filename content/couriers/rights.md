@@ -21,5 +21,5 @@ Despite these challenges, there are some recent trends and events in the industr
 As a courier, I believe it is crucial that we continue to fight for our rights and demand fair treatment on the job. We deserve to be paid a living wage, to have access to healthcare and other benefits, and to work in a safe and healthy environment. It is up to all of us to advocate for these important issues, and to ensure that the supply-chain industry becomes a place where couriers are valued and treated with respect.
 
 <br>
-<a href="https://workdojos.com/couriers/branding">next: branding</a>
+<a href="https://insights.workdojos.com/couriers/branding">next: branding</a>
 </p>

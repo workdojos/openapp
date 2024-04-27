@@ -21,5 +21,5 @@ When it comes to the best jobs to have in the startup financing industry, roles 
 Overall, the startup financing industry is a dynamic and exciting field that offers a range of opportunities for those looking to work in the industry. By networking, staying up-to-date on industry news and trends, and taking advantage of resources and educational materials, individuals can position themselves for success in this rapidly growing field.
 
 <br>
-<a href="https://workdojos.com/financier/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/financier/day-in-the-life">next: day in the life</a>
 </p>

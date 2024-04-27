@@ -26,5 +26,5 @@ Use analytics to measure the success of campaigns and make data-driven decisions
 Overall, the goal is to create a consistent and engaging presence on social media that helps to increase brand awareness and drive traffic to the organization's website.
 
 <br>
-<a href="https://workdojos.com/agriculturist/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/agriculturist/ethics">next: ethical framework</a>
 </p>

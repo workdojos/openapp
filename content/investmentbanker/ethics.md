@@ -15,5 +15,5 @@ To develop an ethical framework for starting a career as an investment banker, I
 Ultimately, the ethical framework that I would propose for a career in investment banking would be one that prioritizes the principles of honesty, integrity, fairness, and responsibility, while also recognizing the complexity and nuance of the financial world. This framework would encourage bankers to act with integrity and transparency, and to always seek to act in the best interests of their clients and stakeholders.
 
 <br>
-<a href="https://workdojos.com/investmentbanker/social">next: social media</a>
+<a href="https://insights.workdojos.com/investmentbanker/social">next: social media</a>
 </p>

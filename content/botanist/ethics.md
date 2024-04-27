@@ -18,5 +18,5 @@ Another possible approach could be to consider the ethical implications of the u
 Ultimately, the development of an ethical framework for a career in botany will likely involve a combination of these and other approaches, as well as ongoing reflection and dialogue with colleagues and other stakeholders.
 
 <br>
-<a href="https://workdojos.com/botanist/social">next: social media</a>
+<a href="https://insights.workdojos.com/botanist/social">next: social media</a>
 </p>

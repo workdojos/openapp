@@ -22,6 +22,6 @@ As the years went by, Maria continued to work as a barista, spreading her knowle
 In the end, Maria's dedication and passion for coffee had earned her a place in the pantheon of great baristas throughout history, and she would always be remembered as a true master of the craft.
 
 <br>
-<a href="https://workdojos.com/baristas/history">next: history</a>
+<a href="https://insights.workdojos.com/baristas/history">next: history</a>
 <br>
 </p>

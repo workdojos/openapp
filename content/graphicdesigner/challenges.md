@@ -15,5 +15,5 @@ In order to address these challenges, we need to make it easier for graphic desi
 The graphic design and graphic arts industry has the potential to improve significantly in the coming years. By addressing the challenges facing graphic designers and investing in the growth and development of the industry, we can create a more vibrant and sustainable field that benefits everyone involved. From improving the quality of design work to fostering a more supportive and inclusive community, there are numerous ways that we can make a positive impact on the graphic design and graphic arts industry.
 
 <br>
-<a href="https://workdojos.com/graphicdesigner/history">next: history</a>
+<a href="https://insights.workdojos.com/graphicdesigner/history">next: history</a>
 </p>

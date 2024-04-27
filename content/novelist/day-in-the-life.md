@@ -19,6 +19,6 @@ Throughout history, there have been many notable novelists who have inspired and
 As the day came to a close and the sun set on the horizon, Sarah sat back and reflected on all that she had accomplished. She knew that her journey as a novelist was far from over, but she was grateful for the opportunity to share her stories with the world.
 
 <br>
-<a href="https://workdojos.com/novelist/history">next: history</a>
+<a href="https://insights.workdojos.com/novelist/history">next: history</a>
 <br>
 </p>

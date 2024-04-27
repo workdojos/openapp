@@ -44,5 +44,5 @@ Collaborate with other businesses or influencers in the industry to create share
 I hope these ideas help to get you started on creating an engaging campaign on Instagram, Twitter, YouTube, and Pinterest to promote your new business as an administrator in the administration and bookkeeping industry. Good luck!
 
 <br>
-<a href="https://workdojos.com/administrators/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/administrators/startup">next: startup ideas</a>
 </p>

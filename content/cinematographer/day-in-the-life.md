@@ -20,6 +20,6 @@ But David wasn't the only great cinematographer in the world. Throughout history
 As the day came to a close, David knew that he had just lived out his dream. He had spent the day in the life of a cinematographer, and he knew that he had a bright future ahead of him.
 
 <br>
-<a href="https://workdojos.com/cinematographer/history">next: history</a>
+<a href="https://insights.workdojos.com/cinematographer/history">next: history</a>
 <br>
 </p>

@@ -21,5 +21,5 @@ When it comes to the best and worst jobs in the industry, it really depends on a
 In conclusion, the journalism, news, and media industry is an exciting field with opportunities for professionals to share important information with the public. By networking with those in the industry and building a strong online presence, individuals can find job opportunities and advance their careers. There are a range of jobs available, from news anchors to newspaper reporters, and it is important for individuals to consider their personal strengths and preferences when choosing a career path.
 
 <br>
-<a href="https://workdojos.com/photojournalist/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/photojournalist/day-in-the-life">next: day in the life</a>
 </p>

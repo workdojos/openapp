@@ -21,5 +21,5 @@ When it comes to the best and worst jobs in the machining industry, it ultimatel
 In conclusion, the machining industry is a vital and growing sector of the manufacturing industry, offering a wide range of career opportunities for skilled workers. Through networking, internships, and research, individuals can find opportunities to work in the industry and learn more about the various career paths available. With the use of state-of-the-art technology and equipment, the machining industry offers exciting opportunities for those interested in pursuing a career in manufacturing.
 
 <br>
-<a href="https://workdojos.com/machinist/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/machinist/day-in-the-life">next: day in the life</a>
 </p>

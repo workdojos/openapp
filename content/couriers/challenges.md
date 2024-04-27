@@ -41,5 +41,5 @@ How the supply-chain industry can improve in the coming years:
 There are several steps that the supply-chain industry can take to improve in the coming years. One step is to invest in sustainable and eco-friendly options for shipping and transportation. 
 
 <br>
-<a href="https://workdojos.com/couriers/history">next: history</a>
+<a href="https://insights.workdojos.com/couriers/history">next: history</a>
 </p>

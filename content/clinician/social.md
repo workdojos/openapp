@@ -20,5 +20,5 @@ On Pinterest, create boards featuring resources, tips, and inspiration for your 
 Overall, the key to a successful social media campaign is to provide value and engage with your followers. By consistently posting interesting and relevant content, you can build a loyal following and increase brand awareness for your business.
 
 <br>
-<a href="https://workdojos.com/clinician/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/clinician/startup">next: startup ideas</a>
 </p>

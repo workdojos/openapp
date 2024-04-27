@@ -43,5 +43,5 @@ What are some common causes of fires and how can they be prevented?
 How do you educate the public on fire prevention and safety measures?
 
 <br>
-<a href="https://workdojos.com/firefighters/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/firefighters/rights">next: workers' rights</a>
 </p>

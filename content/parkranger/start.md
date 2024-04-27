@@ -32,5 +32,5 @@ Bureau of Land Management: https://www.blm.gov/careers/wildlife-biologist
 I hope this information helps to get you excited about a career as a park ranger! Working in the conservation and park management industry can be a fulfilling and rewarding experience, with many opportunities to make a positive impact and to grow personally and professionally.
 
 <br>
-<a href="https://workdojos.com/parkranger/learning">next: learning</a>
+<a href="https://insights.workdojos.com/parkranger/learning">next: learning</a>
 </p>

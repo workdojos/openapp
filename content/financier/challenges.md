@@ -17,5 +17,5 @@ Another challenge facing the startup financing industry is the lack of transpare
 Overall, the startup financing industry has the potential to be a major force for good in the world, but it is facing numerous challenges and controversies. By addressing these issues and making it easier for financierto find work, pay them more, and increase transparency and accountability, we can create a stronger, more sustainable industry that can benefit everyone.
 
 <br>
-<a href="https://workdojos.com/financier/history">next: history</a>
+<a href="https://insights.workdojos.com/financier/history">next: history</a>
 </p>

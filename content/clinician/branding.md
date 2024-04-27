@@ -26,5 +26,5 @@ Use Pinterest to drive traffic to your website by including links to your conten
 Overall, my goal as a social media manager for your medical organization would be to increase brand awareness, recruit followers, drive traffic to your website, and increase conversions through engaging and informative content across all platforms. I would also work to create opportunities for collaboration with other medical professionals and organizations in order to build relationships and increase the reach of your brand.
 
 <br>
-<a href="https://workdojos.com/clinician/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/clinician/ethics">next: ethical framework</a>
 </p>

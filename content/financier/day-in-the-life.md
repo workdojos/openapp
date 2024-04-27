@@ -19,6 +19,6 @@ Throughout history, there have been many notable financiers who have made a sign
 As the day came to a close, Jack would return home, exhausted but satisfied with the work he had done. He knew that the world of finance was constantly changing, and he was always ready for the next challenge. And with his keen eye for opportunity and his passion for helping others succeed, Jack was destined for great things in the world of startup financing.
 
 <br>
-<a href="https://workdojos.com/financier/history">next: history</a>
+<a href="https://insights.workdojos.com/financier/history">next: history</a>
 <br>
 </p>

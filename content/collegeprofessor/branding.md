@@ -22,5 +22,5 @@ Measure success: Use analytics tools to track key metrics such as follower growt
 Seek out collaborations: Look for opportunities to collaborate with other higher education institutions or organizations in your industry. This can help increase brand awareness and reach a larger audience.
 
 <br>
-<a href="https://workdojos.com/collegeprofessor/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/collegeprofessor/ethics">next: ethical framework</a>
 </p>

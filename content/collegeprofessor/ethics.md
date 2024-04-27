@@ -16,5 +16,5 @@ Another important aspect of an ethical framework for a college professor would b
 Ultimately, developing an ethical framework for a career as a college professor will require careful thought and reflection on the complex moral and ethical considerations that are inherent in this profession. By considering the values and goals of the profession, as well as the needs and interests of various stakeholders, it is possible to create a framework that helps guide ethical decision-making in the higher education industry.
 
 <br>
-<a href="https://workdojos.com/collegeprofessor/social">next: social media</a>
+<a href="https://insights.workdojos.com/collegeprofessor/social">next: social media</a>
 </p>

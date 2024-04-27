@@ -44,5 +44,5 @@ How do you ensure customer satisfaction during and after the event?
 Can you give an example of a successful event you have planned in the past?
 
 <br>
-<a href="https://workdojos.com/eventplanners/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/eventplanners/rights">next: workers' rights</a>
 </p>

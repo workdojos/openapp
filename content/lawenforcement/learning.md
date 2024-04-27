@@ -39,5 +39,5 @@ How would you handle a situation where you had to make a difficult decision in t
 How do you plan to stay up-to-date on developments in law enforcement and criminal justice?
 
 <br>
-<a href="https://workdojos.com/lawenforcement/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/lawenforcement/rights">next: workers' rights</a>
 </p>

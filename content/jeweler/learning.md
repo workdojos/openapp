@@ -38,5 +38,5 @@ How do you determine the value of a piece of jewelry?
 How do you approach customer service and sales?
 
 <br>
-<a href="https://workdojos.com/jeweler/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/jeweler/rights">next: workers' rights</a>
 </p>

@@ -20,5 +20,5 @@ Finally, don't forget to reach out to current college professors to learn more a
 Overall, it sounds like working as a college professor in the higher education industry can be a challenging but incredibly rewarding career path. With a little research and networking, you can learn about all the perks and benefits this profession has to offer and get excited about the potential for growth and development in your career. Good luck!ns and costs of each"
 
 <br>
-<a href="https://workdojos.com/collegeprofessor/learning">next: learning</a>
+<a href="https://insights.workdojos.com/collegeprofessor/learning">next: learning</a>
 </p>

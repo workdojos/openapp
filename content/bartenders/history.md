@@ -16,6 +16,6 @@ The word hospitality is derived from the Latin word "hospitalitas," which means 
 The meanings of both bartender and bartending have remained largely unchanged over time, although the role of a bartender has evolved to include a greater focus on customer service and mixology. The meaning of hospitality has also remained largely unchanged, although it is now used to refer to a broader range of services and amenities offered to guests, such as entertainment and recreational activities.
 
 <br>
-<a href="https://workdojos.com/bartenders/advice">next: advice</a>
+<a href="https://insights.workdojos.com/bartenders/advice">next: advice</a>
 <br>
 </p>

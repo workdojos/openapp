@@ -18,6 +18,6 @@ The word "agriculture" also comes from the Latin "agricultura," and it refers to
 As with "agriculturist," the meaning of "agriculture" has expanded to include the scientific study of farming and the production of crops and livestock. It is now a vital industry that plays a significant role in global food production and economic development.
 
 <br>
-<a href="https://workdojos.com/agriculturist/advice">next: advice</a>
+<a href="https://insights.workdojos.com/agriculturist/advice">next: advice</a>
 <br>
 </p>

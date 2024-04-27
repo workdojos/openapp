@@ -20,5 +20,5 @@ In terms of useful websites, there are a number of resources available for those
 Overall, working as a beautician in the health & wellness industry can be a rewarding and exciting career choice with lots of upside potential. Whether you're just starting out or looking to advance in your career, this industry is full of opportunities for those who are passionate about helping others feel and look their best.
 
 <br>
-<a href="https://workdojos.com/beauticians/learning">next: learning</a>
+<a href="https://insights.workdojos.com/beauticians/learning">next: learning</a>
 </p>

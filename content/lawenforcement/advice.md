@@ -19,5 +19,5 @@ To increase your chances of success, it would be beneficial to pursue further ed
 Overall, pursuing a career as a police officer is a rewarding and challenging path that requires a strong sense of commitment and dedication. With the right education and training, you can position yourself for success in this field.
 
 <br>
-<a href="https://workdojos.com/lawenforcement/start">next: get started</a>
+<a href="https://insights.workdojos.com/lawenforcement/start">next: get started</a>
 </p>

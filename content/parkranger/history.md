@@ -15,6 +15,6 @@ The word "conservation" has a much longer history, dating back to the mid-16th c
 The word "park management" can be traced back to the early 20th century, with its earliest known use recorded in 1909. It is a combination of the words "park" and "management," and refers to the process of planning, organizing, and controlling the use and development of a park or protected area. This can include activities such as maintaining natural habitats, implementing visitor management plans, and enforcing conservation laws.
 
 <br>
-<a href="https://workdojos.com/parkranger/advice">next: advice</a>
+<a href="https://insights.workdojos.com/parkranger/advice">next: advice</a>
 <br>
 </p>

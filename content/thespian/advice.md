@@ -19,5 +19,5 @@ Finally, I would advise the individual to network and build connections within t
 Overall, pursuing a career as a thespian in the performing arts industry can be challenging, but with the right skills, interests, and qualifications, it can be a rewarding and fulfilling career path.
 
 <br>
-<a href="https://workdojos.com/thespian/start">next: get started</a>
+<a href="https://insights.workdojos.com/thespian/start">next: get started</a>
 </p>

@@ -17,5 +17,5 @@ In addition to creating and sharing engaging content, I would also be responsibl
 Finally, I would use analytics tools to measure the success of our campaigns and identify opportunities for improvement. This could include tracking metrics such as website traffic, conversion rates, and social media engagement. I would then use this data to inform future strategy and continually optimize our efforts to achieve our overall goals.
 
 <br>
-<a href="https://workdojos.com/machinist/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/machinist/ethics">next: ethical framework</a>
 </p>

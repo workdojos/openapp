@@ -23,6 +23,6 @@ It's worth considering the pros and cons of each option, as well as the potentia
 
 <br>
 
-<a href="https://workdojos.com/socialworker/overview">next: overview</a>
+<a href="https://insights.workdojos.com/socialworker/overview">next: overview</a>
 <br>
 </p>

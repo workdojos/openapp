@@ -21,5 +21,5 @@ As with any field, there are both good and bad jobs to be had in the cinema indu
 In conclusion, the cinema industry is a dynamic and rewarding field with endless opportunities for those looking to make a career in film. By networking, staying informed, and finding a role that aligns with your passions and goals, you can find success in the industry and be a part of the exciting world of storytelling through film.
 
 <br>
-<a href="https://workdojos.com/cinematographer/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/cinematographer/day-in-the-life">next: day in the life</a>
 </p>

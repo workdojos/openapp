@@ -21,5 +21,5 @@ Get excited! As a motivational coach, I believe that a positive attitude is key 
 Remember, you have the potential to succeed in this exciting and growing industry. With hard work, determination, and a positive attitude, you can achieve your goals and become a successful event planner. Good luck!
 
 <br>
-<a href="https://workdojos.com/eventplanners/learning">next: learning</a>
+<a href="https://insights.workdojos.com/eventplanners/learning">next: learning</a>
 </p>

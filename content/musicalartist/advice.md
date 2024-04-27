@@ -17,5 +17,5 @@ In terms of qualifications, it would be beneficial for the individual to conside
 Overall, pursuing a career as a musical artist in the music industry can be challenging, but with dedication, hard work, and the right qualifications and experience, it can be a rewarding and fulfilling career path. It's important for the individual to carefully consider their skills, interests, and experience and research the job market trends in order to make informed decisions about their career path.
 
 <br>
-<a href="https://workdojos.com/musicalartist/start">next: get started</a>
+<a href="https://insights.workdojos.com/musicalartist/start">next: get started</a>
 </p>

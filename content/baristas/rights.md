@@ -23,5 +23,5 @@ Another solution is to offer benefits such as healthcare, paid time off, and fle
 In conclusion, it is clear that fair work practices for baristas in the coffee and hospitality industry are essential for the well-being of both the employees and the businesses they work for. By implementing a living wage, offering benefits and opportunities for advancement, and treating workers with respect and kindness, employers can create a positive work environment and retain top talent, ultimately leading to a more successful and sustainable business.
 
 <br>
-<a href="https://workdojos.com/baristas/branding">next: branding</a>
+<a href="https://insights.workdojos.com/baristas/branding">next: branding</a>
 </p>

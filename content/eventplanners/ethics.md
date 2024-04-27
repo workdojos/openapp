@@ -23,5 +23,5 @@ Another ethical framework to consider may be consequentialism, which focuses on 
 Ultimately, it is important to carefully consider the ethical implications of your actions as an event planner and strive to act in a way that is both responsible and respectful of all involved.
 
 <br>
-<a href="https://workdojos.com/eventplanners/social">next: social media</a>
+<a href="https://insights.workdojos.com/eventplanners/social">next: social media</a>
 </p>

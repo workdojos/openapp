@@ -19,5 +19,5 @@ To increase their chances of success in this field, individuals may want to cons
 
 I hope this information is helpful! Do you have any other questions about this career path?
 <br>
-<a href="https://workdojos.com/collegeprofessor/start">next: get started</a>
+<a href="https://insights.workdojos.com/collegeprofessor/start">next: get started</a>
 </p>

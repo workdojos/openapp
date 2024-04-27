@@ -25,5 +25,5 @@ The role of social workers in promoting ethical behavior and decision-making wit
 It may be helpful to consult existing ethical guidelines and codes of conduct, such as the National Association of Social Workers' Code of Ethics, as well as relevant laws and regulations in your jurisdiction, as you develop your ethical framework. You may also find it useful to seek guidance from colleagues or mentors who have experience in this field.
 
 <br>
-<a href="https://workdojos.com/socialworker/social">next: social media</a>
+<a href="https://insights.workdojos.com/socialworker/social">next: social media</a>
 </p>

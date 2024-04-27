@@ -33,5 +33,5 @@ Conclusion:
 In conclusion, the music industry is facing many controversies and challenges today, including the difficulties of finding work and earning a fair wage for musical artists. However, by working towards making it easier for artistto find work, paying them fairly, and promoting diversity and inclusivity, we can create a brighter future for the music industry as a whole and support the talented and creative individuals who make it possible.
 
 <br>
-<a href="https://workdojos.com/musicalartist/history">next: history</a>
+<a href="https://insights.workdojos.com/musicalartist/history">next: history</a>
 </p>

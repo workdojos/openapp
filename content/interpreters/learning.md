@@ -39,5 +39,5 @@ Describe a time when you had to adapt to a new cultural context while interpreti
 How do you stay organized and prepared for interpreting assignments?
 
 <br>
-<a href="https://workdojos.com/interpreters/rights">next: workers' rights</a>
+<a href="https://insights.workdojos.com/interpreters/rights">next: workers' rights</a>
 </p>

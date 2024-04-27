@@ -19,5 +19,5 @@ There are a few different options for obtaining qualifications as a life coach. 
 Overall, a career as a life coach can be a fulfilling and rewarding experience, and there are many opportunities for growth and advancement in this field. If you possess strong communication and interpersonal skills, have a passion for helping others and an interest in personal development, and are willing to invest in proper training and qualifications, then a career as a life coach may be a great fit for you.
 
 <br>
-<a href="https://workdojos.com/lifecoaches/start">next: get started</a>
+<a href="https://insights.workdojos.com/lifecoaches/start">next: get started</a>
 </p>

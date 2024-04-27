@@ -21,5 +21,5 @@ When it comes to the best and worst jobs in the art and special events industry,
 Overall, the art and special events industry is a dynamic and exciting field that offers a wide range of opportunities for those interested in working in the arts. With the right networking and professional development, anyone can find success in this industry and make a meaningful contribution to the cultural landscape.
 
 <br>
-<a href="https://workdojos.com/exhibitionist/day-in-the-life">next: day in the life</a>
+<a href="https://insights.workdojos.com/exhibitionist/day-in-the-life">next: day in the life</a>
 </p>

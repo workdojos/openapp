@@ -21,5 +21,5 @@ In addition to these core principles, it is also important to consider the ethic
 Overall, developing an ethical framework for starting a career as a physical therapist involves a careful consideration of the values and principles that guide the profession, as well as the unique challenges and responsibilities that come with working in the physical therapy industry. By thinking carefully about these issues, physical therapists can ensure that they are providing the best possible care to their clients, and acting in accordance with their professional and ethical obligations.
 
 <br>
-<a href="https://workdojos.com/physicaltherapist/social">next: social media</a>
+<a href="https://insights.workdojos.com/physicaltherapist/social">next: social media</a>
 </p>

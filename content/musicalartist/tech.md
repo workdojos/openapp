@@ -19,6 +19,6 @@ So how can an artist thrive in the music industry in the midst of all these chan
 In conclusion, open-source technology has the potential to revolutionize the music industry and support the growth and success of both artists and small businesses. As the economy becomes increasingly driven by technology, it is important for all sectors, including the music industry, to embrace and utilize these tools in order to stay competitive and thrive in the future.
 
 <br>
-<a href="https://workdojos.com/musicalartist/website">next: website</a>
+<a href="https://insights.workdojos.com/musicalartist/website">next: website</a>
 <br>
 </p>

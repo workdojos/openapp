@@ -21,6 +21,6 @@ Overall, using open-source technology to build your own website can be a cost-ef
 
 <br>
 
-<a href="https://workdojos.com/schoolteachers/overview">next: overview</a>
+<a href="https://insights.workdojos.com/schoolteachers/overview">next: overview</a>
 <br>
 </p>

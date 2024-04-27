@@ -19,5 +19,5 @@ In addition, I would seek out opportunities for collaboration with other religio
 Overall, my goal as the social media manager for this religious organization would be to increase brand awareness, recruit followers, drive traffic to the website, and increase conversion through strategic and engaging content and community management on Twitter, Instagram, and Pinterest.
 
 <br>
-<a href="https://workdojos.com/theologian/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/theologian/ethics">next: ethical framework</a>
 </p>

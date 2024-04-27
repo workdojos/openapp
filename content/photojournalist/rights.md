@@ -24,5 +24,5 @@ Throughout history, there have been many notable photojournalists who have captu
 Sarah knew that she wanted to be remembered in the same way. She dedicated her life to capturing the truth and telling the stories that needed to be told. And as she looked through the viewfinder of her camera, she knew that she was making a difference, one photograph at a time.
 
 <br>
-<a href="https://workdojos.com/photojournalist/branding">next: branding</a>
+<a href="https://insights.workdojos.com/photojournalist/branding">next: branding</a>
 </p>

@@ -23,6 +23,6 @@ Throughout history, there have been many notable lab techs who have made signifi
 Sarah knew that she was a part of this proud tradition, and that her work was making a difference in the world. And as she left the lab that day, she was filled with a sense of pride and accomplishment, knowing that she was playing a crucial role in the fight against disease and helping to make the world a better place.
 
 <br>
-<a href="https://workdojos.com/labtech/history">next: history</a>
+<a href="https://insights.workdojos.com/labtech/history">next: history</a>
 <br>
 </p>

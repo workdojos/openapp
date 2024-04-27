@@ -19,5 +19,5 @@ YouTube: Create a channel featuring videos of your art installations and special
 Pinterest: Create boards featuring your art installations and special events, as well as inspiration for other event planners and artists. Engage with other users by repinning their content and commenting on their pins. Utilize Pinterest's "Rich Pins" feature to add more information about your business and events to your pins.
 
 <br>
-<a href="https://workdojos.com/exhibitionist/startup">next: startup ideas</a>
+<a href="https://insights.workdojos.com/exhibitionist/startup">next: startup ideas</a>
 </p>

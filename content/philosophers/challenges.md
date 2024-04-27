@@ -19,5 +19,5 @@ Furthermore, we should also recognize the importance of philosophy as a discipli
 By making it easier for philosophers to find work and recognizing the value of philosophy as a discipline, we can help to improve the field as a whole. This will not only benefit philosophers, but also society as a whole by fostering a greater understanding of the world and the ability to address complex problems.
 
 <br>
-<a href="https://workdojos.com/philosophers/history">next: history</a>
+<a href="https://insights.workdojos.com/philosophers/history">next: history</a>
 </p>

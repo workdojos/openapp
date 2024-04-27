@@ -16,6 +16,6 @@ The term "data science" is relatively recent, having emerged in the late 20th ce
 The meaning of the word "data" has remained relatively stable over time, although it has expanded to include not just factual information, but also digital information, such as data stored in computers. The meaning of the word "scientist" has also remained relatively stable, although it has broadened to include people who study a wide range of scientific fields. The term "data science" is a relatively new addition to the English language and its meaning has not changed significantly since it was first coined.
 
 <br>
-<a href="https://workdojos.com/datascientists/advice">next: advice</a>
+<a href="https://insights.workdojos.com/datascientists/advice">next: advice</a>
 <br>
 </p>

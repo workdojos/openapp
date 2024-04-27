@@ -41,5 +41,5 @@ The Police Foundation: This organization provides research, training, and techni
 We hope this information has been helpful and has inspired you to pursue a career as a police officer. Remember, being a police officer is a rewarding and challenging career that offers numerous benefits and opportunities for growth and advancement. Good luck on your journey!
 
 <br>
-<a href="https://workdojos.com/lawenforcement/learning">next: learning</a>
+<a href="https://insights.workdojos.com/lawenforcement/learning">next: learning</a>
 </p>

@@ -22,5 +22,5 @@ To promote fair work practices for musical artists, there are several steps that
 In conclusion, fair work practices are essential for the music industry and for the artists who contribute to it. By advocating for fair pay, benefits, and recognition, we can help to create a more sustainable and vibrant music industry that benefits both artists and consumers.
 
 <br>
-<a href="https://workdojos.com/musicalartist/branding">next: branding</a>
+<a href="https://insights.workdojos.com/musicalartist/branding">next: branding</a>
 </p>

@@ -23,5 +23,5 @@ Collaborate with others: Look for opportunities to collaborate with other organi
 Overall, the goal is to create a consistent and engaging presence on social media that helps to increase brand awareness, recruit followers, and drive traffic to your website.`
 
 <br>
-<a href="https://workdojos.com/physicist/ethics">next: ethical framework</a>
+<a href="https://insights.workdojos.com/physicist/ethics">next: ethical framework</a>
 </p>
