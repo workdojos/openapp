@@ -67,7 +67,8 @@
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
 
-    [home, “https://workdojos.com“],
+
+    ["home", “https://workdojos.com“],
     [“blog“, “https://blog.workdojos.com“],
     [“chat“, “https://chat.workmates.live“],
     [“dashboards“, “https://dashboards.workdojos.com“],    
@@ -75,6 +76,9 @@
     [“youtube“, “https://youtube.com/@dojofans“],
     [“support“, “https://chat.workmates.live/channel/support“],
     [“awesome open-source“, “https://github.com/awesome-selfhosted/awesome-selfhosted“],
+    ["investors", “mailto:admin@workdojos.com“],    
+    ["contact", “mailto:support@workdojos.com“],
+
   ]
 
 [markup]
