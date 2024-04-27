@@ -75,10 +75,7 @@
     [“travel affiliate“, “https://travelagent.live“],
     [“youtube“, “https://youtube.com/@dojofans“],
     [“support“, “https://chat.workmates.live/channel/support“],
-    [“awesome open-source“, “https://github.com/awesome-selfhosted/awesome-selfhosted“],
-    ["investors", “mailto:admin@workdojos.com“],    
-    ["contact", “mailto:support@workdojos.com“],
-
+    [“awesome open-source“, “https://github.com/awesome-selfhosted/awesome-selfhosted“]
   ]
 
 [markup]
