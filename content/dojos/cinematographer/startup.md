@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/cinematographer/cinematographer startup.mp3" frameborder="0" style="border:0" >}}<br>
 Idea Name: "FrameWorks"
 
 Short One-Liner: "The ultimate platform for cinematographers to showcase their work and connect with industry professionals."
@@ -35,7 +35,6 @@ Estimated 1st Year Cost of Operation: $500,000, including development, marketing
 
 Potential Business Challenges: Competition from other platforms or resources for cinematographers, difficulty in acquiring and retaining users, and the need to continuously update and improve the platform to meet the needs of users.
 
-<br>
 <br>
 <a href="https://workdojos.com/cinematographer/tech">next: open-source tech</a>
 </p>

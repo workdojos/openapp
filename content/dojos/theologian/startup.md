@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/theologian/theologian startup.mp3" frameborder="0" style="border:0" >}}<br>
 Idea Name: TheologiTech
 
 Short One Liner: "Connecting theologians and religious organizations through innovative digital solutions."
@@ -70,7 +70,6 @@ Limited budget for marketing and advertising efforts
 Difficulty in attracting and retaining users
 Ensuring the platform remains relevant and up-to-date with the needs of theologians and religious organizations.
 
-<br>
 <br>
 <a href="https://workdojos.com/theologian/tech">next: open-source tech</a>
 </p>

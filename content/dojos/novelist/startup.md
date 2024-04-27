@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<pIdea Name: WriteIt
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/novelist/novelist startup.mp3" frameborder="0" style="border:0" >}}
 
 Short One Liner: "Empowering writers to publish and promote their work digitally"
 
@@ -36,7 +36,6 @@ Estimated 1st Year Cost of Operation: WriteIt estimates a first year cost of ope
 Potential Business Challenges to Look For: WriteIt will need to navigate the competitive self-publishing industry and differentiate itself from other platforms. WriteIt will also need to continuously update and improve its platform and features to meet the changing needs and expectations of its users.
 >
 SARTUP
-<br>
 <br>
 <a href="https://workdojos.com/novelist/tech">next: open-source tech</a>
 </p>

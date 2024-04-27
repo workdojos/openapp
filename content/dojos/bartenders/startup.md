@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/bartenders/bartenders startup.mp3" frameborder="0" style="border:0" >}}<br>
 Idea Name: Bartender Connect
 
 One Liner: A digital platform connecting bartenders and hospitality professionals with event planners and venue managers
@@ -35,7 +35,6 @@ Estimated 1st Year Cost of Operation: $50,000 - $100,000
 
 Potential Business Challenges: Competition from other job-finding platforms, difficulty in onboarding and vetting professionals, securing partnerships with event planning and venue management companies.
 
-<br>
 <br>
 <a href="https://workdojos.com/bartenders/tech">next: open-source tech</a>
 </p>

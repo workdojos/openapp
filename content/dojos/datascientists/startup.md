@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/datascientists/datascientists startup.mp3" frameborder="0" style="border:0" >}}<br>
 Idea Name: DataGenie
 
 Short One Liner: "Empowering data scientists to unlock the full potential of their data with intuitive tools and expert guidance."
@@ -65,7 +65,6 @@ Competition from other data science tools and resources.
 Difficulty in acquiring and retaining customers.
 Keeping up with the rapid pace of change in the data science industry.
 
-<br>
 <br>
 <a href="https://workdojos.com/datascientists/tech">next: open-source tech</a>
 </p>

@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/exhibitionist/exhibitionist startup.mp3" frameborder="0" style="border:0" >}}<br>
 Idea Name: ArtExpo
 Short One Liner: A digital platform connecting artists and event planners for exhibitions and special events.
 Target User Persona: Artists, event planners, galleries, and venues
@@ -23,7 +23,6 @@ Idea Validation Steps: Conduct market research to understand the needs and pain 
 Estimated 1st Year Cost of Operation: $100,000
 Potential Business Challenges: Competition with existing event booking platforms, difficulty gaining traction and user adoption.
 
-<br>
 <br>
 <a href="https://workdojos.com/exhibitionist/tech">next: open-source tech</a>
 </p>

@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/clinician/clinician startup.mp3" frameborder="0" style="border:0" >}}<br>
 Idea Name: MedCheck
 
 One Liner: A digital platform connecting clinicians with patients for remote consultations and healthcare management.
@@ -35,7 +35,6 @@ Estimated 1st Year Cost of Operation: $500,000-$1,000,000
 
 Potential Business Challenges: Competition with other remote healthcare services, difficulty convincing healthcare providers to adopt the platform, regulation and compliance issues in the healthcare industry.
 
-<br>
 <br>
 <a href="https://workdojos.com/clinician/tech">next: open-source tech</a>
 </p>

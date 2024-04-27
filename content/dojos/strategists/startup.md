@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/strategists/strategists startup.mp3" frameborder="0" style="border:0" >}}<br>
 Idea Name: ThinkStrategy
 
 One Liner: A digital consulting firm that helps businesses create and execute effective strategies for growth.
@@ -65,7 +65,6 @@ Competition from other strategic consulting firms
 Difficulty in attracting and retaining expert strategists
 Difficulty in scaling the business as demand grows
 
-<br>
 <br>
 <a href="https://workdojos.com/strategists/tech">next: open-source tech</a>
 </p>

@@ -7,8 +7,8 @@ layout: single2
 
 ---
 
-<br>
-<p>
+<br>s
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/parkranger/parkranger website.mp3" frameborder="0" style="border:0" >}}<br>
 As a web design consultant, I recommend using open-source technology to build your website for several reasons.
 
 First, open-source technology allows for greater flexibility and customization. You can modify the code to fit your specific needs and make changes to the website as your business grows and evolves. This can be especially useful for a park ranger working in the conservation and park management industry, as you may have specific requirements for your website that cannot be met by a pre-designed template.
@@ -26,6 +26,5 @@ Overall, using open-source technology to build your website offers greater flexi
 <br>
 
 <a href="https://workdojos.com/parkranger/overview">next: overview</a>
-<br>
 <br>
 </p>

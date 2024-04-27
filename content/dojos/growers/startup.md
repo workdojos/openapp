@@ -7,7 +7,7 @@ layout: single2
 
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/growers/growers startup.mp3" frameborder="0" style="border:0" >}}<br>
 Idea Name: "Grow Together"
 
 Short One Liner: "Connecting cannabis growers with the resources they need to succeed."
@@ -73,7 +73,6 @@ Competition with other online resources and marketplaces for cannabis growers
 Ensuring the quality and reliability of the information and resources provided
 Building trust and credibility with users in a new and emerging industry.
 
-<br>
 <br>
 <a href="https://workdojos.com/growers/tech">next: open-source tech</a>
 </p>

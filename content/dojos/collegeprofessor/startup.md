@@ -6,7 +6,7 @@ type: page
 layout: single2
 ---
 
-<p>
+{{< iframe width="100%" height="58" src="https://dfgnflfqxk4ps.cloudfront.net/Rosamund/collegeprofessor/collegeprofessor startup.mp3" frameborder="0" style="border:0" >}}<br>
 Idea Name: My Campus Connect
 
 One Liner: Connecting college professors and students in one easy-to-use platform.
@@ -35,7 +35,6 @@ Estimated 1st Year Cost of Operation: $50,000 - $100,000
 
 Potential Business Challenges: Competition from similar platforms, difficulty in acquiring and retaining customers, difficulties in scaling the business.
 
-<br>
 <br>
 <a href="https://workdojos.com/collegeprofessor/tech">next: open-source tech</a>
 </p>
