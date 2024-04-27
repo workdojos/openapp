@@ -20,5 +20,3 @@ When it comes to the best and worst jobs in the Administration & book-keeping in
 <br>
 <a href="https://insights.workdojos.com/administrators/ethics">next: ethical framework</a>
 </p>
-
-<br>{{< iframe width="100%" height="400" src="https://insights.workdojos.com" frameborder="0" style="border:0" >}}<br>
