@@ -66,14 +66,12 @@
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["home", “https://workdojos.com“],
-    [“blog“, “https://blog.workdojos.com“],
-    [“chat“, “https://chat.workmates.live“],
-    [“dashboards“, “https://dashboards.workdojos.com“],    
-    [“youtube“, “https://youtube.com/@dojofans“],
-    [“support“, “https://chat.workmates.live/channel/support“],
-    ["investors", “mailto:admin@workdojos.com“],
-
+    ["Blog", "https://blog.workdojos.com/"],
+    ["Dashboards", "https://dashboards.workdojos.com/"],
+    ["Youtube", "https://youtube.com/@dojofans/"],
+    ["Chat", "https://chat.workmates.live/"],
+    ["Support", "https://chat.workmates.live/channel/support/"],
+    ["Sign Up", "https://blog.workdojos.com/#/portal/signup"],
   ]
 
 [markup]
