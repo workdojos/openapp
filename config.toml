@@ -68,3 +68,8 @@
     ["Advice", "/dojos/administrators/advice.md"],
     ["Overview", "/dojos/administrators/overview.md"],
   ]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
