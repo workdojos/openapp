@@ -20,9 +20,9 @@
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "jane"
+  userName = "jay"
   pcName = "laptop"
-  workDir = "mydir"
+  workDir = "dojos"
   profile = "profile.txt"
 
   # Note: speed at which text is displayed on the terminal
@@ -47,8 +47,10 @@
   # activityDelay = 5 : deprecated
 
   description = """
-  Hi! I am Dojo's AI.
+  Hi! I am DAI.
+  Short for Dojos AI.
   Nice to meet you!
+  To get you to the right place please select from 
   
   """
 
