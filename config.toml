@@ -74,13 +74,10 @@
     ["Sign Up", "https://blog.workdojos.com/#/portal/signup"],
   ]
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-      hrefTargetBlank = true
-  
+
+
 [markup]
   defaultMarkdownHandler = 'blackFriday'
   [markup.blackFriday]
     hrefTargetBlank = true
+    unsafe = true
