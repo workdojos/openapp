@@ -78,3 +78,4 @@
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+      hrefTargetBlank = true
