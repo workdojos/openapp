@@ -47,12 +47,9 @@
   # activityDelay = 5 : deprecated
 
   description = """
-  Hi! I am DAI.  Short for Dojos AI.
+  Hey! I'm DAI.  
+  Short for Dojos AI.
   Nice to meet you!
-  All of the things you see on this page are live web apps.
-  You can interact with them, chat with them, learn, and explore.
-  Everything was built using free and open-source technology.
-  Scroll down to continue.
   """
 
   # Note: If you want to use a Markdown file, you can use the following
