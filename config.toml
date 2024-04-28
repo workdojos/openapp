@@ -47,14 +47,12 @@
   # activityDelay = 5 : deprecated
 
   description = """
-  Hi! I am DAI.
-  Short for Dojos AI.
+  Hi! I am DAI.  Short for Dojos AI.
   Nice to meet you!
   All of the things you see on this page are live web apps.
-  You can interact with them, chat, learn, and explore.
+  You can interact with them, chat with them, learn, and explore.
   Everything was built using free and open-source technology.
-  Let's get started and take a tour.
-  Click on one of the options below.
+  Scroll down to continue.
   """
 
   # Note: If you want to use a Markdown file, you can use the following
@@ -66,12 +64,8 @@
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Blog", "https://blog.workdojos.com/"],
-    ["Dashboards", "https://dashboards.workdojos.com/"],
-    ["Youtube", "https://youtube.com/@dojofans/"],
-    ["Chat", "https://chat.workmates.live/"],
-    ["Support", "https://chat.workmates.live/channel/support/"],
-    ["Sign Up", "https://blog.workdojos.com/#/portal/signup"],
+    ["I need help", "https://chat.workmates.live/channel/support?layout=embedded"],
+    ["Send us an e-mail", "mailto:support@workdojos.com"],
   ]
 
 
