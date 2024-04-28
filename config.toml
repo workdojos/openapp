@@ -79,3 +79,8 @@
     [markup.goldmark.renderer]
       unsafe = true
       hrefTargetBlank = true
+  
+[markup]
+  defaultMarkdownHandler = 'blackFriday'
+  [markup.blackFriday]
+    hrefTargetBlank = true
