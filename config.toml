@@ -30,8 +30,8 @@
   # Note:
   # Note: if you want to enable Mathjax, you need to set it to 0
   # Note: and set "math: true" at front matter in your Markdown file
-  ps1Delay = 0 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
-  stdoutDelay = 0 # stdout speed : [description] , files in Params.Tree
+  ps1Delay = 25 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
+  stdoutDelay = 25 # stdout speed : [description] , files in Params.Tree
   commandDelay = 50 # command speed : cd [workDir] , cat [profile] , tree ./[folderName]/
 
   # terminalDelay = 20 : deprecated
@@ -51,20 +51,13 @@
   Short for Dojos AI.
   Nice to meet you!
   
-  """
-
-  description = """
   Scroll down for a live 
   tour of some of the best
   free and open-source apps.
   
-
-  """
-
- 
   Reach out with questions!
   Or sign up to embark on
-  the 60-day Self-Hosting
+  60-day Self-Hosting
   Challenge!
 
   """
