@@ -51,13 +51,20 @@
   Short for Dojos AI.
   Nice to meet you!
   
+  """
+
+  description = """
   Scroll down for a live 
   tour of some of the best
   free and open-source apps.
   
+
+  """
+
+ 
   Reach out with questions!
   Or sign up to embark on
-  60-day Self-Hosting
+  the 60-day Self-Hosting
   Challenge!
 
   """
