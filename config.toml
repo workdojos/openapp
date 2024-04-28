@@ -20,10 +20,10 @@
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "jay"
-  pcName = "laptop"
-  workDir = "dojos"
-  profile = "profile.txt"
+  userName = "dai"
+  pcName = "dojos"
+  workDir = "ai"
+  profile = "profile"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -68,7 +68,7 @@
 
   [Params.Tree]
   use = true
-  folderName = "my_activity"
+  folderName = "help"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["I need help", "https://chat.workmates.live/channel/support?layout=embedded"],
