@@ -78,8 +78,8 @@
 
 
 
-#[markup]
-#  defaultMarkdownHandler = 'blackFriday'
-#  [markup.blackFriday]
-#    hrefTargetBlank = true
-#    unsafe = true
+[markup]
+  defaultMarkdownHandler = 'blackFriday'
+  [markup.blackFriday]
+    hrefTargetBlank = true
+    unsafe = true
