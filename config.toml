@@ -20,7 +20,7 @@
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "dai"
+  userName = "jay"
   pcName = "dojos"
   workDir = "ai"
   profile = "profile"
@@ -30,9 +30,9 @@
   # Note:
   # Note: if you want to enable Mathjax, you need to set it to 0
   # Note: and set "math: true" at front matter in your Markdown file
-  ps1Delay = 25 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
-  stdoutDelay = 25 # stdout speed : [description] , files in Params.Tree
-  commandDelay = 50 # command speed : cd [workDir] , cat [profile] , tree ./[folderName]/
+  ps1Delay = 20 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
+  stdoutDelay = 20 # stdout speed : [description] , files in Params.Tree
+  commandDelay = 40 # command speed : cd [workDir] , cat [profile] , tree ./[folderName]/
 
   # terminalDelay = 20 : deprecated
 
@@ -56,9 +56,8 @@
   free and open-source apps.
   
   Reach out with questions!
-  Or sign up to embark on
-  a 60-day Self-Hosting
-  Challenge!
+  Or sign up to embark on the
+  60-day Self-Hosting Challenge.
 
   """
 
