@@ -20,8 +20,8 @@
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "jay"
-  pcName = "dojos"
+  userName = "j"
+  pcName = "theopen.app"
   workDir = "ai"
   profile = "profile"
 
@@ -52,14 +52,16 @@
   Short for Dojos AI.
   Nice to meet you!
   
-  Scroll down for a live 
-  tour of some of the best
-  free and open-source apps.
+  Come here looking to learn
+  more about the Open app?
+  Awesome!  
   
-  Reach out with questions!
+  We're working on it!
   
-  Or sign up to embark on the
-  60-day Self-Hosting Challenge.
+  In the meantime, please sign up to stay 
+  informed or reach out directly with
+  questions.  Thanks, DAI
+  
 
   """
 
