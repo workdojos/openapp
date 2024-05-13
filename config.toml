@@ -60,7 +60,7 @@
   
   In the meantime, sign up to stay 
   informed or reach out directly
-  with questions.  Thanks, DAI
+  with questions.  Thanks! --DAI
   
 
   """
@@ -75,7 +75,8 @@
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["Chat now", "https://chat.workmates.live/channel/support?layout=embedded"],
-    ["Send us an e-mail", "mailto:support@workdojos.com"],
+    ["Send e-mail", "mailto:support@workdojos.com"],
+    ["Sign up", "https://blog.workdojos.com/open-app-beta"],
   ]
 
 
