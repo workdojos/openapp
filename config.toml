@@ -48,20 +48,26 @@
 
   description = """
   
-  Hey!  I'm DAI.  
-  Short for Dojos AI.
+  Hey!  I'm OP.  
   Nice to meet you!
   
   Come here looking to learn
   more about the Open app?
-  Awesome!  
+  If so awesome!  
   
-  We're working on it!
-  
-  In the meantime, sign up to stay 
-  informed or reach out directly
-  with questions.  Thanks! --DAI
-  
+  We're just getting going.
+  Our core foundation is free
+  and open-source tech.
+
+  Development and discovery
+  takes time.  We would love
+  for you to join our community.
+
+  We help people rein in the
+  wonders of free and open-source
+  technology.
+
+  Give us a shout!  
 
   """
 
@@ -74,8 +80,7 @@
   folderName = "help"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Send e-mail", "mailto:opensourceancestry@gmail.com"],
-    ["Sign up", "https://blog.workdojos.com/open-app-beta"],
+    ["Send e-mail", "mailto:support@theopen.app"],
   ]
 
 
